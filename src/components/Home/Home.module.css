@@ -1,0 +1,66 @@
+.page {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  min-height: 100vh;
+}
+
+.main {
+  max-width: 800px;
+  margin: auto;
+  padding: 24px;
+}
+
+.h1 {
+  span {
+    display: block;
+    text-align: center;
+
+    &:first-child {
+      font-family: var(--newsreader);
+      font-size: 4rem;
+      line-height: 1.2;
+    }
+
+    &:last-child {
+      font-size: 1.5rem;
+      font-weight: 400;
+      font-style: italic;
+    }
+  }
+}
+
+.separator {
+  text-align: center;
+}
+
+.code {
+  padding: 2px;
+  background: #ddd;
+  border-radius: 2px;
+  font-family: inherit;
+}
+
+.signup {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+
+  input[type="email"] {
+    border: 2px inset #777;
+    border-radius: 2px;
+    padding: 2px 4px;
+  }
+
+  button[type="submit"] {
+    color: white;
+    background: black;
+    border: 2px inset black;
+    border-radius: 2px;
+    cursor: pointer;
+
+    &:hover {
+      background: color-mix(in oklab, black 60%, white 40%);
+    }
+  }
+}

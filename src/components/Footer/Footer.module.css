@@ -1,0 +1,87 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  padding-top: 48px;
+}
+
+.links {
+  margin: 0px 2px;
+  padding: unset;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+
+  li {
+    width: 180px;
+    text-align: right;
+
+    a {
+      padding: 4px 12px;
+      display: block;
+      text-decoration: none;
+      --brdr: color-mix(in oklab, var(--bg) 75%, black 25%);
+      border-width: 2px;
+      border-style: solid;
+      border-color: var(--brdr);
+      border-radius: 2px;
+      background: var(--bg);
+      color: black;
+
+      &:hover {
+        background: var(--brdr);
+        color: white;
+      }
+    }
+
+    &:nth-child(1) {
+      --bg: rgb(255, 75, 75);
+    }
+
+    &:nth-child(2) {
+      --bg: rgb(255, 230, 60);
+    }
+
+    &:nth-child(3) {
+      --bg: rgb(50, 140, 250);
+    }
+
+    &:nth-child(4) {
+      --bg: rgb(50, 165, 100);
+    }
+
+    &:last-child {
+      width: revert;
+      position: relative;
+      text-wrap: nowrap;
+      padding: 4px 12px;
+      color: white;
+      background: color-mix(in oklab, black 60%, white 40%);
+      border-width: 2px;
+      border-style: solid;
+      border-color: black;
+      border-radius: 2px;
+
+      svg {
+        position: absolute;
+        top: -120px;
+        left: 0px;
+      }
+    }
+  }
+}
+
+.books {
+  list-style: none;
+  padding: unset;
+  margin: unset;
+  display: flex;
+  align-items: flex-end;
+  gap: 1px;
+
+  li {
+    border: 2px solid black;
+    border-radius: 2px;
+  }
+}

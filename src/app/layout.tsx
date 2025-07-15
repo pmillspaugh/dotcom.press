@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import CommitMono from "next/font/local";
+import { Newsreader } from "next/font/google";
 import "./globals.css";
 
 const commitMono = CommitMono({
@@ -7,9 +8,13 @@ const commitMono = CommitMono({
   variable: "--commit-mono",
 });
 
+const newsreader = Newsreader({
+  variable: "--newsreader",
+});
+
 export const metadata: Metadata = {
   title: "Dot Com Press",
-  description: "Publishing for the Internet age",
+  description: "Publishing for the Internet age.",
 };
 
 export default function RootLayout({
@@ -18,7 +23,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={commitMono.className}>
+    <html lang="en" className={`${commitMono.variable} ${newsreader.variable}`}>
       <body>{children}</body>
     </html>
   );
