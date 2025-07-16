@@ -9,6 +9,7 @@ const commitMono = CommitMono({
 });
 
 const newsreader = Newsreader({
+  subsets: ["latin"],
   variable: "--newsreader",
 });
 
