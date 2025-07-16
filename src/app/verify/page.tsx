@@ -4,7 +4,7 @@ import Verify from "@/components/Verify";
 export default async function VerifyPage({
   searchParams,
 }: {
-  searchParams: SearchParams;
+  searchParams: Promise<SearchParams>;
 }) {
   const { email, token } = await searchParams;
 
