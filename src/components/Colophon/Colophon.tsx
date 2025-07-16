@@ -1,5 +1,7 @@
+import Image from "next/image";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import logo from "../../app/icon.svg";
 import styles from "./Colophon.module.css";
 
 export default function Colophon() {
@@ -20,12 +22,10 @@ export default function Colophon() {
           word in both contexts!
         </p>
 
-        <h2>Book</h2>
-        <p>
-          <em>Coming soon: Dot Com Press, LLC imprint goes here.</em>
-        </p>
+        <h2>Dot Com Press, LLC</h2>
+        <Image src={logo} alt="Dot Com Press" width={80} height={80} />
 
-        <h2>Website</h2>
+        <h2>dotcom.press</h2>
         <p>
           <em>Coming soon: Tech stack, typography, and the like go here.</em>
         </p>
