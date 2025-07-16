@@ -66,3 +66,12 @@ h5,
 h6 {
   text-wrap: balance;
 }
+
+a {
+  color: black;
+
+  &:hover {
+    color: #555;
+    text-decoration: none;
+  }
+}
