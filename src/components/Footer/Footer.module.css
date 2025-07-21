@@ -21,11 +21,12 @@
       padding: 4px 12px;
       display: block;
       text-decoration: none;
-      --brdr: color-mix(in oklab, var(--bg) 75%, black 25%);
       border-width: 2px;
       border-style: solid;
       border-color: var(--brdr);
       border-radius: 2px;
+      border-left: none;
+      border-right: none;
       background: var(--bg);
       color: black;
 
@@ -37,31 +38,37 @@
 
     &:nth-child(1) {
       --bg: rgb(255, 75, 75);
+      --brdr: rgb(200, 0, 0);
     }
 
     &:nth-child(2) {
       --bg: rgb(255, 230, 60);
+      --brdr: rgb(230, 200, 0);
     }
 
     &:nth-child(3) {
       --bg: rgb(50, 140, 250);
+      --brdr: rgb(0, 115, 250);
     }
 
     &:nth-child(4) {
       --bg: rgb(50, 165, 100);
+      --brdr: rgb(0, 140, 60);
     }
 
     &:last-child {
       width: revert;
       position: relative;
-      text-wrap: nowrap;
+      white-space: nowrap;
       padding: 4px 12px;
       color: white;
-      background: color-mix(in oklab, black 60%, white 40%);
+      background: #333;
       border-width: 2px;
       border-style: solid;
       border-color: black;
       border-radius: 2px;
+      border-left: none;
+      border-right: none;
 
       svg {
         position: absolute;
