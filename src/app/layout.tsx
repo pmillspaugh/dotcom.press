@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import CommitMono from "next/font/local";
+import { Analytics } from "@vercel/analytics/next";
 import { Newsreader } from "next/font/google";
 import "./globals.css";
 
@@ -25,7 +26,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${commitMono.variable} ${newsreader.variable}`}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
