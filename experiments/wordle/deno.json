@@ -1,5 +1,0 @@
-{
-  "imports": {
-    "npm:@vercel/sdk": "npm:@vercel/sdk"
-  }
-}
