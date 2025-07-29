@@ -1,5 +1,5 @@
 import Footer from "@/components/Footer";
-import Signup from "./Signup";
+import Signup from "@/components/Signup";
 import styles from "./Home.module.css";
 
 export default function Home() {

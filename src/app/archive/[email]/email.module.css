@@ -1,0 +1,106 @@
+.archive {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+.email {
+  margin: auto;
+  padding: 24px;
+  max-width: 650px;
+  font-family: var(--newsreader);
+}
+
+.email h1 {
+  font-size: 3rem;
+  line-height: 1.2;
+  margin-bottom: 8px;
+}
+
+.email time {
+  font-family: var(--commit-mono);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  padding-inline: 4px;
+}
+
+.email article {
+  margin-top: 16px;
+  margin-bottom: 32px;
+  padding: 12px 16px;
+  border: 2px solid black;
+  border-radius: 2px;
+  background-image: repeating-linear-gradient(#eee 0% 2%, #fff 2% 4%);
+  background-size: 20px 20px;
+  opacity: 0.9;
+  font-family: var(--commit-mono);
+  font-size: 0.8rem;
+}
+
+.email .content > p:first-of-type::first-letter {
+  font-size: 3.5em;
+  font-weight: bold;
+  float: left;
+  line-height: 0.7;
+  margin-right: 0.1em;
+  margin-top: 0.2em;
+}
+
+.email a[href="/"] {
+  font-style: italic;
+}
+
+.email blockquote {
+  margin-inline: unset;
+  font-family: var(--commit-mono);
+  font-size: 0.8rem;
+  line-height: 1.7;
+  color: #555;
+}
+
+.email code {
+  padding: 2px 4px;
+  font-family: var(--commit-mono);
+  font-size: 0.8rem;
+  background-color: #eee;
+  border-radius: 2px;
+}
+
+.email ol,
+.email ul {
+  padding-left: 16px;
+  text-wrap: pretty;
+}
+
+.email sup {
+  font-size: 0.75em;
+  line-height: 0;
+  padding-left: 1px;
+}
+
+@media (min-width: 768px) {
+  .email article {
+    margin-inline: -12px;
+  }
+
+  .email p,
+  .email li {
+    font-size: 1.25rem;
+  }
+
+  .email blockquote {
+    padding-left: 20px;
+  }
+
+  .email ol,
+  .email ul {
+    padding-left: 40px;
+  }
+
+  .email blockquote p,
+  .email code,
+  .email time,
+  .email article {
+    font-size: 1rem;
+  }
+}

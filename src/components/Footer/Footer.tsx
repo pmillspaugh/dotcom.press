@@ -10,7 +10,7 @@ export default function Footer() {
           <Link href="/about">ABOUT</Link>
         </li>
         <li>
-          <a href="mailto:hello@dotcom.press">CONTACT</a>
+          <Link href="/archive">ARCHIVE</Link>
         </li>
         <li>
           <Link href="/research">RESEARCH</Link>

@@ -1,0 +1,41 @@
+.archive {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+.main {
+  margin: auto;
+  padding: 24px;
+  max-width: 650px;
+}
+
+.h1 {
+  font-family: var(--newsreader);
+  font-size: 3rem;
+}
+
+.info {
+  margin-top: 32px;
+}
+
+.ul {
+  padding-left: unset;
+  margin-top: 40px;
+  list-style: none;
+}
+
+.li {
+  line-height: 1.2;
+}
+
+.li a {
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: var(--newsreader);
+  text-decoration: none;
+}
+
+.li time {
+  display: block;
+}

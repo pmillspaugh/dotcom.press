@@ -1,16 +1,16 @@
-.page {
+.pg {
   display: grid;
   grid-template-rows: auto 1fr auto;
   min-height: 100vh;
 }
 
-.main {
+.md {
   margin: auto;
   padding: 24px;
   max-width: 650px;
 }
 
-.h1 {
+.md h1 {
   font-family: var(--newsreader);
   font-size: 3rem;
 }

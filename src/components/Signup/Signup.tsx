@@ -1,8 +1,8 @@
 "use client";
 
-import { FormEvent, useState } from "react";
 import { VisuallyHidden } from "@radix-ui/react-visually-hidden";
-import styles from "./Home.module.css";
+import { FormEvent, useState } from "react";
+import styles from "./Signup.module.css";
 
 export default function Signup() {
   const [email, setEmail] = useState("");
@@ -46,7 +46,7 @@ export default function Signup() {
             required
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            placeholder="you@domain.email"
+            placeholder="you@cool.email"
           />
           <button type="submit" disabled={pending}>
             {pending ? "submit.ing" : "submit.now"}
