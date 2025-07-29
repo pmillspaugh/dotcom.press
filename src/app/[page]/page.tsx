@@ -5,9 +5,13 @@ import { marked } from "marked";
 import path from "path";
 import "./page.css";
 
-export default async function Page({ params }: { params: { page: string } }) {
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ page: string }>;
+}) {
   const dir = path.join(process.cwd(), "src/app/_pages");
-  const filePath = path.join(dir, `${params.page}.md`);
+  const filePath = path.join(dir, `${(await params).page}.md`);
   const buffer = await readFile(filePath);
   const html = marked(buffer.toString());
 

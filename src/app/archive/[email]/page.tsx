@@ -7,7 +7,11 @@ import Link from "next/link";
 import path from "path";
 import styles from "./email.module.css";
 
-export default async function Email({ params }: { params: { email: string } }) {
+export default async function Email({
+  params,
+}: {
+  params: Promise<{ email: string }>;
+}) {
   const dir = path.join(process.cwd(), "src/app/_archive");
   const file = path.join(dir, `${(await params).email}.md`);
   const { data, content } = matter.read(file);
