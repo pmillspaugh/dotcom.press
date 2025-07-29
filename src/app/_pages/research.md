@@ -20,6 +20,8 @@ _Books include Bookshop.org affiliate links, so if you buy one I'll earn a 10% c
 - [If you use a domain for something popular, it will get squatted if you don't renew it](https://macwright.com/2024/10/16/domain-second-thoughts), Tom MacWright
 - [Billions Registered](https://www.wired.com/1994/10/mcdonalds/), Josh Quittner
 - [The Perils of an .xyz Domain](https://spotvirtual.com/blog/the-perils-of-an-xyz-domain), Gordon Hempton
+- [How I Got the Chess.com Domain Name](https://www.chess.com/blog/erik/how-i-got-the-chess-com-domain-name), Erik Allebest
+- [Google is shuttering its URL shortening service, goo.gl](https://www.theverge.com/2018/3/31/17184164/google-alphabet-url-shortening-service-closed)
 
 ## Technical specs
 
@@ -51,3 +53,5 @@ I also read and listened to a stack of resources on publishing. If you are a fir
 - [Blog Your Way to a Book Deal of Bestseller with Jane Friedman](https://podcasts.apple.com/us/podcast/published-by-greenleaf-book-group/id1229367946?i=1000666747193), Published
 - [Be A Non-Fiction Author with Jane Friedman](https://podcasts.apple.com/us/podcast/the-ultimate-fun-jobs-podcast/id1712235041?i=1000705824496), UFJ Podcast
 - [Is Print-on-Demand a Class Issue? with Jane Friedman](https://podcasts.apple.com/us/podcast/a-peoples-guide-to-publishing/id1020819314?i=1000701097978), A People's Guide to Publishing
+- [Jane Friedman: The Work of a Writer-Entrepreneur](https://podcasts.apple.com/us/podcast/simply-write-w-polly-campbell/id1649373973?i=1000700558662), Simply Write
+- [Jane Friedman — The Publishing Industry is Changing](https://podcasts.apple.com/us/podcast/london-writers-salon/id1618617760?i=1000710786641)
