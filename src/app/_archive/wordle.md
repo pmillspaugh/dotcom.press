@@ -1,6 +1,6 @@
 ---
 subject: Domains by Wordle
-date: 7/29/25
+date: 7/30/25
 ---
 
 Back in December, I wrote a short blog post titled [dot com et al](https://www.petemillspaugh.com/dot-com), planting a few of the seeds that are now growing into a book. I was writing about how all the short `.com` domains are already taken and wondering where that leaves us. I wrote:
@@ -51,7 +51,7 @@ It's a bummer that so many of these pithy domains are parked by squattors runnin
 
 ## Reply
 
-Thanks for reading! If you have a minute, reply and/or forward to a friend who might be interested. I'll shape the book around what people are interested in, so I'd love to hear what resonates, what doesn't, and what open questions you have. Or just reply with your Wordle score from today (I barely escaped with a 6/6).
+Thanks for reading! If you have a minute, reply and/or forward to a friend who might be interested. I'll shape the book around what people are interested in, so I'd love to hear what resonates, what doesn't, and what open questions you have. Or just reply with your Wordle score from today (I barely escaped with a 5/6).
 
 ## Footnotes
 
