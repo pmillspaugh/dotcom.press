@@ -11,6 +11,8 @@ export interface Domain {
   notes: string | null;
 }
 
+// TODO: export table of results
+
 export default function DomainSearch() {
   return (
     <div className={styles.page}>
