@@ -35,7 +35,7 @@ So most of these domains are unused and held by investors waiting for their big 
 
 ## Asking
 
-Not a single Wordle domain is available for purchase directly, but we can turn to the aftermarket for the ones that are parked. Manually searching asking prices one by one would take too long, so I worked with a domain provider to search programmatically<sup>6</sup>. Here's what I dug up:
+Not a single Wordle domain is available for purchase directly, but we can turn to the aftermarket for the ones that are parked. Manually searching asking prices one by one would take too long, so I worked with a domain provider ([instantdomainsearch.com](https://instantdomainsearch.com/)) to search programmatically<sup>6</sup>. Here's what I dug up:
 
 - 234 of the 2,315 domains (~10%) are listed for sale on the aftermarket
 - The average asking price is just under $600k
@@ -65,4 +65,4 @@ _(4) For the curious programmers among you, I added the 500ms delay to play nice
 
 _(5) To do this, I used heuristics like: does the request return a 404 or redirect? Does it include a title and meta description? Is the response content sufficiently large? For future experiments, I may try feeding each HTML response into a classifier LLM to better gauge legitimacy._
 
-_(6) The domain search provider I worked with has not yet made their API public, but I'll plug it and share my code when they do._
+_(6) [instantdomainsearch.com](https://instantdomainsearch.com/) has not yet released their API publicly at the time of this writing, but I had early access and got the OK to share it here._
