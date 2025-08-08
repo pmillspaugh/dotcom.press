@@ -29,6 +29,10 @@
   line-height: 1.2;
 }
 
+.li:not(:last-child) {
+  margin-bottom: 24px;
+}
+
 .li a {
   font-size: 1.5rem;
   font-weight: 700;
