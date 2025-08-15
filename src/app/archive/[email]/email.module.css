@@ -37,6 +37,10 @@
   font-size: 0.8rem;
 }
 
+.email audio {
+  width: 100%;
+}
+
 .email .content > p:first-of-type::first-letter {
   font-size: 3.5em;
   font-weight: bold;
@@ -44,10 +48,6 @@
   line-height: 0.7;
   margin-right: 0.1em;
   margin-top: 0.2em;
-}
-
-.email a[href="/"] {
-  font-style: italic;
 }
 
 .email blockquote {
