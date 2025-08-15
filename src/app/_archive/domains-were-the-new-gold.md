@@ -1,5 +1,6 @@
 ---
 subject: Domains were the new gold
+subtitle: Has the golden era of domain investing already passed?
 date: 8/8/25
 ---
 
