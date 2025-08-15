@@ -34,12 +34,27 @@
 }
 
 .li a {
+  text-decoration: none;
+}
+
+.li h2 {
+  margin-bottom: unset;
+  margin-left: -2px;
   font-size: 1.5rem;
   font-weight: 700;
   font-family: var(--newsreader);
   text-decoration: none;
 }
 
+.li p {
+  margin-top: 0;
+  margin-bottom: 8px;
+  margin-left: -2px;
+  font-style: italic;
+  line-height: 1.4;
+}
+
 .li time {
-  display: block;
+  color: #555;
+  font-size: 0.875rem;
 }

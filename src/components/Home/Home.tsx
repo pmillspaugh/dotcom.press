@@ -8,7 +8,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.h1}>
           <span>dot com et al.</span>
-          <span>The secret life of Internet domains</span>
+          <span>The secret life of internet domains</span>
         </h1>
         <p className={styles.separator}>...</p>
         <p>
@@ -20,10 +20,9 @@ export default function Home() {
         <p>
           Anguilla, the small island nation, earns over 20% of its revenue on
           sales of <code className={styles.code}>.ai</code> domain names. When
-          Yugoslavia split in the early 90s, a group of Slovenian academics
-          conducted a literal heist of Serbia's IT building to steal domain
-          records for the <code className={styles.code}>.yu</code> top-level
-          domain (TLD).
+          Yugoslavia split in the 90s, a group of Slovenian scientists conducted
+          a literal heist to steal domain records for the{" "}
+          <code className={styles.code}>.yu</code> top-level domain (TLD).
         </p>
         <p>
           Ten years ago, Paul Graham argued in his essay{" "}

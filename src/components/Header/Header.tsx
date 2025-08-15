@@ -9,7 +9,7 @@ export default function Header() {
       <Link href="/" className={styles.logo}>
         <Image src={logo} alt="Dot Com Press" width={48} height={48} />
       </Link>
-      <p className={styles.tagline}>Publishing for the Internet age.</p>
+      <p className={styles.tagline}>Publishing for the internet age.</p>
     </header>
   );
 }

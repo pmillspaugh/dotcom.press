@@ -1,7 +1,7 @@
-import type { Metadata } from "next";
-import CommitMono from "next/font/local";
 import { Analytics } from "@vercel/analytics/next";
+import type { Metadata } from "next";
 import { Newsreader } from "next/font/google";
+import CommitMono from "next/font/local";
 import "./globals.css";
 
 const commitMono = CommitMono({
@@ -16,7 +16,7 @@ const newsreader = Newsreader({
 
 export const metadata: Metadata = {
   title: "Dot Com Press",
-  description: "Publishing for the Internet age.",
+  description: "Publishing for the internet age.",
 };
 
 export default function RootLayout({

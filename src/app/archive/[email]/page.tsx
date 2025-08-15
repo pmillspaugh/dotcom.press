@@ -12,8 +12,9 @@ export default async function Email({
 }: {
   params: Promise<{ email: string }>;
 }) {
+  const slug = (await params).email;
   const dir = path.join(process.cwd(), "src/app/_archive");
-  const file = path.join(dir, `${(await params).email}.md`);
+  const file = path.join(dir, `${slug}.md`);
   const { data, content } = matter.read(file);
   const { subject, date } = data;
   const html = await marked(content);
@@ -31,9 +32,10 @@ export default async function Email({
         <time dateTime={new Date(date).toISOString()}>{formattedDate}</time>
         <article>
           Visit the <Link href="/archive">archive</Link> to read past emails and
-          sign up for future ones ahead of the{" "}
-          <Link href="/">dot com et al</Link> book launch.{" "}
+          sign up for future ones ahead of the <em>dot com et al</em> book
+          launch.{" "}
         </article>
+        <audio controls src={`/${slug}.m4a`} />
         <div
           dangerouslySetInnerHTML={{ __html: html }}
           className={styles.content}
