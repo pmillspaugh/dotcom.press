@@ -1,5 +1,6 @@
 ---
 subject: Domains by Wordle
+subtitle: Using Wordle's original word list to gauge domain availability, use, and aftermarket pricing
 date: 7/30/25
 ---
 
