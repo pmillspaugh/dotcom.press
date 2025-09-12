@@ -1,0 +1,11 @@
+.cincy {
+  max-width: 600px;
+  margin-inline: auto;
+  padding-inline: 16px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
