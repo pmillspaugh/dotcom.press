@@ -13,7 +13,7 @@ export default async function Email({
   params: Promise<{ email: string }>;
 }) {
   const slug = (await params).email;
-  const dir = path.join(process.cwd(), "src/app/_archive");
+  const dir = path.join(process.cwd(), "src/app/archive/_archive");
   const file = path.join(dir, `${slug}.md`);
   const { data, content } = matter.read(file);
   const { subject, date } = data;
@@ -47,7 +47,7 @@ export default async function Email({
 }
 
 export async function generateStaticParams() {
-  const dir = path.join(process.cwd(), "src/app/_archive");
+  const dir = path.join(process.cwd(), "src/app/archive/_archive");
   const emails = await readdir(dir);
   return emails.map((email) => ({ email: email.replace(/\.md$/, "") }));
 }

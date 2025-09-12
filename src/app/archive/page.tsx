@@ -8,7 +8,7 @@ import path from "path";
 import styles from "./archive.module.css";
 
 export default async function Archive() {
-  const dir = path.join(process.cwd(), "src/app/_archive");
+  const dir = path.join(process.cwd(), "src/app/archive/_archive");
   const archive = (await readdir(dir))
     .map((email) => {
       const file = path.join(dir, email);
