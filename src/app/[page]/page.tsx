@@ -10,7 +10,7 @@ export default async function Page({
 }: {
   params: Promise<{ page: string }>;
 }) {
-  const dir = path.join(process.cwd(), "src/app/_pages");
+  const dir = path.join(process.cwd(), "src/app/[page]/_pages");
   const filePath = path.join(dir, `${(await params).page}.md`);
   const buffer = await readFile(filePath);
   const html = marked(buffer.toString());
@@ -25,7 +25,7 @@ export default async function Page({
 }
 
 export async function generateStaticParams() {
-  const dir = path.join(process.cwd(), "src/app/_pages");
+  const dir = path.join(process.cwd(), "src/app/[page]/_pages");
   const pages = await readdir(dir);
   return pages.map((page) => ({ page: page.replace(/\.md$/, "") }));
 }
