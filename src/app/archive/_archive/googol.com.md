@@ -18,7 +18,7 @@ Google is relevant to the domain world in many ways: as a (former) registrar, as
 
 So Google is nerdily named after its homophone, _googol_, which represents ten to the power of one hundred<sup>2</sup>. Google also uses the scientific notationally named `1e100.net` domain to identify its servers’ IP addresses.
 
-In 2015, Google accidentally let `google.com` expire, and ex-Googler Sanmay Ved [purchased it](https://www.linkedin.com/pulse/i-purchased-domain-googlecom-via-google-domains-sanmay-ved) right there on Google Domains for just $12 at 1:20am (really conjuring the hooded hacker image in the middle of the night). He owned it for all of one minute before Google reversed the transaction. Google [paid him](https://security.googleblog.com/2016/01/google-security-rewards-2015-year-in.html) $6,006.13 for the ordeal because the number “spelled-out Google, numerically (squint a little and you’ll see it!).“
+In 2015, Google accidentally let `google.com` expire, and ex-Googler Sanmay Ved [purchased it](https://www.linkedin.com/pulse/i-purchased-domain-googlecom-via-google-domains-sanmay-ved) right there on Google Domains for just $12 at 1:20am (really conjuring the hooded hacker image in the middle of the night). He owned it for all of one minute before Google reversed the transaction. Google [paid him](https://security.googleblog.com/2016/01/google-security-rewards-2015-year-in.html) $6,006.13 for the ordeal because the number “spelled-out Google, numerically (squint a little and you’ll see it!).”
 
 > Google Security has now contacted me, and has offered me a $x reward in a very Googley way. -Sanmay
 
