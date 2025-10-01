@@ -5,10 +5,12 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
+    "postbuild": "npx pagefind --site .next --output-path .next/static/chunks/app/pagefind",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "@base-ui-components/react": "^1.0.0-beta.4",
     "@radix-ui/react-visually-hidden": "^1.2.3",
     "@vercel/analytics": "^1.5.0",
     "gray-matter": "^4.0.3",
@@ -24,6 +26,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.3.4",
+    "pagefind": "^1.4.0",
     "typescript": "^5"
   }
 }
