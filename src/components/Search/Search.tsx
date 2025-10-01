@@ -70,7 +70,7 @@ export default function Search() {
     e.preventDefault();
     setQuery(e.target.value);
 
-    if (query === "") {
+    if (e.target.value === "") {
       setResults([]);
       return;
     }
@@ -105,7 +105,7 @@ export default function Search() {
               name="search"
               id="search"
               value={query}
-              onChange={handleSearch}
+              onInput={handleSearch}
             />
           </form>
           <ul className={styles.results}>

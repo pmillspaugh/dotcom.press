@@ -18,7 +18,7 @@ export default async function Archive() {
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   return (
-    <div className={styles.archive}>
+    <div className={styles.archive} data-pagefind-ignore>
       <Header />
       <main className={styles.main}>
         <h1 className={styles.h1}>Archive</h1>
