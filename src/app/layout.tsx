@@ -1,3 +1,4 @@
+import Search from "@/components/Search";
 import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Newsreader } from "next/font/google";
@@ -27,8 +28,11 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${commitMono.variable} ${newsreader.variable}`}>
       <body>
-        {children}
+        {/* Nest components in root so that portals render atop stack */}
+        {/* https://base-ui.com/react/overview/quick-start#set-up-portals */}
+        <div className="root">{children}</div>
         <Analytics />
+        <Search />
       </body>
     </html>
   );

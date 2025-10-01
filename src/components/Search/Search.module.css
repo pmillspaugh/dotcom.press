@@ -1,0 +1,123 @@
+.backdrop {
+  position: fixed;
+  inset: 0;
+  backdrop-filter: blur(5px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 24rem;
+  max-width: calc(100vw - 3rem);
+  margin-top: -2rem;
+  border: 1.5px solid black;
+  border-radius: 2px;
+  background-color: white;
+  color: black;
+}
+
+.title {
+  margin: 0;
+  padding: 2px 8px;
+  border-bottom: 1.5px solid black;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.description {
+  margin: 0;
+  padding: 16px 8px;
+}
+
+.form {
+  display: flex;
+}
+
+.form > input {
+  flex-grow: 1;
+  padding: 2px 8px;
+  border: none;
+  border-top: 1.5px solid black;
+  background: none;
+  outline: none;
+}
+
+.form > label {
+  padding: 2px 8px;
+  border: none;
+  border-top: 1.5px solid black;
+  border-right: 1.5px solid black;
+}
+
+.close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 2px 8px;
+  border: none;
+  border-left: 1.5px solid black;
+  background: none;
+  outline: none;
+  cursor: pointer;
+
+  &:hover {
+    background-color: rgb(255, 75, 75);
+    color: black;
+  }
+}
+
+.form > input:focus,
+.close:focus {
+  background-color: rgb(50, 140, 250);
+  color: white;
+}
+
+.results {
+  margin: 0;
+  padding: 0;
+  border-top: 1.5px solid black;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.results > li {
+  list-style: none;
+}
+
+.results > p {
+  margin: 0;
+  padding: 16px 8px;
+}
+
+.results > li > a {
+  display: block;
+  text-decoration: none;
+  padding: 8px;
+  border-top: 1.5px solid black;
+}
+
+.results > li > a:focus {
+  outline: none;
+  background-color: rgb(50, 140, 250);
+  color: white;
+}
+
+.results > li > a > h2 {
+  margin: 0;
+  font-family: var(--newsreader);
+  font-size: 1.25rem;
+}
+
+.results > li > a > p {
+  margin: 0;
+  font-family: var(--newsreader);
+}
+
+.results > li > a > p > mark {
+  background-color: rgb(255, 230, 60);
+  padding: 3px;
+  border-radius: 2px;
+}

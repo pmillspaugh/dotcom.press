@@ -78,3 +78,9 @@ a:hover {
   color: #555;
   text-decoration: none;
 }
+
+/* Ensure portals render atop stack */
+/* https://base-ui.com/react/overview/quick-start#set-up-portals */
+.root {
+  isolation: isolate;
+}

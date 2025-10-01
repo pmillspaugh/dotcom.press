@@ -5,7 +5,7 @@ import styles from "./cincy.module.css";
 
 export default async function Cincy() {
   return (
-    <div className={styles.cincy}>
+    <div className={styles.cincy} data-pagefind-ignore>
       <main>
         <h1>StartupCincy Week 2025</h1>
         <p>
