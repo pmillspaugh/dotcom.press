@@ -112,7 +112,7 @@ export default function Search() {
             {query && !results.length && <p>Nothing but dust.</p>}
             {results.map((result) => (
               <li key={result.id}>
-                <Result result={result} />
+                <Result result={result} setIsOpen={setIsOpen} />
               </li>
             ))}
           </ul>
@@ -123,7 +123,13 @@ export default function Search() {
   );
 }
 
-const Result = ({ result }: { result: PagefindResult }) => {
+const Result = ({
+  result,
+  setIsOpen,
+}: {
+  result: PagefindResult;
+  setIsOpen: (open: boolean) => void;
+}) => {
   const [data, setData] = useState<PagefindResultData | null>(null);
   const [path, setPath] = useState("");
 
@@ -150,7 +156,7 @@ const Result = ({ result }: { result: PagefindResult }) => {
 
   return (
     <>
-      <Link href={path}>
+      <Link href={path} onClick={() => setIsOpen(false)}>
         <h2>{data.meta.title}</h2>
         <p dangerouslySetInnerHTML={{ __html: resultHtml }} />
       </Link>

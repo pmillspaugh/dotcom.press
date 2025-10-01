@@ -5,7 +5,7 @@ import styles from "./Home.module.css";
 
 export default function Home() {
   return (
-    <div className={styles.page}>
+    <div className={styles.page} data-pagefind-ignore>
       <main className={styles.main}>
         <h1 className={styles.h1}>
           <span>dot com et al.</span>
