@@ -1,0 +1,4955 @@
+[
+  {
+    "domain": ".aaa",
+    "type": "generic",
+    "registry": "American Automobile Association, Inc."
+  },
+  { "domain": ".aarp", "type": "generic", "registry": "AARP" },
+  { "domain": ".abarth", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".abb", "type": "generic", "registry": "ABB Ltd" },
+  {
+    "domain": ".abbott",
+    "type": "generic",
+    "registry": "Abbott Laboratories, Inc."
+  },
+  { "domain": ".abbvie", "type": "generic", "registry": "AbbVie Inc." },
+  {
+    "domain": ".abc",
+    "type": "generic",
+    "registry": "Disney Enterprises, Inc."
+  },
+  { "domain": ".able", "type": "generic", "registry": "Able Inc." },
+  {
+    "domain": ".abogado",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".abudhabi",
+    "type": "generic",
+    "registry": "Abu Dhabi Systems and Information Centre"
+  },
+  {
+    "domain": ".ac",
+    "type": "country-code",
+    "registry": "Internet Computer Bureau Limited"
+  },
+  { "domain": ".academy", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".accenture", "type": "generic", "registry": "Accenture plc" },
+  {
+    "domain": ".accountant",
+    "type": "generic",
+    "registry": "dot Accountant Limited"
+  },
+  {
+    "domain": ".accountants",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  {
+    "domain": ".aco",
+    "type": "generic",
+    "registry": "ACO Severin Ahlmann GmbH & Co. KG"
+  },
+  { "domain": ".active", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".actor", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".ad", "type": "country-code", "registry": "Andorra Telecom" },
+  { "domain": ".adac", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".ads",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".adult", "type": "generic", "registry": "ICM Registry AD LLC" },
+  {
+    "domain": ".ae",
+    "type": "country-code",
+    "registry": "Telecommunications and Digital Government Regulatory Authority (TDRA)"
+  },
+  {
+    "domain": ".aeg",
+    "type": "generic",
+    "registry": "Aktiebolaget Electrolux"
+  },
+  {
+    "domain": ".aero",
+    "type": "sponsored",
+    "registry": "Societe Internationale de Telecommunications Aeronautique (SITA INC USA)"
+  },
+  {
+    "domain": ".aetna",
+    "type": "generic",
+    "registry": "Aetna Life Insurance Company"
+  },
+  {
+    "domain": ".af",
+    "type": "country-code",
+    "registry": "Ministry of Communications and IT"
+  },
+  {
+    "domain": ".afamilycompany",
+    "type": "generic",
+    "registry": "Not assigned"
+  },
+  {
+    "domain": ".afl",
+    "type": "generic",
+    "registry": "Australian Football League"
+  },
+  {
+    "domain": ".africa",
+    "type": "generic",
+    "registry": "ZA Central Registry NPC trading as Registry.Africa"
+  },
+  {
+    "domain": ".ag",
+    "type": "country-code",
+    "registry": "UHSA School of Medicine"
+  },
+  {
+    "domain": ".agakhan",
+    "type": "generic",
+    "registry": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  { "domain": ".agency", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".ai",
+    "type": "country-code",
+    "registry": "Government of Anguilla"
+  },
+  {
+    "domain": ".aig",
+    "type": "generic",
+    "registry": "American International Group, Inc."
+  },
+  { "domain": ".aigo", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".airbus", "type": "generic", "registry": "Airbus S.A.S." },
+  { "domain": ".airforce", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".airtel",
+    "type": "generic",
+    "registry": "Bharti Airtel Limited"
+  },
+  {
+    "domain": ".akdn",
+    "type": "generic",
+    "registry": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "domain": ".al",
+    "type": "country-code",
+    "registry": "Electronic and Postal Communications Authority - AKEP"
+  },
+  { "domain": ".alfaromeo", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".alibaba",
+    "type": "generic",
+    "registry": "Alibaba Group Holding Limited"
+  },
+  {
+    "domain": ".alipay",
+    "type": "generic",
+    "registry": "Alibaba Group Holding Limited"
+  },
+  {
+    "domain": ".allfinanz",
+    "type": "generic",
+    "registry": "Allfinanz Deutsche Vermögensberatung Aktiengesellschaft"
+  },
+  {
+    "domain": ".allstate",
+    "type": "generic",
+    "registry": "Allstate Fire and Casualty Insurance Company"
+  },
+  { "domain": ".ally", "type": "generic", "registry": "Ally Financial Inc." },
+  { "domain": ".alsace", "type": "generic", "registry": "REGION GRAND EST" },
+  { "domain": ".alstom", "type": "generic", "registry": "ALSTOM" },
+  {
+    "domain": ".am",
+    "type": "country-code",
+    "registry": "'Internet Society' Non-governmental Organization"
+  },
+  {
+    "domain": ".amazon",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".americanexpress",
+    "type": "generic",
+    "registry": "American Express Travel Related Services Company, Inc."
+  },
+  { "domain": ".americanfamily", "type": "generic", "registry": "AmFam, Inc." },
+  {
+    "domain": ".amex",
+    "type": "generic",
+    "registry": "American Express Travel Related Services Company, Inc."
+  },
+  { "domain": ".amfam", "type": "generic", "registry": "AmFam, Inc." },
+  {
+    "domain": ".amica",
+    "type": "generic",
+    "registry": "Amica Mutual Insurance Company"
+  },
+  {
+    "domain": ".amsterdam",
+    "type": "generic",
+    "registry": "Gemeente Amsterdam"
+  },
+  { "domain": ".an", "type": "country-code", "registry": "Not assigned" },
+  { "domain": ".analytics", "type": "generic", "registry": "Campus IP LLC" },
+  {
+    "domain": ".android",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".anquan",
+    "type": "generic",
+    "registry": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  {
+    "domain": ".anz",
+    "type": "generic",
+    "registry": "Australia and New Zealand Banking Group Limited"
+  },
+  {
+    "domain": ".ao",
+    "type": "country-code",
+    "registry": "Ministry of Telecommunications and Information Technologies (MTTI)"
+  },
+  { "domain": ".aol", "type": "generic", "registry": "Yahoo Inc." },
+  { "domain": ".apartments", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".app",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".apple", "type": "generic", "registry": "Apple Inc." },
+  {
+    "domain": ".aq",
+    "type": "country-code",
+    "registry": "Antarctica Network Information Centre Limited"
+  },
+  { "domain": ".aquarelle", "type": "generic", "registry": "Aquarelle.com" },
+  {
+    "domain": ".ar",
+    "type": "country-code",
+    "registry": "Presidencia de la Nación , Secretaría Legal y Técnica"
+  },
+  { "domain": ".arab", "type": "generic", "registry": "League of Arab States" },
+  {
+    "domain": ".aramco",
+    "type": "generic",
+    "registry": "Aramco Services Company"
+  },
+  {
+    "domain": ".archi",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".army", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".arpa",
+    "type": "infrastructure",
+    "registry": "Internet Architecture Board (IAB)"
+  },
+  {
+    "domain": ".art",
+    "type": "generic",
+    "registry": "UK Creative Ideas Limited"
+  },
+  {
+    "domain": ".arte",
+    "type": "generic",
+    "registry": "Association Relative à la Télévision Européenne G.E.I.E."
+  },
+  { "domain": ".as", "type": "country-code", "registry": "AS Domain Registry" },
+  { "domain": ".asda", "type": "generic", "registry": "Asda Stores Limited" },
+  {
+    "domain": ".asia",
+    "type": "sponsored",
+    "registry": "DotAsia Organisation Ltd."
+  },
+  { "domain": ".associates", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".at", "type": "country-code", "registry": "nic.at GmbH" },
+  { "domain": ".athleta", "type": "generic", "registry": "The Gap, Inc." },
+  { "domain": ".attorney", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".au",
+    "type": "country-code",
+    "registry": ".au Domain Administration (auDA)"
+  },
+  { "domain": ".auction", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".audi",
+    "type": "generic",
+    "registry": "AUDI Aktiengesellschaft"
+  },
+  {
+    "domain": ".audible",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".audio", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".auspost",
+    "type": "generic",
+    "registry": "Australian Postal Corporation"
+  },
+  {
+    "domain": ".author",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".auto", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".autos", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".avianca", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".aw", "type": "country-code", "registry": "SETAR" },
+  { "domain": ".aws", "type": "generic", "registry": "AWS Registry LLC" },
+  {
+    "domain": ".ax",
+    "type": "country-code",
+    "registry": "Ålands landskapsregering"
+  },
+  {
+    "domain": ".axa",
+    "type": "generic",
+    "registry": "AXA Group Operations SAS"
+  },
+  { "domain": ".az", "type": "country-code", "registry": "IntraNS" },
+  {
+    "domain": ".azure",
+    "type": "generic",
+    "registry": "Microsoft Corporation"
+  },
+  {
+    "domain": ".ba",
+    "type": "country-code",
+    "registry": "Universtiy Telinformatic Centre (UTIC)"
+  },
+  { "domain": ".baby", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".baidu", "type": "generic", "registry": "Baidu, Inc." },
+  { "domain": ".banamex", "type": "generic", "registry": "Citigroup Inc." },
+  {
+    "domain": ".bananarepublic",
+    "type": "generic",
+    "registry": "Not assigned"
+  },
+  { "domain": ".band", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".bank",
+    "type": "generic",
+    "registry": "fTLD Registry Services, LLC"
+  },
+  {
+    "domain": ".bar",
+    "type": "generic",
+    "registry": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+  },
+  {
+    "domain": ".barcelona",
+    "type": "generic",
+    "registry": "Municipi de Barcelona"
+  },
+  {
+    "domain": ".barclaycard",
+    "type": "generic",
+    "registry": "Barclays Bank PLC"
+  },
+  { "domain": ".barclays", "type": "generic", "registry": "Barclays Bank PLC" },
+  {
+    "domain": ".barefoot",
+    "type": "generic",
+    "registry": "Gallo Vineyards, Inc."
+  },
+  { "domain": ".bargains", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".baseball",
+    "type": "generic",
+    "registry": "MLB Advanced Media DH, LLC"
+  },
+  {
+    "domain": ".basketball",
+    "type": "generic",
+    "registry": "Fédération Internationale de Basketball (FIBA)"
+  },
+  { "domain": ".bauhaus", "type": "generic", "registry": "Werkhaus GmbH" },
+  { "domain": ".bayern", "type": "generic", "registry": "Bayern Connect GmbH" },
+  {
+    "domain": ".bb",
+    "type": "country-code",
+    "registry": "Ministry of Innovation, Science and Smart Technology"
+  },
+  {
+    "domain": ".bbc",
+    "type": "generic",
+    "registry": "British Broadcasting Corporation"
+  },
+  { "domain": ".bbt", "type": "generic", "registry": "BB&T Corporation" },
+  {
+    "domain": ".bbva",
+    "type": "generic",
+    "registry": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A."
+  },
+  {
+    "domain": ".bcg",
+    "type": "generic",
+    "registry": "The Boston Consulting Group, Inc."
+  },
+  { "domain": ".bcn", "type": "generic", "registry": "Municipi de Barcelona" },
+  {
+    "domain": ".bd",
+    "type": "country-code",
+    "registry": "Posts and Telecommunications Division"
+  },
+  {
+    "domain": ".be",
+    "type": "country-code",
+    "registry": "DNS Belgium vzw/asbl"
+  },
+  {
+    "domain": ".beats",
+    "type": "generic",
+    "registry": "Beats Electronics, LLC"
+  },
+  { "domain": ".beauty", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".beer",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".bentley", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".berlin",
+    "type": "generic",
+    "registry": "dotBERLIN GmbH & Co. KG"
+  },
+  { "domain": ".best", "type": "generic", "registry": "BestTLD Pty Ltd" },
+  {
+    "domain": ".bestbuy",
+    "type": "generic",
+    "registry": "BBY Solutions, Inc."
+  },
+  {
+    "domain": ".bet",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".bf",
+    "type": "country-code",
+    "registry": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)"
+  },
+  { "domain": ".bg", "type": "country-code", "registry": "Register.BG" },
+  {
+    "domain": ".bh",
+    "type": "country-code",
+    "registry": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "domain": ".bharti",
+    "type": "generic",
+    "registry": "Bharti Enterprises (Holding) Private Limited"
+  },
+  {
+    "domain": ".bi",
+    "type": "country-code",
+    "registry": "Centre National de l'Informatique"
+  },
+  {
+    "domain": ".bible",
+    "type": "generic",
+    "registry": "American Bible Society"
+  },
+  { "domain": ".bid", "type": "generic", "registry": "dot Bid Limited" },
+  { "domain": ".bike", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".bing", "type": "generic", "registry": "Microsoft Corporation" },
+  { "domain": ".bingo", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".bio",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".biz",
+    "type": "generic-restricted",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".bj",
+    "type": "country-code",
+    "registry": "Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN)"
+  },
+  { "domain": ".bl", "type": "country-code", "registry": "Not assigned" },
+  {
+    "domain": ".black",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".blackfriday",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".blanco", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".blockbuster",
+    "type": "generic",
+    "registry": "Dish DBS Corporation"
+  },
+  {
+    "domain": ".blog",
+    "type": "generic",
+    "registry": "Knock Knock WHOIS There, LLC"
+  },
+  {
+    "domain": ".bloomberg",
+    "type": "generic",
+    "registry": "Bloomberg IP Holdings LLC"
+  },
+  {
+    "domain": ".blue",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".bm",
+    "type": "country-code",
+    "registry": "Registry General Department, Ministry of Home Affairs"
+  },
+  {
+    "domain": ".bms",
+    "type": "generic",
+    "registry": "Bristol-Myers Squibb Company"
+  },
+  {
+    "domain": ".bmw",
+    "type": "generic",
+    "registry": "Bayerische Motoren Werke Aktiengesellschaft"
+  },
+  {
+    "domain": ".bn",
+    "type": "country-code",
+    "registry": "Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)"
+  },
+  { "domain": ".bnl", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".bnpparibas", "type": "generic", "registry": "BNP Paribas" },
+  {
+    "domain": ".bo",
+    "type": "country-code",
+    "registry": "Agencia para el Desarrollo de la Información de la Sociedad en Bolivia"
+  },
+  { "domain": ".boats", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".boehringer",
+    "type": "generic",
+    "registry": "Boehringer Ingelheim International GmbH"
+  },
+  {
+    "domain": ".bofa",
+    "type": "generic",
+    "registry": "Bank of America Corporation"
+  },
+  {
+    "domain": ".bom",
+    "type": "generic",
+    "registry": "Núcleo de Informação e Coordenação do Ponto BR - NIC.br"
+  },
+  { "domain": ".bond", "type": "generic", "registry": "Shortdot SA" },
+  {
+    "domain": ".boo",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".book",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".booking", "type": "generic", "registry": "Booking.com B.V." },
+  { "domain": ".boots", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".bosch", "type": "generic", "registry": "Robert Bosch GMBH" },
+  { "domain": ".bostik", "type": "generic", "registry": "Bostik SA" },
+  {
+    "domain": ".boston",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".bot",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".boutique", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".box", "type": "generic", "registry": "Intercap Registry Inc." },
+  { "domain": ".bq", "type": "country-code", "registry": "Not assigned" },
+  {
+    "domain": ".br",
+    "type": "country-code",
+    "registry": "Comite Gestor da Internet no Brasil"
+  },
+  {
+    "domain": ".bradesco",
+    "type": "generic",
+    "registry": "Banco Bradesco S.A."
+  },
+  {
+    "domain": ".bridgestone",
+    "type": "generic",
+    "registry": "Bridgestone Corporation"
+  },
+  {
+    "domain": ".broadway",
+    "type": "generic",
+    "registry": "Celebrate Broadway, Inc."
+  },
+  { "domain": ".broker", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".brother",
+    "type": "generic",
+    "registry": "Brother Industries, Ltd."
+  },
+  { "domain": ".brussels", "type": "generic", "registry": "DNS.be vzw" },
+  {
+    "domain": ".bs",
+    "type": "country-code",
+    "registry": "University of The Bahamas"
+  },
+  {
+    "domain": ".bt",
+    "type": "country-code",
+    "registry": "Ministry of Information and Communications"
+  },
+  { "domain": ".budapest", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".bugatti", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".build", "type": "generic", "registry": "Plan Bee LLC" },
+  { "domain": ".builders", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".business", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".buy",
+    "type": "generic",
+    "registry": "Amazon Registry Services, INC"
+  },
+  { "domain": ".buzz", "type": "generic", "registry": "DOTSTRATEGY CO." },
+  { "domain": ".bv", "type": "country-code", "registry": "Norid A/S" },
+  {
+    "domain": ".bw",
+    "type": "country-code",
+    "registry": "Botswana Communications Regulatory Authority (BOCRA)"
+  },
+  {
+    "domain": ".by",
+    "type": "country-code",
+    "registry": "Belarusian Cloud Technologies LLC"
+  },
+  {
+    "domain": ".bz",
+    "type": "country-code",
+    "registry": "University of Belize"
+  },
+  { "domain": ".bzh", "type": "generic", "registry": "Association www.bzh" },
+  {
+    "domain": ".ca",
+    "type": "country-code",
+    "registry": "Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)"
+  },
+  { "domain": ".cab", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".cafe", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".cal",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".call",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".calvinklein",
+    "type": "generic",
+    "registry": "PVH gTLD Holdings LLC"
+  },
+  { "domain": ".cam", "type": "generic", "registry": "CAM Connecting SARL" },
+  { "domain": ".camera", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".camp", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".cancerresearch",
+    "type": "generic",
+    "registry": "Not assigned"
+  },
+  { "domain": ".canon", "type": "generic", "registry": "Canon Inc." },
+  {
+    "domain": ".capetown",
+    "type": "generic",
+    "registry": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  { "domain": ".capital", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".capitalone",
+    "type": "generic",
+    "registry": "Capital One Financial Corporation"
+  },
+  { "domain": ".car", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".caravan",
+    "type": "generic",
+    "registry": "Caravan International, Inc."
+  },
+  { "domain": ".cards", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".care", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".career", "type": "generic", "registry": "dotCareer LLC" },
+  { "domain": ".careers", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".cars", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".cartier", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".casa",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".case", "type": "generic", "registry": "Digity, LLC" },
+  { "domain": ".caseih", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".cash", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".casino", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".cat", "type": "sponsored", "registry": "Fundacio puntCAT" },
+  { "domain": ".catering", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".catholic",
+    "type": "generic",
+    "registry": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  {
+    "domain": ".cba",
+    "type": "generic",
+    "registry": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  {
+    "domain": ".cbn",
+    "type": "generic",
+    "registry": "The Christian Broadcasting Network, Inc."
+  },
+  { "domain": ".cbre", "type": "generic", "registry": "CBRE, Inc." },
+  { "domain": ".cbs", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".cc",
+    "type": "country-code",
+    "registry": "eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services"
+  },
+  {
+    "domain": ".cd",
+    "type": "country-code",
+    "registry": "Office Congolais des Postes et Télécommunications - OCPT"
+  },
+  { "domain": ".ceb", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".center", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".ceo", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".cern",
+    "type": "generic",
+    "registry": "European Organization for Nuclear Research ('CERN')"
+  },
+  {
+    "domain": ".cf",
+    "type": "country-code",
+    "registry": "Societe Centrafricaine de Telecommunications (SOCATEL)"
+  },
+  { "domain": ".cfa", "type": "generic", "registry": "CFA Institute" },
+  { "domain": ".cfd", "type": "generic", "registry": "Shortdot SA" },
+  {
+    "domain": ".cg",
+    "type": "country-code",
+    "registry": "Interpoint Switzerland"
+  },
+  {
+    "domain": ".ch",
+    "type": "country-code",
+    "registry": "SWITCH The Swiss Education & Research Network"
+  },
+  {
+    "domain": ".chanel",
+    "type": "generic",
+    "registry": "Chanel International B.V."
+  },
+  {
+    "domain": ".channel",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".charity",
+    "type": "generic",
+    "registry": "Public Interest Registry (PIR)"
+  },
+  {
+    "domain": ".chase",
+    "type": "generic",
+    "registry": "JPMorgan Chase Bank, National Association"
+  },
+  { "domain": ".chat", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".cheap", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".chintai",
+    "type": "generic",
+    "registry": "CHINTAI Corporation"
+  },
+  { "domain": ".chloe", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".christmas", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".chrome",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".chrysler", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".church", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".ci",
+    "type": "country-code",
+    "registry": "Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)"
+  },
+  {
+    "domain": ".cipriani",
+    "type": "generic",
+    "registry": "Hotel Cipriani Srl"
+  },
+  {
+    "domain": ".circle",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".cisco",
+    "type": "generic",
+    "registry": "Cisco Technology, Inc."
+  },
+  { "domain": ".citadel", "type": "generic", "registry": "Citadel Domain LLC" },
+  { "domain": ".citi", "type": "generic", "registry": "Citigroup Inc." },
+  {
+    "domain": ".citic",
+    "type": "generic",
+    "registry": "CITIC Group Corporation"
+  },
+  { "domain": ".city", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".cityeats", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".ck",
+    "type": "country-code",
+    "registry": "Telecom Cook Islands Ltd."
+  },
+  {
+    "domain": ".cl",
+    "type": "country-code",
+    "registry": "NIC Chile (University of Chile)"
+  },
+  { "domain": ".claims", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".cleaning", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".click", "type": "generic", "registry": "Internet Naming Co." },
+  { "domain": ".clinic", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".clinique",
+    "type": "generic",
+    "registry": "The Estée Lauder Companies Inc."
+  },
+  { "domain": ".clothing", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".cloud", "type": "generic", "registry": "ARUBA PEC S.p.A." },
+  {
+    "domain": ".club",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".clubmed",
+    "type": "generic",
+    "registry": "Club Méditerranée S.A."
+  },
+  {
+    "domain": ".cm",
+    "type": "country-code",
+    "registry": "Agence Nationale des Technologies de l'Information et de la Communication (ANTIC)"
+  },
+  {
+    "domain": ".cn",
+    "type": "country-code",
+    "registry": "China Internet Network Information Center (CNNIC)"
+  },
+  {
+    "domain": ".co",
+    "type": "country-code",
+    "registry": "Ministry of Information and Communications Technologies (MinTIC)"
+  },
+  { "domain": ".coach", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".codes", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".coffee", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".college", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".cologne", "type": "generic", "registry": "dotKoeln GmbH" },
+  {
+    "domain": ".com",
+    "type": "generic",
+    "registry": "VeriSign Global Registry Services"
+  },
+  { "domain": ".comcast", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".commbank",
+    "type": "generic",
+    "registry": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  { "domain": ".community", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".company", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".compare",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".computer", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".comsec", "type": "generic", "registry": "VeriSign, Inc." },
+  { "domain": ".condos", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".construction",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  { "domain": ".consulting", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".contact", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".contractors",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  {
+    "domain": ".cooking",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".cookingchannel",
+    "type": "generic",
+    "registry": "Not assigned"
+  },
+  { "domain": ".cool", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".coop", "type": "sponsored", "registry": "DotCooperation LLC" },
+  {
+    "domain": ".corsica",
+    "type": "generic",
+    "registry": "Collectivité de Corse"
+  },
+  {
+    "domain": ".country",
+    "type": "generic",
+    "registry": "Internet Naming Co."
+  },
+  {
+    "domain": ".coupon",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".coupons", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".courses",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".cpa",
+    "type": "generic",
+    "registry": "American Institute of Certified Public Accountants"
+  },
+  {
+    "domain": ".cr",
+    "type": "country-code",
+    "registry": "National Academy of Sciences (Academia Nacional de Ciencias)"
+  },
+  { "domain": ".credit", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".creditcard", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".creditunion",
+    "type": "generic",
+    "registry": "DotCooperation, LLC"
+  },
+  {
+    "domain": ".cricket",
+    "type": "generic",
+    "registry": "dot Cricket Limited"
+  },
+  {
+    "domain": ".crown",
+    "type": "generic",
+    "registry": "Crown Equipment Corporation"
+  },
+  {
+    "domain": ".crs",
+    "type": "generic",
+    "registry": "Federated Co-operatives Limited"
+  },
+  {
+    "domain": ".cruise",
+    "type": "generic",
+    "registry": "Viking River Cruises (Bermuda) Ltd."
+  },
+  { "domain": ".cruises", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".csc", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".cu", "type": "country-code", "registry": "CENIAInternet" },
+  {
+    "domain": ".cuisinella",
+    "type": "generic",
+    "registry": "SCHMIDT GROUPE S.A.S."
+  },
+  {
+    "domain": ".cv",
+    "type": "country-code",
+    "registry": "Agência Reguladora Multissectorial da Economia (ARME)"
+  },
+  {
+    "domain": ".cw",
+    "type": "country-code",
+    "registry": "University of Curacao"
+  },
+  {
+    "domain": ".cx",
+    "type": "country-code",
+    "registry": "Christmas Island Domain Administration Limited"
+  },
+  {
+    "domain": ".cy",
+    "type": "country-code",
+    "registry": "University of Cyprus"
+  },
+  { "domain": ".cymru", "type": "generic", "registry": "Nominet UK" },
+  { "domain": ".cyou", "type": "generic", "registry": "Shortdot SA" },
+  { "domain": ".cz", "type": "country-code", "registry": "CZ.NIC, z.s.p.o" },
+  { "domain": ".dabur", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".dad",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".dance", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".data", "type": "generic", "registry": "Dish DBS Corporation" },
+  { "domain": ".date", "type": "generic", "registry": "dot Date Limited" },
+  { "domain": ".dating", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".datsun",
+    "type": "generic",
+    "registry": "NISSAN MOTOR CO., LTD."
+  },
+  {
+    "domain": ".day",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".dclk",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".dds", "type": "generic", "registry": "Registry Services, LLC" },
+  { "domain": ".de", "type": "country-code", "registry": "DENIC eG" },
+  {
+    "domain": ".deal",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".dealer",
+    "type": "generic",
+    "registry": "Intercap Registry Inc."
+  },
+  { "domain": ".deals", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".degree", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".delivery", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".dell", "type": "generic", "registry": "Dell Inc." },
+  {
+    "domain": ".deloitte",
+    "type": "generic",
+    "registry": "Deloitte Touche Tohmatsu"
+  },
+  {
+    "domain": ".delta",
+    "type": "generic",
+    "registry": "Delta Air Lines, Inc."
+  },
+  { "domain": ".democrat", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".dental", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".dentist", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".desi",
+    "type": "generic",
+    "registry": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  {
+    "domain": ".design",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".dev",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".dhl", "type": "generic", "registry": "Deutsche Post AG" },
+  { "domain": ".diamonds", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".diet", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".digital", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".direct", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".directory", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".discount", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".discover",
+    "type": "generic",
+    "registry": "Discover Financial Services"
+  },
+  { "domain": ".dish", "type": "generic", "registry": "Dish DBS Corporation" },
+  { "domain": ".diy", "type": "generic", "registry": "Internet Naming Co." },
+  {
+    "domain": ".dj",
+    "type": "country-code",
+    "registry": "Djibouti Telecom S.A"
+  },
+  {
+    "domain": ".dk",
+    "type": "country-code",
+    "registry": "Dansk Internet Forum"
+  },
+  { "domain": ".dm", "type": "country-code", "registry": "DotDM Corporation" },
+  {
+    "domain": ".dnp",
+    "type": "generic",
+    "registry": "Dai Nippon Printing Co., Ltd."
+  },
+  {
+    "domain": ".do",
+    "type": "country-code",
+    "registry": "Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino"
+  },
+  {
+    "domain": ".docs",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".doctor", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".dodge", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".dog", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".doha", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".domains", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".doosan", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".dot", "type": "generic", "registry": "Dish DBS Corporation" },
+  {
+    "domain": ".download",
+    "type": "generic",
+    "registry": "dot Support Limited"
+  },
+  {
+    "domain": ".drive",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".dtv", "type": "generic", "registry": "Dish DBS Corporation" },
+  {
+    "domain": ".dubai",
+    "type": "generic",
+    "registry": "Dubai Smart Government Department"
+  },
+  { "domain": ".duck", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".dunlop",
+    "type": "generic",
+    "registry": "The Goodyear Tire & Rubber Company"
+  },
+  { "domain": ".duns", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".dupont",
+    "type": "generic",
+    "registry": "DuPont Specialty Products USA, LLC"
+  },
+  {
+    "domain": ".durban",
+    "type": "generic",
+    "registry": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  {
+    "domain": ".dvag",
+    "type": "generic",
+    "registry": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "domain": ".dvr",
+    "type": "generic",
+    "registry": "DISH Technologies L.L.C."
+  },
+  { "domain": ".dz", "type": "country-code", "registry": "CERIST" },
+  {
+    "domain": ".earth",
+    "type": "generic",
+    "registry": "Interlink Systems Innovation Institute K.K."
+  },
+  {
+    "domain": ".eat",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".ec", "type": "country-code", "registry": "ECUADORDOMAIN S.A." },
+  { "domain": ".eco", "type": "generic", "registry": "Big Room Inc." },
+  {
+    "domain": ".edeka",
+    "type": "generic",
+    "registry": "EDEKA Verband kaufmännischer Genossenschaften e.V."
+  },
+  { "domain": ".edu", "type": "sponsored", "registry": "EDUCAUSE" },
+  { "domain": ".education", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".ee",
+    "type": "country-code",
+    "registry": "Eesti Interneti Sihtasutus (EIS)"
+  },
+  {
+    "domain": ".eg",
+    "type": "country-code",
+    "registry": "Egyptian Universities Network (EUN), Supreme Council of Universities"
+  },
+  { "domain": ".eh", "type": "country-code", "registry": "Not assigned" },
+  { "domain": ".email", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".emerck", "type": "generic", "registry": "Merck KGaA" },
+  { "domain": ".emerson", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".energy", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".engineer", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".engineering",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  {
+    "domain": ".enterprises",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  { "domain": ".epost", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".epson",
+    "type": "generic",
+    "registry": "Seiko Epson Corporation"
+  },
+  { "domain": ".equipment", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".er",
+    "type": "country-code",
+    "registry": "Eritrea Telecommunication Services Corporation (EriTel)"
+  },
+  {
+    "domain": ".ericsson",
+    "type": "generic",
+    "registry": "Telefonaktiebolaget L M Ericsson"
+  },
+  { "domain": ".erni", "type": "generic", "registry": "ERNI Group Holding AG" },
+  { "domain": ".es", "type": "country-code", "registry": "Red.es" },
+  {
+    "domain": ".esq",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".estate", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".esurance", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".et", "type": "country-code", "registry": "Ethio telecom" },
+  { "domain": ".etisalat", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".eu", "type": "country-code", "registry": "EURid vzw/asbl" },
+  {
+    "domain": ".eurovision",
+    "type": "generic",
+    "registry": "European Broadcasting Union (EBU)"
+  },
+  { "domain": ".eus", "type": "generic", "registry": "Puntueus Fundazioa" },
+  { "domain": ".events", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".everbank", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".exchange", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".expert", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".exposed", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".express", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".extraspace",
+    "type": "generic",
+    "registry": "Extra Space Storage LLC"
+  },
+  {
+    "domain": ".fage",
+    "type": "generic",
+    "registry": "Fage International S.A."
+  },
+  { "domain": ".fail", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".fairwinds",
+    "type": "generic",
+    "registry": "FairWinds Partners, LLC"
+  },
+  { "domain": ".faith", "type": "generic", "registry": "dot Faith Limited" },
+  { "domain": ".family", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".fan", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".fans",
+    "type": "generic",
+    "registry": "ZDNS International Limited"
+  },
+  { "domain": ".farm", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".farmers",
+    "type": "generic",
+    "registry": "Farmers Insurance Exchange"
+  },
+  {
+    "domain": ".fashion",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".fast",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".fedex",
+    "type": "generic",
+    "registry": "Federal Express Corporation"
+  },
+  {
+    "domain": ".feedback",
+    "type": "generic",
+    "registry": "Top Level Spectrum, Inc."
+  },
+  {
+    "domain": ".ferrari",
+    "type": "generic",
+    "registry": "Fiat Chrysler Automobiles N.V."
+  },
+  {
+    "domain": ".ferrero",
+    "type": "generic",
+    "registry": "Ferrero Trading Lux S.A."
+  },
+  {
+    "domain": ".fi",
+    "type": "country-code",
+    "registry": "Finnish Transport and Communications Agency Traficom"
+  },
+  { "domain": ".fiat", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".fidelity",
+    "type": "generic",
+    "registry": "Fidelity Brokerage Services LLC"
+  },
+  {
+    "domain": ".fido",
+    "type": "generic",
+    "registry": "Rogers Communications Canada Inc."
+  },
+  {
+    "domain": ".film",
+    "type": "generic",
+    "registry": "Motion Picture Domain Registry Pty Ltd"
+  },
+  {
+    "domain": ".final",
+    "type": "generic",
+    "registry": "Núcleo de Informação e Coordenação do Ponto BR - NIC.br"
+  },
+  { "domain": ".finance", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".financial", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".fire",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".firestone",
+    "type": "generic",
+    "registry": "Bridgestone Licensing Services, Inc."
+  },
+  {
+    "domain": ".firmdale",
+    "type": "generic",
+    "registry": "Firmdale Holdings Limited"
+  },
+  { "domain": ".fish", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".fishing",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".fit", "type": "generic", "registry": "Registry Services, LLC" },
+  { "domain": ".fitness", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".fj",
+    "type": "country-code",
+    "registry": "The University of the South Pacific IT Services"
+  },
+  {
+    "domain": ".fk",
+    "type": "country-code",
+    "registry": "Falkland Islands Government"
+  },
+  { "domain": ".flickr", "type": "generic", "registry": "Flickr, Inc." },
+  { "domain": ".flights", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".flir", "type": "generic", "registry": "FLIR Systems, Inc." },
+  { "domain": ".florist", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".flowers", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".flsmidth", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".fly",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".fm",
+    "type": "country-code",
+    "registry": "FSM Telecommunications Corporation"
+  },
+  { "domain": ".fo", "type": "country-code", "registry": "FO Council" },
+  {
+    "domain": ".foo",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".food", "type": "generic", "registry": "Internet Naming Co." },
+  { "domain": ".foodnetwork", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".football", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".ford", "type": "generic", "registry": "Ford Motor Company" },
+  { "domain": ".forex", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".forsale", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".forum", "type": "generic", "registry": "Fegistry, LLC" },
+  {
+    "domain": ".foundation",
+    "type": "generic",
+    "registry": "Public Interest Registry (PIR)"
+  },
+  { "domain": ".fox", "type": "generic", "registry": "FOX Registry, LLC" },
+  {
+    "domain": ".fr",
+    "type": "country-code",
+    "registry": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "domain": ".free",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".fresenius",
+    "type": "generic",
+    "registry": "Fresenius Immobilien-Verwaltungs-GmbH"
+  },
+  { "domain": ".frl", "type": "generic", "registry": "FRLregistry B.V." },
+  { "domain": ".frogans", "type": "generic", "registry": "OP3FT" },
+  { "domain": ".frontdoor", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".frontier",
+    "type": "generic",
+    "registry": "Frontier Communications Corporation"
+  },
+  {
+    "domain": ".ftr",
+    "type": "generic",
+    "registry": "Frontier Communications Corporation"
+  },
+  { "domain": ".fujitsu", "type": "generic", "registry": "Fujitsu Limited" },
+  { "domain": ".fujixerox", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".fun",
+    "type": "generic",
+    "registry": "Radix Technologies Inc."
+  },
+  { "domain": ".fund", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".furniture", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".futbol", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".fyi", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".ga",
+    "type": "country-code",
+    "registry": "Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)"
+  },
+  { "domain": ".gal", "type": "generic", "registry": "Asociación puntoGAL" },
+  { "domain": ".gallery", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".gallo",
+    "type": "generic",
+    "registry": "Gallo Vineyards, Inc."
+  },
+  { "domain": ".gallup", "type": "generic", "registry": "Gallup, Inc." },
+  { "domain": ".game", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".games", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".gap", "type": "generic", "registry": "The Gap, Inc." },
+  {
+    "domain": ".garden",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".gay", "type": "generic", "registry": "Registry Services, LLC" },
+  {
+    "domain": ".gb",
+    "type": "country-code",
+    "registry": "Reserved Domain - IANA"
+  },
+  {
+    "domain": ".gbiz",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".gd",
+    "type": "country-code",
+    "registry": "The National Telecommunications Regulatory Commission (NTRC)"
+  },
+  {
+    "domain": ".gdn",
+    "type": "generic",
+    "registry": "Joint Stock Company 'Navigation-information systems'"
+  },
+  {
+    "domain": ".ge",
+    "type": "country-code",
+    "registry": "Caucasus Online LLC"
+  },
+  {
+    "domain": ".gea",
+    "type": "generic",
+    "registry": "GEA Group Aktiengesellschaft"
+  },
+  { "domain": ".gent", "type": "generic", "registry": "Combell nv" },
+  {
+    "domain": ".genting",
+    "type": "generic",
+    "registry": "Resorts World Inc. Pte. Ltd."
+  },
+  {
+    "domain": ".george",
+    "type": "generic",
+    "registry": "Wal-Mart Stores, Inc."
+  },
+  { "domain": ".gf", "type": "country-code", "registry": "CANAL+ TELECOM" },
+  {
+    "domain": ".gg",
+    "type": "country-code",
+    "registry": "Island Networks Ltd."
+  },
+  { "domain": ".ggee", "type": "generic", "registry": "GMO Internet, Inc." },
+  {
+    "domain": ".gh",
+    "type": "country-code",
+    "registry": "Network Computer Systems Limited"
+  },
+  { "domain": ".gi", "type": "country-code", "registry": "Sapphire Networks" },
+  { "domain": ".gift", "type": "generic", "registry": "Uniregistry, Corp." },
+  { "domain": ".gifts", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".gives",
+    "type": "generic",
+    "registry": "Public Interest Registry (PIR)"
+  },
+  {
+    "domain": ".giving",
+    "type": "generic",
+    "registry": "Public Interest Registry (PIR)"
+  },
+  { "domain": ".gl", "type": "country-code", "registry": "TELE Greenland A/S" },
+  { "domain": ".glade", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".glass", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".gle",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".global",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".globo",
+    "type": "generic",
+    "registry": "Globo Comunicação e Participações S.A"
+  },
+  { "domain": ".gm", "type": "country-code", "registry": "GM-NIC" },
+  {
+    "domain": ".gmail",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".gmbh", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".gmo", "type": "generic", "registry": "GMO Internet, Inc." },
+  { "domain": ".gmx", "type": "generic", "registry": "1&1 Mail & Media GmbH" },
+  {
+    "domain": ".gn",
+    "type": "country-code",
+    "registry": "Centre National des Sciences Halieutiques de Boussoura"
+  },
+  { "domain": ".godaddy", "type": "generic", "registry": "Go Daddy East, LLC" },
+  { "domain": ".gold", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".goldpoint",
+    "type": "generic",
+    "registry": "YODOBASHI CAMERA CO.,LTD."
+  },
+  { "domain": ".golf", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".goo", "type": "generic", "registry": "NTT Resonant Inc." },
+  { "domain": ".goodhands", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".goodyear",
+    "type": "generic",
+    "registry": "The Goodyear Tire & Rubber Company"
+  },
+  {
+    "domain": ".goog",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".google",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".gop",
+    "type": "generic",
+    "registry": "Republican State Leadership Committee, Inc."
+  },
+  {
+    "domain": ".got",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".gov",
+    "type": "sponsored",
+    "registry": "Cybersecurity and Infrastructure Security Agency"
+  },
+  {
+    "domain": ".gp",
+    "type": "country-code",
+    "registry": "Networking Technologies Group"
+  },
+  { "domain": ".gq", "type": "country-code", "registry": "GETESA" },
+  { "domain": ".gr", "type": "country-code", "registry": "ICS-FORTH GR" },
+  {
+    "domain": ".grainger",
+    "type": "generic",
+    "registry": "Grainger Registry Services, LLC"
+  },
+  { "domain": ".graphics", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".gratis", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".green",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".gripe", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".grocery",
+    "type": "generic",
+    "registry": "Wal-Mart Stores, Inc."
+  },
+  { "domain": ".group", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".gs",
+    "type": "country-code",
+    "registry": "Government of South Georgia and South Sandwich Islands (GSGSSI)"
+  },
+  {
+    "domain": ".gt",
+    "type": "country-code",
+    "registry": "Universidad del Valle de Guatemala"
+  },
+  { "domain": ".gu", "type": "country-code", "registry": "University of Guam" },
+  { "domain": ".guardian", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".gucci", "type": "generic", "registry": "Guccio Gucci S.p.a." },
+  {
+    "domain": ".guge",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".guide", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".guitars", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".guru", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".gw",
+    "type": "country-code",
+    "registry": "Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau"
+  },
+  {
+    "domain": ".gy",
+    "type": "country-code",
+    "registry": "University of Guyana"
+  },
+  { "domain": ".hair", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".hamburg",
+    "type": "generic",
+    "registry": "Hamburg Top-Level-Domain GmbH"
+  },
+  {
+    "domain": ".hangout",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".haus", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".hbo",
+    "type": "generic",
+    "registry": "HBO Registry Services, Inc."
+  },
+  {
+    "domain": ".hdfc",
+    "type": "generic",
+    "registry": "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED"
+  },
+  { "domain": ".hdfcbank", "type": "generic", "registry": "HDFC Bank Limited" },
+  {
+    "domain": ".health",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".healthcare", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".help",
+    "type": "generic",
+    "registry": "Innovation Service Ltd"
+  },
+  { "domain": ".helsinki", "type": "generic", "registry": "City of Helsinki" },
+  {
+    "domain": ".here",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".hermes",
+    "type": "generic",
+    "registry": "Hermes International"
+  },
+  { "domain": ".hgtv", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".hiphop", "type": "generic", "registry": "Dot Hip Hop, LLC" },
+  {
+    "domain": ".hisamitsu",
+    "type": "generic",
+    "registry": "Hisamitsu Pharmaceutical Co.,Inc."
+  },
+  { "domain": ".hitachi", "type": "generic", "registry": "Hitachi, Ltd." },
+  { "domain": ".hiv", "type": "generic", "registry": "Internet Naming Co." },
+  {
+    "domain": ".hk",
+    "type": "country-code",
+    "registry": "Hong Kong Internet Registration Corporation Ltd."
+  },
+  {
+    "domain": ".hkt",
+    "type": "generic",
+    "registry": "PCCW-HKT DataCom Services Limited"
+  },
+  { "domain": ".hm", "type": "country-code", "registry": "HM Domain Registry" },
+  {
+    "domain": ".hn",
+    "type": "country-code",
+    "registry": "Red de Desarrollo Sostenible Honduras"
+  },
+  { "domain": ".hockey", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".holdings", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".holiday", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".homedepot",
+    "type": "generic",
+    "registry": "Home Depot Product Authority, LLC"
+  },
+  {
+    "domain": ".homegoods",
+    "type": "generic",
+    "registry": "The TJX Companies, Inc."
+  },
+  { "domain": ".homes", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".homesense",
+    "type": "generic",
+    "registry": "The TJX Companies, Inc."
+  },
+  {
+    "domain": ".honda",
+    "type": "generic",
+    "registry": "Honda Motor Co., Ltd."
+  },
+  { "domain": ".honeywell", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".horse",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".hospital", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".host",
+    "type": "generic",
+    "registry": "Radix Technologies Inc."
+  },
+  { "domain": ".hosting", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".hot",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".hoteles", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".hotels", "type": "generic", "registry": "Booking.com B.V." },
+  {
+    "domain": ".hotmail",
+    "type": "generic",
+    "registry": "Microsoft Corporation"
+  },
+  { "domain": ".house", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".how",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".hr",
+    "type": "country-code",
+    "registry": "CARNet - Croatian Academic and Research Network"
+  },
+  {
+    "domain": ".hsbc",
+    "type": "generic",
+    "registry": "HSBC Global Services (UK) Limited"
+  },
+  {
+    "domain": ".ht",
+    "type": "country-code",
+    "registry": "Consortium FDS/RDDH"
+  },
+  { "domain": ".htc", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".hu",
+    "type": "country-code",
+    "registry": "Council of Hungarian Internet Providers (CHIP)"
+  },
+  {
+    "domain": ".hughes",
+    "type": "generic",
+    "registry": "Hughes Satellite Systems Corporation"
+  },
+  { "domain": ".hyatt", "type": "generic", "registry": "Hyatt GTLD, L.L.C." },
+  {
+    "domain": ".hyundai",
+    "type": "generic",
+    "registry": "Hyundai Motor Company"
+  },
+  {
+    "domain": ".ibm",
+    "type": "generic",
+    "registry": "International Business Machines Corporation"
+  },
+  {
+    "domain": ".icbc",
+    "type": "generic",
+    "registry": "Industrial and Commercial Bank of China Limited"
+  },
+  {
+    "domain": ".ice",
+    "type": "generic",
+    "registry": "IntercontinentalExchange, Inc."
+  },
+  { "domain": ".icu", "type": "generic", "registry": "Shortdot SA" },
+  {
+    "domain": ".id",
+    "type": "country-code",
+    "registry": "Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)"
+  },
+  {
+    "domain": ".ie",
+    "type": "country-code",
+    "registry": "University College Dublin, Computing Services, Computer Centre"
+  },
+  { "domain": ".ieee", "type": "generic", "registry": "IEEE Global LLC" },
+  { "domain": ".ifm", "type": "generic", "registry": "ifm electronic gmbh" },
+  { "domain": ".iinet", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".ikano", "type": "generic", "registry": "Ikano S.A." },
+  {
+    "domain": ".il",
+    "type": "country-code",
+    "registry": "The Israel Internet Association (RA)"
+  },
+  {
+    "domain": ".im",
+    "type": "country-code",
+    "registry": "Isle of Man Government"
+  },
+  {
+    "domain": ".imamat",
+    "type": "generic",
+    "registry": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "domain": ".imdb",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".immo", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".immobilien", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".in",
+    "type": "country-code",
+    "registry": "National Internet Exchange of India"
+  },
+  { "domain": ".inc", "type": "generic", "registry": "Intercap Registry Inc." },
+  { "domain": ".industries", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".infiniti",
+    "type": "generic",
+    "registry": "NISSAN MOTOR CO., LTD."
+  },
+  {
+    "domain": ".info",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".ing",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".ink", "type": "generic", "registry": "Registry Services, LLC" },
+  { "domain": ".institute", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".insurance",
+    "type": "generic",
+    "registry": "fTLD Registry Services LLC"
+  },
+  { "domain": ".insure", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".int",
+    "type": "sponsored",
+    "registry": "Internet Assigned Numbers Authority"
+  },
+  { "domain": ".intel", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".international",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  {
+    "domain": ".intuit",
+    "type": "generic",
+    "registry": "Intuit Administrative Services, Inc."
+  },
+  {
+    "domain": ".investments",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  {
+    "domain": ".io",
+    "type": "country-code",
+    "registry": "Internet Computer Bureau Limited"
+  },
+  {
+    "domain": ".ipiranga",
+    "type": "generic",
+    "registry": "Ipiranga Produtos de Petroleo S.A."
+  },
+  {
+    "domain": ".iq",
+    "type": "country-code",
+    "registry": "Communications and Media Commission (CMC)"
+  },
+  {
+    "domain": ".ir",
+    "type": "country-code",
+    "registry": "Institute for Research in Fundamental Sciences"
+  },
+  { "domain": ".irish", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".is",
+    "type": "country-code",
+    "registry": "ISNIC - Internet á Íslandi hf."
+  },
+  { "domain": ".iselect", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".ismaili",
+    "type": "generic",
+    "registry": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "domain": ".ist",
+    "type": "generic",
+    "registry": "Istanbul Metropolitan Municipality"
+  },
+  {
+    "domain": ".istanbul",
+    "type": "generic",
+    "registry": "Istanbul Metropolitan Municipality"
+  },
+  { "domain": ".it", "type": "country-code", "registry": "IIT - CNR" },
+  {
+    "domain": ".itau",
+    "type": "generic",
+    "registry": "Itau Unibanco Holding S.A."
+  },
+  { "domain": ".itv", "type": "generic", "registry": "ITV Services Limited" },
+  { "domain": ".iveco", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".iwc", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".jaguar",
+    "type": "generic",
+    "registry": "Jaguar Land Rover Ltd"
+  },
+  { "domain": ".java", "type": "generic", "registry": "Oracle Corporation" },
+  { "domain": ".jcb", "type": "generic", "registry": "JCB Co., Ltd." },
+  { "domain": ".jcp", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".je",
+    "type": "country-code",
+    "registry": "Island Networks (Jersey) Ltd."
+  },
+  { "domain": ".jeep", "type": "generic", "registry": "FCA US LLC." },
+  { "domain": ".jetzt", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".jewelry", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".jio",
+    "type": "generic",
+    "registry": "Reliance Industries Limited"
+  },
+  { "domain": ".jlc", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".jll",
+    "type": "generic",
+    "registry": "Jones Lang LaSalle Incorporated"
+  },
+  {
+    "domain": ".jm",
+    "type": "country-code",
+    "registry": "University of West Indies"
+  },
+  { "domain": ".jmp", "type": "generic", "registry": "Matrix IP LLC" },
+  {
+    "domain": ".jnj",
+    "type": "generic",
+    "registry": "Johnson & Johnson Services, Inc."
+  },
+  {
+    "domain": ".jo",
+    "type": "country-code",
+    "registry": "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+  },
+  { "domain": ".jobs", "type": "sponsored", "registry": "Employ Media LLC" },
+  {
+    "domain": ".joburg",
+    "type": "generic",
+    "registry": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  {
+    "domain": ".jot",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".joy",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".jp",
+    "type": "country-code",
+    "registry": "Japan Registry Services Co., Ltd."
+  },
+  {
+    "domain": ".jpmorgan",
+    "type": "generic",
+    "registry": "JPMorgan Chase Bank, National Association"
+  },
+  {
+    "domain": ".jprs",
+    "type": "generic",
+    "registry": "Japan Registry Services Co., Ltd."
+  },
+  { "domain": ".juegos", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".juniper",
+    "type": "generic",
+    "registry": "JUNIPER NETWORKS, INC."
+  },
+  { "domain": ".kaufen", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".kddi", "type": "generic", "registry": "KDDI CORPORATION" },
+  {
+    "domain": ".ke",
+    "type": "country-code",
+    "registry": "Kenya Network Information Center (KeNIC)"
+  },
+  {
+    "domain": ".kerryhotels",
+    "type": "generic",
+    "registry": "Kerry Trading Co. Limited"
+  },
+  {
+    "domain": ".kerrylogistics",
+    "type": "generic",
+    "registry": "Not assigned"
+  },
+  {
+    "domain": ".kerryproperties",
+    "type": "generic",
+    "registry": "Kerry Trading Co. Limited"
+  },
+  { "domain": ".kfh", "type": "generic", "registry": "Kuwait Finance House" },
+  {
+    "domain": ".kg",
+    "type": "country-code",
+    "registry": "AsiaInfo Telecommunication Enterprise"
+  },
+  {
+    "domain": ".kh",
+    "type": "country-code",
+    "registry": "Telecommunication Regulator of Cambodia (TRC)"
+  },
+  {
+    "domain": ".ki",
+    "type": "country-code",
+    "registry": "Ministry of Information, Communications and Transport (MICT)"
+  },
+  { "domain": ".kia", "type": "generic", "registry": "KIA MOTORS CORPORATION" },
+  {
+    "domain": ".kids",
+    "type": "generic",
+    "registry": "DotKids Foundation Limited"
+  },
+  {
+    "domain": ".kim",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".kinder", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".kindle",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".kitchen", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".kiwi", "type": "generic", "registry": "DOT KIWI LIMITED" },
+  { "domain": ".km", "type": "country-code", "registry": "Comores Telecom" },
+  {
+    "domain": ".kn",
+    "type": "country-code",
+    "registry": "Ministry of Finance, Sustainable Development Information & Technology"
+  },
+  { "domain": ".koeln", "type": "generic", "registry": "dotKoeln GmbH" },
+  { "domain": ".komatsu", "type": "generic", "registry": "Komatsu Ltd." },
+  {
+    "domain": ".kosher",
+    "type": "generic",
+    "registry": "Kosher Marketing Assets LLC"
+  },
+  {
+    "domain": ".kp",
+    "type": "country-code",
+    "registry": "Star Joint Venture Company"
+  },
+  {
+    "domain": ".kpmg",
+    "type": "generic",
+    "registry": "KPMG International Cooperative (KPMG International Genossenschaft)"
+  },
+  { "domain": ".kpn", "type": "generic", "registry": "Koninklijke KPN N.V." },
+  {
+    "domain": ".kr",
+    "type": "country-code",
+    "registry": "Korea Internet & Security Agency (KISA)"
+  },
+  {
+    "domain": ".krd",
+    "type": "generic",
+    "registry": "KRG Department of Information Technology"
+  },
+  { "domain": ".kred", "type": "generic", "registry": "KredTLD Pty Ltd" },
+  {
+    "domain": ".kuokgroup",
+    "type": "generic",
+    "registry": "Kerry Trading Co. Limited"
+  },
+  {
+    "domain": ".kw",
+    "type": "country-code",
+    "registry": "Communications and Information Technology Regulatory Authority"
+  },
+  {
+    "domain": ".ky",
+    "type": "country-code",
+    "registry": "Utility Regulation and Competition Office (OfReg)"
+  },
+  {
+    "domain": ".kyoto",
+    "type": "generic",
+    "registry": "Academic Institution: Kyoto Jyoho Gakuen"
+  },
+  {
+    "domain": ".kz",
+    "type": "country-code",
+    "registry": "Association of IT Companies of Kazakhstan"
+  },
+  {
+    "domain": ".la",
+    "type": "country-code",
+    "registry": "Lao National Internet Center (LANIC), Ministry of Technology and Communications"
+  },
+  {
+    "domain": ".lacaixa",
+    "type": "generic",
+    "registry": "Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona, 'la Caixa'"
+  },
+  { "domain": ".ladbrokes", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".lamborghini",
+    "type": "generic",
+    "registry": "Automobili Lamborghini S.p.A."
+  },
+  {
+    "domain": ".lamer",
+    "type": "generic",
+    "registry": "The Estée Lauder Companies Inc."
+  },
+  { "domain": ".lancaster", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".lancia", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".lancome", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".land", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".landrover",
+    "type": "generic",
+    "registry": "Jaguar Land Rover Ltd"
+  },
+  {
+    "domain": ".lanxess",
+    "type": "generic",
+    "registry": "LANXESS Corporation"
+  },
+  {
+    "domain": ".lasalle",
+    "type": "generic",
+    "registry": "Jones Lang LaSalle Incorporated"
+  },
+  { "domain": ".lat", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".latino",
+    "type": "generic",
+    "registry": "Dish DBS Corporation"
+  },
+  {
+    "domain": ".latrobe",
+    "type": "generic",
+    "registry": "La Trobe University"
+  },
+  { "domain": ".law", "type": "generic", "registry": "Registry Services, LLC" },
+  { "domain": ".lawyer", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".lb",
+    "type": "country-code",
+    "registry": "Internet Society Lebanon"
+  },
+  {
+    "domain": ".lc",
+    "type": "country-code",
+    "registry": "University of Puerto Rico"
+  },
+  {
+    "domain": ".lds",
+    "type": "generic",
+    "registry": "IRI Domain Management, LLC"
+  },
+  { "domain": ".lease", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".leclerc",
+    "type": "generic",
+    "registry": "A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc"
+  },
+  {
+    "domain": ".lefrak",
+    "type": "generic",
+    "registry": "LeFrak Organization, Inc."
+  },
+  { "domain": ".legal", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".lego", "type": "generic", "registry": "LEGO Juris A/S" },
+  {
+    "domain": ".lexus",
+    "type": "generic",
+    "registry": "TOYOTA MOTOR CORPORATION"
+  },
+  {
+    "domain": ".lgbt",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".li",
+    "type": "country-code",
+    "registry": "SWITCH The Swiss Education & Research Network"
+  },
+  { "domain": ".liaison", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".lidl",
+    "type": "generic",
+    "registry": "Schwarz Domains und Services GmbH & Co. KG"
+  },
+  { "domain": ".life", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".lifeinsurance",
+    "type": "generic",
+    "registry": "American Council of Life Insurers"
+  },
+  {
+    "domain": ".lifestyle",
+    "type": "generic",
+    "registry": "Internet Naming Co."
+  },
+  { "domain": ".lighting", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".like",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".lilly",
+    "type": "generic",
+    "registry": "Eli Lilly and Company"
+  },
+  { "domain": ".limited", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".limo", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".lincoln", "type": "generic", "registry": "Ford Motor Company" },
+  { "domain": ".linde", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".link", "type": "generic", "registry": "Nova Registry Ltd." },
+  { "domain": ".lipsy", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".live", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".living", "type": "generic", "registry": "Internet Naming Co." },
+  { "domain": ".lixil", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".lk",
+    "type": "country-code",
+    "registry": "Council for Information Technology LK Domain Registrar"
+  },
+  {
+    "domain": ".llc",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".llp", "type": "generic", "registry": "Intercap Registry Inc." },
+  { "domain": ".loan", "type": "generic", "registry": "dot Loan Limited" },
+  { "domain": ".loans", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".locker", "type": "generic", "registry": "Orange Domains LLC" },
+  { "domain": ".locus", "type": "generic", "registry": "Locus Analytics LLC" },
+  { "domain": ".loft", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".lol", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".london",
+    "type": "generic",
+    "registry": "Dot London Domains Limited"
+  },
+  {
+    "domain": ".lotte",
+    "type": "generic",
+    "registry": "Lotte Holdings Co., Ltd."
+  },
+  {
+    "domain": ".lotto",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".love", "type": "generic", "registry": "Waterford Limited" },
+  { "domain": ".lpl", "type": "generic", "registry": "LPL Holdings, Inc." },
+  {
+    "domain": ".lplfinancial",
+    "type": "generic",
+    "registry": "LPL Holdings, Inc."
+  },
+  {
+    "domain": ".lr",
+    "type": "country-code",
+    "registry": "Data Technology Solutions, Inc."
+  },
+  {
+    "domain": ".ls",
+    "type": "country-code",
+    "registry": "Lesotho Network Information Centre Proprietary (LSNIC)"
+  },
+  {
+    "domain": ".lt",
+    "type": "country-code",
+    "registry": "Kaunas University of Technology"
+  },
+  { "domain": ".ltd", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".ltda", "type": "generic", "registry": "InterNetX Corp." },
+  { "domain": ".lu", "type": "country-code", "registry": "RESTENA" },
+  { "domain": ".lundbeck", "type": "generic", "registry": "H. Lundbeck A/S" },
+  { "domain": ".lupin", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".luxe",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".luxury", "type": "generic", "registry": "Luxury Partners LLC" },
+  {
+    "domain": ".lv",
+    "type": "country-code",
+    "registry": "University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS)"
+  },
+  {
+    "domain": ".ly",
+    "type": "country-code",
+    "registry": "General Post and Telecommunication Company"
+  },
+  {
+    "domain": ".ma",
+    "type": "country-code",
+    "registry": "Agence Nationale de Réglementation des Télécommunications (ANRT)"
+  },
+  { "domain": ".macys", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".madrid", "type": "generic", "registry": "Comunidad de Madrid" },
+  {
+    "domain": ".maif",
+    "type": "generic",
+    "registry": "Mutuelle Assurance Instituteur France (MAIF)"
+  },
+  { "domain": ".maison", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".makeup", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".man", "type": "generic", "registry": "MAN Truck & Bus SE" },
+  { "domain": ".management", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".mango", "type": "generic", "registry": "PUNTO FA S.L." },
+  {
+    "domain": ".map",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".market", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".marketing", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".markets", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".marriott",
+    "type": "generic",
+    "registry": "Marriott Worldwide Corporation"
+  },
+  {
+    "domain": ".marshalls",
+    "type": "generic",
+    "registry": "The TJX Companies, Inc."
+  },
+  { "domain": ".maserati", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".mattel",
+    "type": "generic",
+    "registry": "Mattel IT Services, Inc."
+  },
+  { "domain": ".mba", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".mc",
+    "type": "country-code",
+    "registry": "Direction des Plateformes et des Ressources Numériques"
+  },
+  { "domain": ".mcd", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".mcdonalds", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".mckinsey",
+    "type": "generic",
+    "registry": "McKinsey Holdings, Inc."
+  },
+  {
+    "domain": ".md",
+    "type": "country-code",
+    "registry": "IP Serviciul Tehnologia Informatiei si Securitate Cibernetica"
+  },
+  {
+    "domain": ".me",
+    "type": "country-code",
+    "registry": "Government of Montenegro"
+  },
+  { "domain": ".med", "type": "generic", "registry": "Medistry LLC" },
+  { "domain": ".media", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".meet",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".melbourne",
+    "type": "generic",
+    "registry": "The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation"
+  },
+  {
+    "domain": ".meme",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".memorial", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".men",
+    "type": "generic",
+    "registry": "Exclusive Registry Limited"
+  },
+  { "domain": ".menu", "type": "generic", "registry": "Dot Menu Registry LLC" },
+  { "domain": ".meo", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".merckmsd",
+    "type": "generic",
+    "registry": "MSD Registry Holdings, Inc."
+  },
+  { "domain": ".metlife", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".mf", "type": "country-code", "registry": "Not assigned" },
+  {
+    "domain": ".mg",
+    "type": "country-code",
+    "registry": "NIC-MG (Network Information Center Madagascar)"
+  },
+  {
+    "domain": ".mh",
+    "type": "country-code",
+    "registry": "Office of the Cabinet"
+  },
+  {
+    "domain": ".miami",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".microsoft",
+    "type": "generic",
+    "registry": "Microsoft Corporation"
+  },
+  {
+    "domain": ".mil",
+    "type": "sponsored",
+    "registry": "DoD Network Information Center"
+  },
+  {
+    "domain": ".mini",
+    "type": "generic",
+    "registry": "Bayerische Motoren Werke Aktiengesellschaft"
+  },
+  {
+    "domain": ".mint",
+    "type": "generic",
+    "registry": "Intuit Administrative Services, Inc."
+  },
+  {
+    "domain": ".mit",
+    "type": "generic",
+    "registry": "Massachusetts Institute of Technology"
+  },
+  {
+    "domain": ".mitsubishi",
+    "type": "generic",
+    "registry": "Mitsubishi Corporation"
+  },
+  {
+    "domain": ".mk",
+    "type": "country-code",
+    "registry": "Macedonian Academic Research Network Skopje"
+  },
+  {
+    "domain": ".ml",
+    "type": "country-code",
+    "registry": "Agence des Technologies de l’Information et de la Communication"
+  },
+  {
+    "domain": ".mlb",
+    "type": "generic",
+    "registry": "MLB Advanced Media DH, LLC"
+  },
+  {
+    "domain": ".mls",
+    "type": "generic",
+    "registry": "The Canadian Real Estate Association"
+  },
+  {
+    "domain": ".mm",
+    "type": "country-code",
+    "registry": "Ministry of Transport and Communications"
+  },
+  { "domain": ".mma", "type": "generic", "registry": "MMA IARD" },
+  { "domain": ".mn", "type": "country-code", "registry": "Datacom Co., Ltd." },
+  {
+    "domain": ".mo",
+    "type": "country-code",
+    "registry": "Macao Post and Telecommunications Bureau (CTT)"
+  },
+  {
+    "domain": ".mobi",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".mobile",
+    "type": "generic",
+    "registry": "Dish DBS Corporation"
+  },
+  { "domain": ".mobily", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".moda", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".moe",
+    "type": "generic",
+    "registry": "Interlink Systems Innovation Institute K.K."
+  },
+  {
+    "domain": ".moi",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".mom", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".monash", "type": "generic", "registry": "Monash University" },
+  { "domain": ".money", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".monster", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".montblanc", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".mopar", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".mormon",
+    "type": "generic",
+    "registry": "IRI Domain Management, LLC ('Applicant')"
+  },
+  { "domain": ".mortgage", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".moscow",
+    "type": "generic",
+    "registry": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+  },
+  {
+    "domain": ".moto",
+    "type": "generic",
+    "registry": "Motorola Trademark Holdings, LLC"
+  },
+  { "domain": ".motorcycles", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".mov",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".movie", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".movistar", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".mp",
+    "type": "country-code",
+    "registry": "Saipan Datacom, Inc."
+  },
+  { "domain": ".mq", "type": "country-code", "registry": "CANAL+ TELECOM" },
+  {
+    "domain": ".mr",
+    "type": "country-code",
+    "registry": "Université de Nouakchott Al Aasriya"
+  },
+  { "domain": ".ms", "type": "country-code", "registry": "MNI Networks Ltd." },
+  {
+    "domain": ".msd",
+    "type": "generic",
+    "registry": "MSD Registry Holdings, Inc."
+  },
+  { "domain": ".mt", "type": "country-code", "registry": "NIC (Malta)" },
+  { "domain": ".mtn", "type": "generic", "registry": "MTN Dubai Limited" },
+  { "domain": ".mtpc", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".mtr",
+    "type": "generic",
+    "registry": "MTR Corporation Limited"
+  },
+  {
+    "domain": ".mu",
+    "type": "country-code",
+    "registry": "Internet Direct Ltd"
+  },
+  {
+    "domain": ".museum",
+    "type": "sponsored",
+    "registry": "Museum Domain Management Association"
+  },
+  { "domain": ".music", "type": "generic", "registry": "DotMusic Limited" },
+  { "domain": ".mutual", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".mutuelle", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".mv",
+    "type": "country-code",
+    "registry": "Dhivehi Raajjeyge Gulhun PLC"
+  },
+  {
+    "domain": ".mw",
+    "type": "country-code",
+    "registry": "Malawi Sustainable Development Network Programme (Malawi SDNP)"
+  },
+  {
+    "domain": ".mx",
+    "type": "country-code",
+    "registry": "NIC-Mexico ITESM - Campus Monterrey"
+  },
+  { "domain": ".my", "type": "country-code", "registry": "MYNIC Berhad" },
+  {
+    "domain": ".mz",
+    "type": "country-code",
+    "registry": "Centro de Informatica de Universidade Eduardo Mondlane"
+  },
+  {
+    "domain": ".na",
+    "type": "country-code",
+    "registry": "Namibian Network Information Center"
+  },
+  {
+    "domain": ".nab",
+    "type": "generic",
+    "registry": "National Australia Bank Limited"
+  },
+  { "domain": ".nadex", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".nagoya", "type": "generic", "registry": "GMO Registry, Inc." },
+  {
+    "domain": ".name",
+    "type": "generic-restricted",
+    "registry": "VeriSign Information Services, Inc."
+  },
+  { "domain": ".nationwide", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".natura", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".navy", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".nba", "type": "generic", "registry": "NBA REGISTRY, LLC" },
+  {
+    "domain": ".nc",
+    "type": "country-code",
+    "registry": "Office des Postes et Telecommunications"
+  },
+  { "domain": ".ne", "type": "country-code", "registry": "SONITEL" },
+  { "domain": ".nec", "type": "generic", "registry": "NEC Corporation" },
+  {
+    "domain": ".net",
+    "type": "generic",
+    "registry": "VeriSign Global Registry Services"
+  },
+  {
+    "domain": ".netbank",
+    "type": "generic",
+    "registry": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  { "domain": ".netflix", "type": "generic", "registry": "Netflix, Inc." },
+  { "domain": ".network", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".neustar", "type": "generic", "registry": "NeuStar, Inc." },
+  {
+    "domain": ".new",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".newholland", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".news", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".next", "type": "generic", "registry": "Next plc" },
+  { "domain": ".nextdirect", "type": "generic", "registry": "Next plc" },
+  {
+    "domain": ".nexus",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".nf",
+    "type": "country-code",
+    "registry": "Norfolk Island Data Services"
+  },
+  { "domain": ".nfl", "type": "generic", "registry": "NFL Reg Ops LLC" },
+  {
+    "domain": ".ng",
+    "type": "country-code",
+    "registry": "Nigeria Internet Registration Association"
+  },
+  {
+    "domain": ".ngo",
+    "type": "generic",
+    "registry": "Public Interest Registry"
+  },
+  {
+    "domain": ".nhk",
+    "type": "generic",
+    "registry": "Japan Broadcasting Corporation (NHK)"
+  },
+  {
+    "domain": ".ni",
+    "type": "country-code",
+    "registry": "Universidad Nacional del Ingernieria. Division de Tecnologias de la Informacion."
+  },
+  { "domain": ".nico", "type": "generic", "registry": "DWANGO Co., Ltd." },
+  { "domain": ".nike", "type": "generic", "registry": "NIKE, Inc." },
+  { "domain": ".nikon", "type": "generic", "registry": "NIKON CORPORATION" },
+  { "domain": ".ninja", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".nissan",
+    "type": "generic",
+    "registry": "NISSAN MOTOR CO., LTD."
+  },
+  {
+    "domain": ".nissay",
+    "type": "generic",
+    "registry": "Nippon Life Insurance Company"
+  },
+  {
+    "domain": ".nl",
+    "type": "country-code",
+    "registry": "SIDN (Stichting Internet Domeinregistratie Nederland)"
+  },
+  { "domain": ".no", "type": "country-code", "registry": "Norid A/S" },
+  { "domain": ".nokia", "type": "generic", "registry": "Nokia Corporation" },
+  {
+    "domain": ".northwesternmutual",
+    "type": "generic",
+    "registry": "Not assigned"
+  },
+  { "domain": ".norton", "type": "generic", "registry": "Gen Digital Inc." },
+  {
+    "domain": ".now",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".nowruz",
+    "type": "generic",
+    "registry": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  {
+    "domain": ".nowtv",
+    "type": "generic",
+    "registry": "Starbucks (HK) Limited"
+  },
+  {
+    "domain": ".np",
+    "type": "country-code",
+    "registry": "Mercantile Communications Pvt. Ltd."
+  },
+  { "domain": ".nr", "type": "country-code", "registry": "CENPAC NET" },
+  {
+    "domain": ".nra",
+    "type": "generic",
+    "registry": "National Rifle Association of America"
+  },
+  { "domain": ".nrw", "type": "generic", "registry": "Minds + Machines GmbH" },
+  {
+    "domain": ".ntt",
+    "type": "generic",
+    "registry": "NIPPON TELEGRAPH AND TELEPHONE CORPORATION"
+  },
+  {
+    "domain": ".nu",
+    "type": "country-code",
+    "registry": "The IUSN Foundation"
+  },
+  {
+    "domain": ".nyc",
+    "type": "generic",
+    "registry": "The City of New York by and through the New York City Department of Information Technology & Telecommunications"
+  },
+  { "domain": ".nz", "type": "country-code", "registry": "InternetNZ" },
+  {
+    "domain": ".obi",
+    "type": "generic",
+    "registry": "OBI Group Holding SE & Co. KGaA"
+  },
+  { "domain": ".observer", "type": "generic", "registry": "Fegistry, LLC" },
+  { "domain": ".off", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".office",
+    "type": "generic",
+    "registry": "Microsoft Corporation"
+  },
+  { "domain": ".okinawa", "type": "generic", "registry": "BRregistry, Inc." },
+  {
+    "domain": ".olayan",
+    "type": "generic",
+    "registry": "Competrol (Luxembourg) Sarl"
+  },
+  {
+    "domain": ".olayangroup",
+    "type": "generic",
+    "registry": "Competrol (Luxembourg) Sarl"
+  },
+  { "domain": ".oldnavy", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".ollo", "type": "generic", "registry": "Dish DBS Corporation" },
+  {
+    "domain": ".om",
+    "type": "country-code",
+    "registry": "Telecommunications Regulatory Authority (TRA)"
+  },
+  { "domain": ".omega", "type": "generic", "registry": "The Swatch Group Ltd" },
+  { "domain": ".one", "type": "generic", "registry": "One.com A/S" },
+  {
+    "domain": ".ong",
+    "type": "generic",
+    "registry": "Public Interest Registry"
+  },
+  { "domain": ".onl", "type": "generic", "registry": "iRegistry GmbH" },
+  {
+    "domain": ".online",
+    "type": "generic",
+    "registry": "Radix Technologies Inc. SEZC"
+  },
+  { "domain": ".onyourside", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".ooo",
+    "type": "generic",
+    "registry": "INFIBEAM AVENUES LIMITED"
+  },
+  {
+    "domain": ".open",
+    "type": "generic",
+    "registry": "American Express Travel Related Services Company, Inc."
+  },
+  { "domain": ".oracle", "type": "generic", "registry": "Oracle Corporation" },
+  {
+    "domain": ".orange",
+    "type": "generic",
+    "registry": "Orange Brand Services Limited"
+  },
+  {
+    "domain": ".org",
+    "type": "generic",
+    "registry": "Public Interest Registry (PIR)"
+  },
+  {
+    "domain": ".organic",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".orientexpress", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".origins",
+    "type": "generic",
+    "registry": "The Estée Lauder Companies Inc."
+  },
+  {
+    "domain": ".osaka",
+    "type": "generic",
+    "registry": "Osaka Registry Co., Ltd."
+  },
+  {
+    "domain": ".otsuka",
+    "type": "generic",
+    "registry": "Otsuka Holdings Co., Ltd."
+  },
+  { "domain": ".ott", "type": "generic", "registry": "Dish DBS Corporation" },
+  { "domain": ".ovh", "type": "generic", "registry": "OVH SAS" },
+  {
+    "domain": ".pa",
+    "type": "country-code",
+    "registry": "Universidad Tecnologica de Panama"
+  },
+  {
+    "domain": ".page",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".pamperedchef", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".panasonic",
+    "type": "generic",
+    "registry": "Panasonic Corporation"
+  },
+  { "domain": ".panerai", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".paris", "type": "generic", "registry": "City of Paris" },
+  {
+    "domain": ".pars",
+    "type": "generic",
+    "registry": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  { "domain": ".partners", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".parts", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".party",
+    "type": "generic",
+    "registry": "Blue Sky Registry Limited"
+  },
+  { "domain": ".passagens", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".pay",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".pccw",
+    "type": "generic",
+    "registry": "PCCW Enterprises Limited"
+  },
+  {
+    "domain": ".pe",
+    "type": "country-code",
+    "registry": "Red Cientifica Peruana"
+  },
+  {
+    "domain": ".pet",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".pf",
+    "type": "country-code",
+    "registry": "Gouvernement de la Polynésie française"
+  },
+  { "domain": ".pfizer", "type": "generic", "registry": "Pfizer Inc." },
+  {
+    "domain": ".pg",
+    "type": "country-code",
+    "registry": "PNG DNS Administration, Vice Chancellors Office, The Papua New Guinea University of Technology"
+  },
+  {
+    "domain": ".ph",
+    "type": "country-code",
+    "registry": "PH Domain Foundation"
+  },
+  {
+    "domain": ".pharmacy",
+    "type": "generic",
+    "registry": "National Association of Boards of Pharmacy"
+  },
+  {
+    "domain": ".phd",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".philips",
+    "type": "generic",
+    "registry": "Koninklijke Philips N.V."
+  },
+  { "domain": ".phone", "type": "generic", "registry": "Dish DBS Corporation" },
+  {
+    "domain": ".photo",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".photography",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  { "domain": ".photos", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".physio", "type": "generic", "registry": "PhysBiz Pty Ltd" },
+  { "domain": ".piaget", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".pics", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".pictet",
+    "type": "generic",
+    "registry": "Banque Pictet & Cie SA"
+  },
+  { "domain": ".pictures", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".pid",
+    "type": "generic",
+    "registry": "Top Level Spectrum, Inc."
+  },
+  {
+    "domain": ".pin",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".ping",
+    "type": "generic",
+    "registry": "Ping Registry Provider, Inc."
+  },
+  {
+    "domain": ".pink",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".pioneer",
+    "type": "generic",
+    "registry": "Pioneer Corporation"
+  },
+  { "domain": ".pizza", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".pk", "type": "country-code", "registry": "PKNIC" },
+  {
+    "domain": ".pl",
+    "type": "country-code",
+    "registry": "Research and Academic Computer Network"
+  },
+  { "domain": ".place", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".play",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".playstation",
+    "type": "generic",
+    "registry": "Sony Computer Entertainment Inc."
+  },
+  { "domain": ".plumbing", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".plus", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".pm",
+    "type": "country-code",
+    "registry": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "domain": ".pn",
+    "type": "country-code",
+    "registry": "Pitcairn Island Administration"
+  },
+  { "domain": ".pnc", "type": "generic", "registry": "PNC Domain Co., LLC" },
+  {
+    "domain": ".pohl",
+    "type": "generic",
+    "registry": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "domain": ".poker",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".politie", "type": "generic", "registry": "Politie Nederland" },
+  { "domain": ".porn", "type": "generic", "registry": "ICM Registry PN LLC" },
+  {
+    "domain": ".post",
+    "type": "sponsored",
+    "registry": "Universal Postal Union"
+  },
+  {
+    "domain": ".pr",
+    "type": "country-code",
+    "registry": "Gauss Research Laboratory Inc."
+  },
+  { "domain": ".pramerica", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".praxi", "type": "generic", "registry": "Praxi S.p.A." },
+  {
+    "domain": ".press",
+    "type": "generic",
+    "registry": "Radix Technologies Inc."
+  },
+  {
+    "domain": ".prime",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".pro",
+    "type": "generic-restricted",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".prod",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".productions",
+    "type": "generic",
+    "registry": "Binky Moon, LLC"
+  },
+  {
+    "domain": ".prof",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".progressive",
+    "type": "generic",
+    "registry": "Progressive Casualty Insurance Company"
+  },
+  {
+    "domain": ".promo",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".properties", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".property",
+    "type": "generic",
+    "registry": "Digital Property Infrastructure Limited"
+  },
+  { "domain": ".protection", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".pru",
+    "type": "generic",
+    "registry": "Prudential Financial, Inc."
+  },
+  {
+    "domain": ".prudential",
+    "type": "generic",
+    "registry": "Prudential Financial, Inc."
+  },
+  {
+    "domain": ".ps",
+    "type": "country-code",
+    "registry": "Ministry of Telecommunications & Information Technology, Government Computer Center"
+  },
+  { "domain": ".pt", "type": "country-code", "registry": "Associação DNS.PT" },
+  { "domain": ".pub", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".pw",
+    "type": "country-code",
+    "registry": "Micronesia Investment and Development Corporation"
+  },
+  {
+    "domain": ".pwc",
+    "type": "generic",
+    "registry": "PricewaterhouseCoopers LLP"
+  },
+  { "domain": ".py", "type": "country-code", "registry": "NIC-PY" },
+  {
+    "domain": ".qa",
+    "type": "country-code",
+    "registry": "Communications Regulatory Authority"
+  },
+  { "domain": ".qpon", "type": "generic", "registry": "DOTQPON LLC." },
+  { "domain": ".quebec", "type": "generic", "registry": "PointQuébec Inc" },
+  { "domain": ".quest", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".qvc", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".racing",
+    "type": "generic",
+    "registry": "Premier Registry Limited"
+  },
+  {
+    "domain": ".radio",
+    "type": "generic",
+    "registry": "European Broadcasting Union (EBU)"
+  },
+  { "domain": ".raid", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".re",
+    "type": "country-code",
+    "registry": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "domain": ".read",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".realestate",
+    "type": "generic",
+    "registry": "dotRealEstate LLC"
+  },
+  {
+    "domain": ".realtor",
+    "type": "generic",
+    "registry": "Real Estate Domains LLC"
+  },
+  { "domain": ".realty", "type": "generic", "registry": "Internet Naming Co." },
+  { "domain": ".recipes", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".red",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".redstone", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".redumbrella",
+    "type": "generic",
+    "registry": "Travelers TLD, LLC"
+  },
+  { "domain": ".rehab", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".reise", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".reisen", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".reit",
+    "type": "generic",
+    "registry": "National Association of Real Estate Investment Trusts, Inc."
+  },
+  {
+    "domain": ".reliance",
+    "type": "generic",
+    "registry": "Reliance Industries Limited"
+  },
+  {
+    "domain": ".ren",
+    "type": "generic",
+    "registry": "ZDNS International Limited"
+  },
+  { "domain": ".rent", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".rentals", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".repair", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".report", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".republican", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".rest",
+    "type": "generic",
+    "registry": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+  },
+  { "domain": ".restaurant", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".review", "type": "generic", "registry": "dot Review Limited" },
+  { "domain": ".reviews", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".rexroth", "type": "generic", "registry": "Robert Bosch GMBH" },
+  { "domain": ".rich", "type": "generic", "registry": "iRegistry GmbH" },
+  {
+    "domain": ".richardli",
+    "type": "generic",
+    "registry": "Pacific Century Asset Management (HK) Limited"
+  },
+  { "domain": ".ricoh", "type": "generic", "registry": "Ricoh Company, Ltd." },
+  { "domain": ".rightathome", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".ril",
+    "type": "generic",
+    "registry": "Reliance Industries Limited"
+  },
+  {
+    "domain": ".rio",
+    "type": "generic",
+    "registry": "Empresa Municipal de Informática SA - IPLANRIO"
+  },
+  { "domain": ".rip", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".rmit", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".ro",
+    "type": "country-code",
+    "registry": "National Institute for R&D in Informatics"
+  },
+  { "domain": ".rocher", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".rocks", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".rodeo",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".rogers",
+    "type": "generic",
+    "registry": "Rogers Communications Canada Inc."
+  },
+  {
+    "domain": ".room",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".rs",
+    "type": "country-code",
+    "registry": "Serbian National Internet Domain Registry (RNIDS)"
+  },
+  {
+    "domain": ".rsvp",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".ru",
+    "type": "country-code",
+    "registry": "Coordination Center for TLD RU"
+  },
+  {
+    "domain": ".rugby",
+    "type": "generic",
+    "registry": "World Rugby Strategic Developments Limited"
+  },
+  { "domain": ".ruhr", "type": "generic", "registry": "dotSaarland GmbH" },
+  { "domain": ".run", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".rw",
+    "type": "country-code",
+    "registry": "Rwanda Internet Community and Technology Alliance (RICTA) Ltd"
+  },
+  { "domain": ".rwe", "type": "generic", "registry": "RWE AG" },
+  { "domain": ".ryukyu", "type": "generic", "registry": "BRregistry, Inc." },
+  {
+    "domain": ".sa",
+    "type": "country-code",
+    "registry": "Communications, Space and Technology Commission"
+  },
+  { "domain": ".saarland", "type": "generic", "registry": "dotSaarland GmbH" },
+  {
+    "domain": ".safe",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".safety",
+    "type": "generic",
+    "registry": "Safety Registry Services, LLC."
+  },
+  {
+    "domain": ".sakura",
+    "type": "generic",
+    "registry": "SAKURA internet Inc."
+  },
+  { "domain": ".sale", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".salon", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".samsclub",
+    "type": "generic",
+    "registry": "Wal-Mart Stores, Inc."
+  },
+  {
+    "domain": ".samsung",
+    "type": "generic",
+    "registry": "SAMSUNG SDS CO., LTD"
+  },
+  { "domain": ".sandvik", "type": "generic", "registry": "Sandvik AB" },
+  { "domain": ".sandvikcoromant", "type": "generic", "registry": "Sandvik AB" },
+  { "domain": ".sanofi", "type": "generic", "registry": "Sanofi" },
+  { "domain": ".sap", "type": "generic", "registry": "SAP AG" },
+  { "domain": ".sapo", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".sarl", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".sas", "type": "generic", "registry": "Research IP LLC" },
+  {
+    "domain": ".save",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".saxo", "type": "generic", "registry": "Saxo Bank A/S" },
+  {
+    "domain": ".sb",
+    "type": "country-code",
+    "registry": "Solomon Telekom Company Limited"
+  },
+  { "domain": ".sbi", "type": "generic", "registry": "STATE BANK OF INDIA" },
+  { "domain": ".sbs", "type": "generic", "registry": "Shortdot SA" },
+  { "domain": ".sc", "type": "country-code", "registry": "VCS Pty Ltd" },
+  { "domain": ".sca", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".scb",
+    "type": "generic",
+    "registry": "The Siam Commercial Bank Public Company Limited ('SCB')"
+  },
+  {
+    "domain": ".schaeffler",
+    "type": "generic",
+    "registry": "Schaeffler Technologies AG & Co. KG"
+  },
+  {
+    "domain": ".schmidt",
+    "type": "generic",
+    "registry": "SCHMIDT GROUPE S.A.S."
+  },
+  {
+    "domain": ".scholarships",
+    "type": "generic",
+    "registry": "Scholarships.com, LLC"
+  },
+  { "domain": ".school", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".schule", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".schwarz",
+    "type": "generic",
+    "registry": "Schwarz Domains und Services GmbH & Co. KG"
+  },
+  {
+    "domain": ".science",
+    "type": "generic",
+    "registry": "dot Science Limited"
+  },
+  { "domain": ".scjohnson", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".scor", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".scot",
+    "type": "generic",
+    "registry": "Dot Scot Registry Limited"
+  },
+  {
+    "domain": ".sd",
+    "type": "country-code",
+    "registry": "Sudan Internet Society"
+  },
+  {
+    "domain": ".se",
+    "type": "country-code",
+    "registry": "The Internet Infrastructure Foundation"
+  },
+  {
+    "domain": ".search",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".seat",
+    "type": "generic",
+    "registry": "SEAT, S.A. (Sociedad Unipersonal)"
+  },
+  {
+    "domain": ".secure",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".security", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".seek", "type": "generic", "registry": "Seek Limited" },
+  {
+    "domain": ".select",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".sener",
+    "type": "generic",
+    "registry": "Sener Ingeniería y Sistemas, S.A."
+  },
+  { "domain": ".services", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".ses", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".seven", "type": "generic", "registry": "Seven West Media Ltd" },
+  {
+    "domain": ".sew",
+    "type": "generic",
+    "registry": "SEW-EURODRIVE GmbH & Co KG"
+  },
+  { "domain": ".sex", "type": "generic", "registry": "ICM Registry SX LLC" },
+  { "domain": ".sexy", "type": "generic", "registry": "Internet Naming Co." },
+  {
+    "domain": ".sfr",
+    "type": "generic",
+    "registry": "Societe Francaise du Radiotelephone - SFR"
+  },
+  {
+    "domain": ".sg",
+    "type": "country-code",
+    "registry": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "domain": ".sh",
+    "type": "country-code",
+    "registry": "Government of St. Helena"
+  },
+  {
+    "domain": ".shangrila",
+    "type": "generic",
+    "registry": "Shangri-La International Hotel Management Limited"
+  },
+  { "domain": ".sharp", "type": "generic", "registry": "Sharp Corporation" },
+  { "domain": ".shaw", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".shell",
+    "type": "generic",
+    "registry": "Shell Information Technology International Inc"
+  },
+  {
+    "domain": ".shia",
+    "type": "generic",
+    "registry": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  {
+    "domain": ".shiksha",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".shoes", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".shop", "type": "generic", "registry": "GMO Registry, Inc." },
+  { "domain": ".shopping", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".shouji",
+    "type": "generic",
+    "registry": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  { "domain": ".show", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".showtime", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".shriram", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".si",
+    "type": "country-code",
+    "registry": "Academic and Research Network of Slovenia (ARNES)"
+  },
+  {
+    "domain": ".silk",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".sina", "type": "generic", "registry": "Sina Corporation" },
+  { "domain": ".singles", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".site",
+    "type": "generic",
+    "registry": "Radix Technologies Inc. SEZC"
+  },
+  { "domain": ".sj", "type": "country-code", "registry": "Norid A/S" },
+  { "domain": ".sk", "type": "country-code", "registry": "SK-NIC, a.s." },
+  {
+    "domain": ".ski",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  { "domain": ".skin", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".sky", "type": "generic", "registry": "Sky UK Limited" },
+  {
+    "domain": ".skype",
+    "type": "generic",
+    "registry": "Microsoft Corporation"
+  },
+  { "domain": ".sl", "type": "country-code", "registry": "Sierratel" },
+  {
+    "domain": ".sling",
+    "type": "generic",
+    "registry": "DISH Technologies L.L.C."
+  },
+  {
+    "domain": ".sm",
+    "type": "country-code",
+    "registry": "Telecom Italia San Marino S.p.A."
+  },
+  {
+    "domain": ".smart",
+    "type": "generic",
+    "registry": "Smart Communications, Inc. (SMART)"
+  },
+  {
+    "domain": ".smile",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".sn",
+    "type": "country-code",
+    "registry": "Universite Cheikh Anta Diop"
+  },
+  {
+    "domain": ".sncf",
+    "type": "generic",
+    "registry": "Société Nationale SNCF"
+  },
+  {
+    "domain": ".so",
+    "type": "country-code",
+    "registry": "Ministry of Post and Telecommunications"
+  },
+  { "domain": ".soccer", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".social", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".softbank",
+    "type": "generic",
+    "registry": "SoftBank Group Corp."
+  },
+  { "domain": ".software", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".sohu", "type": "generic", "registry": "Sohu.com Limited" },
+  { "domain": ".solar", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".solutions", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".song",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".sony", "type": "generic", "registry": "Sony Corporation" },
+  {
+    "domain": ".soy",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".spa",
+    "type": "generic",
+    "registry": "Asia Spa and Wellness Promotion Council Limited"
+  },
+  {
+    "domain": ".space",
+    "type": "generic",
+    "registry": "Radix Technologies Inc."
+  },
+  { "domain": ".spiegel", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".sport", "type": "generic", "registry": "SportAccord" },
+  {
+    "domain": ".spot",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".spreadbetting", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".sr", "type": "country-code", "registry": "Telesur" },
+  { "domain": ".srl", "type": "generic", "registry": "InterNetX Corp." },
+  { "domain": ".srt", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".ss",
+    "type": "country-code",
+    "registry": "National Communication Authority (NCA)"
+  },
+  { "domain": ".st", "type": "country-code", "registry": "Tecnisys" },
+  {
+    "domain": ".stada",
+    "type": "generic",
+    "registry": "STADA Arzneimittel AG"
+  },
+  { "domain": ".staples", "type": "generic", "registry": "Staples, Inc." },
+  {
+    "domain": ".star",
+    "type": "generic",
+    "registry": "Star India Private Limited"
+  },
+  { "domain": ".starhub", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".statebank",
+    "type": "generic",
+    "registry": "STATE BANK OF INDIA"
+  },
+  {
+    "domain": ".statefarm",
+    "type": "generic",
+    "registry": "State Farm Mutual Automobile Insurance Company"
+  },
+  { "domain": ".statoil", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".stc", "type": "generic", "registry": "Saudi Telecom Company" },
+  {
+    "domain": ".stcgroup",
+    "type": "generic",
+    "registry": "Saudi Telecom Company"
+  },
+  {
+    "domain": ".stockholm",
+    "type": "generic",
+    "registry": "Stockholms kommun"
+  },
+  { "domain": ".storage", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".store",
+    "type": "generic",
+    "registry": "Radix Technologies Inc."
+  },
+  { "domain": ".stream", "type": "generic", "registry": "dot Stream Limited" },
+  { "domain": ".studio", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".study",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".style", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".su",
+    "type": "country-code",
+    "registry": "Russian Institute for Development of Public Networks (ROSNIIROS)"
+  },
+  {
+    "domain": ".sucks",
+    "type": "generic",
+    "registry": "Vox Populi Registry Ltd."
+  },
+  { "domain": ".supplies", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".supply", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".support", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".surf",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".surgery", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".suzuki",
+    "type": "generic",
+    "registry": "SUZUKI MOTOR CORPORATION"
+  },
+  { "domain": ".sv", "type": "country-code", "registry": "SVNet" },
+  {
+    "domain": ".swatch",
+    "type": "generic",
+    "registry": "The Swatch Group Ltd"
+  },
+  { "domain": ".swiftcover", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".swiss", "type": "generic", "registry": "Swiss Confederation" },
+  {
+    "domain": ".sx",
+    "type": "country-code",
+    "registry": "SX Registry SA B.V."
+  },
+  {
+    "domain": ".sy",
+    "type": "country-code",
+    "registry": "National Agency for Network Services (NANS)"
+  },
+  {
+    "domain": ".sydney",
+    "type": "generic",
+    "registry": "State of New South Wales, Department of Premier and Cabinet"
+  },
+  { "domain": ".symantec", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".systems", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".sz",
+    "type": "country-code",
+    "registry": "University of Swaziland Department of Computer Science"
+  },
+  {
+    "domain": ".tab",
+    "type": "generic",
+    "registry": "Tabcorp Holdings Limited"
+  },
+  {
+    "domain": ".taipei",
+    "type": "generic",
+    "registry": "Taipei City Government"
+  },
+  {
+    "domain": ".talk",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".taobao",
+    "type": "generic",
+    "registry": "Alibaba Group Holding Limited"
+  },
+  {
+    "domain": ".target",
+    "type": "generic",
+    "registry": "Target Domain Holdings, LLC"
+  },
+  { "domain": ".tatamotors", "type": "generic", "registry": "Tata Motors Ltd" },
+  {
+    "domain": ".tatar",
+    "type": "generic",
+    "registry": "Limited Liability Company 'Coordination Center of Regional Domain of Tatarstan Republic'"
+  },
+  {
+    "domain": ".tattoo",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".tax", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".taxi", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".tc", "type": "country-code", "registry": "Melrex TC" },
+  {
+    "domain": ".tci",
+    "type": "generic",
+    "registry": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  {
+    "domain": ".td",
+    "type": "country-code",
+    "registry": "l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC)"
+  },
+  { "domain": ".tdk", "type": "generic", "registry": "TDK Corporation" },
+  { "domain": ".team", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".tech",
+    "type": "generic",
+    "registry": "Radix Technologies Inc."
+  },
+  { "domain": ".technology", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".tel", "type": "sponsored", "registry": "Telnames Ltd." },
+  { "domain": ".telecity", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".telefonica", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".temasek",
+    "type": "generic",
+    "registry": "Temasek Holdings (Private) Limited"
+  },
+  { "domain": ".tennis", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".teva",
+    "type": "generic",
+    "registry": "Teva Pharmaceutical Industries Limited"
+  },
+  {
+    "domain": ".tf",
+    "type": "country-code",
+    "registry": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "domain": ".tg",
+    "type": "country-code",
+    "registry": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)"
+  },
+  {
+    "domain": ".th",
+    "type": "country-code",
+    "registry": "Thai Network Information Center Foundation"
+  },
+  {
+    "domain": ".thd",
+    "type": "generic",
+    "registry": "Home Depot Product Authority, LLC"
+  },
+  { "domain": ".theater", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".theatre", "type": "generic", "registry": "XYZ.COM LLC" },
+  {
+    "domain": ".tiaa",
+    "type": "generic",
+    "registry": "Teachers Insurance and Annuity Association of America"
+  },
+  { "domain": ".tickets", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".tienda", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".tiffany", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".tips", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".tires", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".tirol", "type": "generic", "registry": "punkt Tirol GmbH" },
+  {
+    "domain": ".tj",
+    "type": "country-code",
+    "registry": "Information Technology Center"
+  },
+  {
+    "domain": ".tjmaxx",
+    "type": "generic",
+    "registry": "The TJX Companies, Inc."
+  },
+  {
+    "domain": ".tjx",
+    "type": "generic",
+    "registry": "The TJX Companies, Inc."
+  },
+  {
+    "domain": ".tk",
+    "type": "country-code",
+    "registry": "Telecommunication Tokelau Corporation (Teletok)"
+  },
+  {
+    "domain": ".tkmaxx",
+    "type": "generic",
+    "registry": "The TJX Companies, Inc."
+  },
+  {
+    "domain": ".tl",
+    "type": "country-code",
+    "registry": "Autoridade Nacional de Comunicações"
+  },
+  {
+    "domain": ".tm",
+    "type": "country-code",
+    "registry": "TM Domain Registry Ltd"
+  },
+  {
+    "domain": ".tmall",
+    "type": "generic",
+    "registry": "Alibaba Group Holding Limited"
+  },
+  {
+    "domain": ".tn",
+    "type": "country-code",
+    "registry": "Agence Tunisienne d'Internet"
+  },
+  {
+    "domain": ".to",
+    "type": "country-code",
+    "registry": "Government of the Kingdom of Tonga, H.R.H. Crown Prince Tupouto'a, c/o Consulate of Tonga"
+  },
+  { "domain": ".today", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".tokyo", "type": "generic", "registry": "GMO Registry, Inc." },
+  { "domain": ".tools", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".top", "type": "generic", "registry": ".TOP Registry" },
+  {
+    "domain": ".toray",
+    "type": "generic",
+    "registry": "Toray Industries, Inc."
+  },
+  {
+    "domain": ".toshiba",
+    "type": "generic",
+    "registry": "TOSHIBA Corporation"
+  },
+  { "domain": ".total", "type": "generic", "registry": "TotalEnergies SE" },
+  { "domain": ".tours", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".town", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".toyota",
+    "type": "generic",
+    "registry": "TOYOTA MOTOR CORPORATION"
+  },
+  { "domain": ".toys", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".tp", "type": "country-code", "registry": "Not assigned" },
+  {
+    "domain": ".tr",
+    "type": "country-code",
+    "registry": "Bilgi Teknolojileri ve İletişim Kurumu (BTK)"
+  },
+  {
+    "domain": ".trade",
+    "type": "generic",
+    "registry": "Elite Registry Limited"
+  },
+  { "domain": ".trading", "type": "generic", "registry": "Dog Beach, LLC" },
+  { "domain": ".training", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".travel", "type": "sponsored", "registry": "Dog Beach, LLC" },
+  { "domain": ".travelchannel", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".travelers",
+    "type": "generic",
+    "registry": "Travelers TLD, LLC"
+  },
+  {
+    "domain": ".travelersinsurance",
+    "type": "generic",
+    "registry": "Travelers TLD, LLC"
+  },
+  { "domain": ".trust", "type": "generic", "registry": "Internet Naming Co." },
+  { "domain": ".trv", "type": "generic", "registry": "Travelers TLD, LLC" },
+  {
+    "domain": ".tt",
+    "type": "country-code",
+    "registry": "University of the West Indies, Faculty of Engineering"
+  },
+  {
+    "domain": ".tube",
+    "type": "generic",
+    "registry": "Latin American Telecom LLC"
+  },
+  { "domain": ".tui", "type": "generic", "registry": "TUI AG" },
+  {
+    "domain": ".tunes",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".tushu",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".tv",
+    "type": "country-code",
+    "registry": "Ministry of Transport, Energy, Communications and Innovations"
+  },
+  {
+    "domain": ".tvs",
+    "type": "generic",
+    "registry": "T V SUNDRAM IYENGAR & SONS PRIVATE LIMITED"
+  },
+  {
+    "domain": ".tw",
+    "type": "country-code",
+    "registry": "Taiwan Network Information Center (TWNIC)"
+  },
+  {
+    "domain": ".tz",
+    "type": "country-code",
+    "registry": "Tanzania Communications Regulatory Authority"
+  },
+  { "domain": ".ua", "type": "country-code", "registry": "Hostmaster Ltd." },
+  {
+    "domain": ".ubank",
+    "type": "generic",
+    "registry": "National Australia Bank Limited"
+  },
+  { "domain": ".ubs", "type": "generic", "registry": "UBS AG" },
+  { "domain": ".uconnect", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".ug", "type": "country-code", "registry": "Uganda Online Ltd." },
+  { "domain": ".uk", "type": "country-code", "registry": "Nominet UK" },
+  { "domain": ".um", "type": "country-code", "registry": "Not assigned" },
+  {
+    "domain": ".unicom",
+    "type": "generic",
+    "registry": "China United Network Communications Corporation Limited"
+  },
+  { "domain": ".university", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".uno",
+    "type": "generic",
+    "registry": "Radix Technologies Inc."
+  },
+  { "domain": ".uol", "type": "generic", "registry": "UBN INTERNET LTDA." },
+  {
+    "domain": ".ups",
+    "type": "generic",
+    "registry": "UPS Market Driver, Inc."
+  },
+  {
+    "domain": ".us",
+    "type": "country-code",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".uy",
+    "type": "country-code",
+    "registry": "SeCIU - Universidad de la Republica"
+  },
+  {
+    "domain": ".uz",
+    "type": "country-code",
+    "registry": "Single Integrator for Creation and Support of State Information Systems UZINFOCOM"
+  },
+  {
+    "domain": ".va",
+    "type": "country-code",
+    "registry": "Holy See - Vatican City State"
+  },
+  { "domain": ".vacations", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".vana", "type": "generic", "registry": "D3 Registry LLC" },
+  {
+    "domain": ".vanguard",
+    "type": "generic",
+    "registry": "The Vanguard Group, Inc."
+  },
+  {
+    "domain": ".vc",
+    "type": "country-code",
+    "registry": "Ministry of Telecommunications, Science, Technology and Industry"
+  },
+  {
+    "domain": ".ve",
+    "type": "country-code",
+    "registry": "Comisión Nacional de Telecomunicaciones (CONATEL)"
+  },
+  { "domain": ".vegas", "type": "generic", "registry": "Dot Vegas, Inc." },
+  { "domain": ".ventures", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".verisign", "type": "generic", "registry": "VeriSign, Inc." },
+  { "domain": ".versicherung", "type": "generic", "registry": "tldbox GmbH" },
+  { "domain": ".vet", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".vg",
+    "type": "country-code",
+    "registry": "Telecommunications Regulatory Commission of the Virgin Islands"
+  },
+  {
+    "domain": ".vi",
+    "type": "country-code",
+    "registry": "Virgin Islands Public Telecommunications System, Inc."
+  },
+  { "domain": ".viajes", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".video", "type": "generic", "registry": "Dog Beach, LLC" },
+  {
+    "domain": ".vig",
+    "type": "generic",
+    "registry": "VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe"
+  },
+  {
+    "domain": ".viking",
+    "type": "generic",
+    "registry": "Viking River Cruises (Bermuda) Ltd."
+  },
+  { "domain": ".villas", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".vin", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".vip", "type": "generic", "registry": "Registry Services, LLC" },
+  {
+    "domain": ".virgin",
+    "type": "generic",
+    "registry": "Virgin Enterprises Limited"
+  },
+  {
+    "domain": ".visa",
+    "type": "generic",
+    "registry": "Visa Worldwide Pte. Limited"
+  },
+  { "domain": ".vision", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".vista", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".vistaprint", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".viva", "type": "generic", "registry": "Saudi Telecom Company" },
+  {
+    "domain": ".vivo",
+    "type": "generic",
+    "registry": "Telefonica Brasil S.A."
+  },
+  { "domain": ".vlaanderen", "type": "generic", "registry": "DNS.be vzw" },
+  {
+    "domain": ".vn",
+    "type": "country-code",
+    "registry": "Viet Nam Internet Network Information Center (VNNIC)"
+  },
+  {
+    "domain": ".vodka",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".volkswagen", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".volvo",
+    "type": "generic",
+    "registry": "Volvo Holding Sverige Aktiebolag"
+  },
+  { "domain": ".vote", "type": "generic", "registry": "Monolith Registry LLC" },
+  { "domain": ".voting", "type": "generic", "registry": "Valuetainment Corp." },
+  { "domain": ".voto", "type": "generic", "registry": "Monolith Registry LLC" },
+  { "domain": ".voyage", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".vu",
+    "type": "country-code",
+    "registry": "Telecommunications Radiocommunications and Broadcasting Regulator (TRBR)"
+  },
+  { "domain": ".vuelos", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".wales", "type": "generic", "registry": "Nominet UK" },
+  {
+    "domain": ".walmart",
+    "type": "generic",
+    "registry": "Wal-Mart Stores, Inc."
+  },
+  { "domain": ".walter", "type": "generic", "registry": "Sandvik AB" },
+  { "domain": ".wang", "type": "generic", "registry": "Zodiac Wang Limited" },
+  {
+    "domain": ".wanggou",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".warman", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".watch", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".watches",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".weather",
+    "type": "generic",
+    "registry": "International Business Machines Corporation"
+  },
+  {
+    "domain": ".weatherchannel",
+    "type": "generic",
+    "registry": "International Business Machines Corporation"
+  },
+  { "domain": ".webcam", "type": "generic", "registry": "dot Webcam Limited" },
+  {
+    "domain": ".weber",
+    "type": "generic",
+    "registry": "Saint-Gobain Weber SA"
+  },
+  {
+    "domain": ".website",
+    "type": "generic",
+    "registry": "Radix Technologies Inc."
+  },
+  {
+    "domain": ".wed",
+    "type": "generic",
+    "registry": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  {
+    "domain": ".wedding",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".weibo", "type": "generic", "registry": "Sina Corporation" },
+  { "domain": ".weir", "type": "generic", "registry": "Weir Group IP Limited" },
+  {
+    "domain": ".wf",
+    "type": "country-code",
+    "registry": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  { "domain": ".whoswho", "type": "generic", "registry": "Who's Who Registry" },
+  { "domain": ".wien", "type": "generic", "registry": "punkt.wien GmbH" },
+  {
+    "domain": ".wiki",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".williamhill",
+    "type": "generic",
+    "registry": "William Hill Organization Limited"
+  },
+  { "domain": ".win", "type": "generic", "registry": "First Registry Limited" },
+  {
+    "domain": ".windows",
+    "type": "generic",
+    "registry": "Microsoft Corporation"
+  },
+  { "domain": ".wine", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".winners",
+    "type": "generic",
+    "registry": "The TJX Companies, Inc."
+  },
+  {
+    "domain": ".wme",
+    "type": "generic",
+    "registry": "William Morris Endeavor Entertainment, LLC"
+  },
+  {
+    "domain": ".wolterskluwer",
+    "type": "generic",
+    "registry": "Wolters Kluwer N.V."
+  },
+  {
+    "domain": ".woodside",
+    "type": "generic",
+    "registry": "Woodside Petroleum Limited"
+  },
+  {
+    "domain": ".work",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  { "domain": ".works", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".world", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".wow",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".ws",
+    "type": "country-code",
+    "registry": "Government of Samoa Ministry of Foreign Affairs & Trade"
+  },
+  {
+    "domain": ".wtc",
+    "type": "generic",
+    "registry": "World Trade Centers Association, Inc."
+  },
+  { "domain": ".wtf", "type": "generic", "registry": "Binky Moon, LLC" },
+  { "domain": ".xbox", "type": "generic", "registry": "Microsoft Corporation" },
+  { "domain": ".xerox", "type": "generic", "registry": "Xerox DNHC LLC" },
+  { "domain": ".xfinity", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".xihuan",
+    "type": "generic",
+    "registry": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  { "domain": ".xin", "type": "generic", "registry": "Elegant Leader Limited" },
+  { "domain": ".कॉम", "type": "generic", "registry": "VeriSign Sarl" },
+  {
+    "domain": ".セール",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".佛山",
+    "type": "generic",
+    "registry": "Guangzhou YU Wei Information Technology Co., Ltd."
+  },
+  {
+    "domain": ".ಭಾರತ",
+    "type": "country-code",
+    "registry": "National Internet eXchange of India"
+  },
+  {
+    "domain": ".慈善",
+    "type": "generic",
+    "registry": "Excellent First Limited"
+  },
+  { "domain": ".集团", "type": "generic", "registry": "Eagle Horizon Limited" },
+  {
+    "domain": ".在线",
+    "type": "generic",
+    "registry": "Beijing Tld Registry Technology Limited"
+  },
+  {
+    "domain": ".한국",
+    "type": "country-code",
+    "registry": "KISA (Korea Internet & Security Agency)"
+  },
+  {
+    "domain": ".ଭାରତ",
+    "type": "country-code",
+    "registry": "National Internet eXchange of India"
+  },
+  { "domain": ".大众汽车", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".点看", "type": "generic", "registry": "VeriSign Sarl" },
+  { "domain": ".คอม", "type": "generic", "registry": "VeriSign Sarl" },
+  {
+    "domain": ".ভাৰত",
+    "type": "country-code",
+    "registry": "National Internet eXchange of India"
+  },
+  {
+    "domain": ".ভারত",
+    "type": "country-code",
+    "registry": "National Internet Exchange of India"
+  },
+  { "domain": ".八卦", "type": "generic", "registry": "Zodiac Gemini Ltd" },
+  {
+    "domain": "‏.ישראל‎",
+    "type": "country-code",
+    "registry": "The Israel Internet Association (RA)"
+  },
+  { "domain": "‏.موقع‎", "type": "generic", "registry": "Helium TLDs Ltd" },
+  {
+    "domain": ".বাংলা",
+    "type": "country-code",
+    "registry": "Posts and Telecommunications Division"
+  },
+  {
+    "domain": ".公益",
+    "type": "generic",
+    "registry": "China Organizational Name Administration Center"
+  },
+  {
+    "domain": ".公司",
+    "type": "generic",
+    "registry": "China Internet Network Information Center (CNNIC)"
+  },
+  {
+    "domain": ".香格里拉",
+    "type": "generic",
+    "registry": "Shangri-La International Hotel Management Limited"
+  },
+  {
+    "domain": ".网站",
+    "type": "generic",
+    "registry": "Global Website TLD Asia Limited"
+  },
+  {
+    "domain": ".移动",
+    "type": "generic",
+    "registry": "Identity Digital Limited"
+  },
+  {
+    "domain": ".我爱你",
+    "type": "generic",
+    "registry": "Tycoon Treasure Limited"
+  },
+  {
+    "domain": ".москва",
+    "type": "generic",
+    "registry": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+  },
+  {
+    "domain": ".қаз",
+    "type": "country-code",
+    "registry": "Association of IT Companies of Kazakhstan"
+  },
+  {
+    "domain": ".католик",
+    "type": "generic",
+    "registry": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  { "domain": ".онлайн", "type": "generic", "registry": "CORE Association" },
+  { "domain": ".сайт", "type": "generic", "registry": "CORE Association" },
+  {
+    "domain": ".联通",
+    "type": "generic",
+    "registry": "China United Network Communications Corporation Limited"
+  },
+  {
+    "domain": ".срб",
+    "type": "country-code",
+    "registry": "Serbian National Internet Domain Registry (RNIDS)"
+  },
+  { "domain": ".бг", "type": "country-code", "registry": "Imena.BG AD" },
+  {
+    "domain": ".бел",
+    "type": "country-code",
+    "registry": "Belarusian Cloud Technologies LLC"
+  },
+  { "domain": "‏.קום‎", "type": "generic", "registry": "VeriSign Sarl" },
+  { "domain": ".时尚", "type": "generic", "registry": "RISE VICTORY LIMITED" },
+  { "domain": ".微博", "type": "generic", "registry": "Sina Corporation" },
+  {
+    "domain": ".淡马锡",
+    "type": "generic",
+    "registry": "Temasek Holdings (Private) Limited"
+  },
+  {
+    "domain": ".ファッション",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".орг",
+    "type": "generic",
+    "registry": "Public Interest Registry"
+  },
+  { "domain": ".नेट", "type": "generic", "registry": "VeriSign Sarl" },
+  {
+    "domain": ".ストア",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".アマゾン",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".삼성", "type": "generic", "registry": "SAMSUNG SDS CO., LTD" },
+  {
+    "domain": ".சிங்கப்பூர்",
+    "type": "country-code",
+    "registry": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "domain": ".商标",
+    "type": "generic",
+    "registry": "Internet DotTrademark Organisation Limited"
+  },
+  { "domain": ".商店", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".商城",
+    "type": "generic",
+    "registry": "Zodiac Aquarius Limited"
+  },
+  {
+    "domain": ".дети",
+    "type": "generic",
+    "registry": "The Foundation for Network Initiatives “The Smart Internet”"
+  },
+  {
+    "domain": ".мкд",
+    "type": "country-code",
+    "registry": "Macedonian Academic Research Network Skopje"
+  },
+  { "domain": ".ею", "type": "country-code", "registry": "EURid vzw" },
+  {
+    "domain": ".ポイント",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".新闻",
+    "type": "generic",
+    "registry": "Guangzhou YU Wei Information and Technology Co.,Ltd"
+  },
+  { "domain": ".工行", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".家電",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": "‏.كوم‎", "type": "generic", "registry": "VeriSign Sarl" },
+  {
+    "domain": ".中文网",
+    "type": "generic",
+    "registry": "TLD REGISTRY LIMITED"
+  },
+  {
+    "domain": ".中信",
+    "type": "generic",
+    "registry": "CITIC Group Corporation"
+  },
+  {
+    "domain": ".中国",
+    "type": "country-code",
+    "registry": "China Internet Network Information Center (CNNIC)"
+  },
+  {
+    "domain": ".中國",
+    "type": "country-code",
+    "registry": "China Internet Network Information Center (CNNIC)"
+  },
+  { "domain": ".娱乐", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".谷歌",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".భారత్",
+    "type": "country-code",
+    "registry": "National Internet Exchange of India"
+  },
+  {
+    "domain": ".ලංකා",
+    "type": "country-code",
+    "registry": "LK Domain Registry"
+  },
+  {
+    "domain": ".電訊盈科",
+    "type": "generic",
+    "registry": "PCCW Enterprises Limited"
+  },
+  {
+    "domain": ".购物",
+    "type": "generic",
+    "registry": "Nawang Heli(Xiamen) Network Service Co., LTD."
+  },
+  {
+    "domain": ".クラウド",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".ભારત",
+    "type": "country-code",
+    "registry": "National Internet Exchange of India"
+  },
+  {
+    "domain": ".通販",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".भारतम्",
+    "type": "country-code",
+    "registry": "National Internet eXchange of India"
+  },
+  {
+    "domain": ".भारत",
+    "type": "country-code",
+    "registry": "National Internet Exchange of India"
+  },
+  {
+    "domain": ".भारोत",
+    "type": "country-code",
+    "registry": "National Internet eXchange of India"
+  },
+  { "domain": ".网店", "type": "generic", "registry": "Zodiac Taurus Ltd." },
+  {
+    "domain": ".संगठन",
+    "type": "generic",
+    "registry": "Public Interest Registry"
+  },
+  {
+    "domain": ".餐厅",
+    "type": "generic",
+    "registry": "Internet DotTrademark Organisation Limited"
+  },
+  {
+    "domain": ".网络",
+    "type": "generic",
+    "registry": "China Internet Network Information Center (CNNIC)"
+  },
+  { "domain": ".ком", "type": "generic", "registry": "VeriSign Sarl" },
+  {
+    "domain": ".укр",
+    "type": "country-code",
+    "registry": "Ukrainian Network Information Centre (UANIC), Inc."
+  },
+  {
+    "domain": ".香港",
+    "type": "country-code",
+    "registry": "Hong Kong Internet Registration Corporation Ltd."
+  },
+  {
+    "domain": ".亚马逊",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".诺基亚", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".食品",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".飞利浦",
+    "type": "generic",
+    "registry": "Koninklijke Philips N.V."
+  },
+  {
+    "domain": ".台湾",
+    "type": "country-code",
+    "registry": "Taiwan Network Information Center (TWNIC)"
+  },
+  {
+    "domain": ".台灣",
+    "type": "country-code",
+    "registry": "Taiwan Network Information Center (TWNIC)"
+  },
+  { "domain": ".手表", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".手机",
+    "type": "generic",
+    "registry": "Beijing RITT-Net Technology Development Co., Ltd"
+  },
+  { "domain": ".мон", "type": "country-code", "registry": "Datacom Co.,Ltd" },
+  { "domain": "‏.الجزائر‎", "type": "country-code", "registry": "CERIST" },
+  {
+    "domain": "‏.عمان‎",
+    "type": "country-code",
+    "registry": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "domain": "‏.ارامكو‎",
+    "type": "generic",
+    "registry": "Aramco Services Company"
+  },
+  {
+    "domain": "‏.ایران‎",
+    "type": "country-code",
+    "registry": "Institute for Research in Fundamental Sciences (IPM)"
+  },
+  {
+    "domain": "‏.العليان‎",
+    "type": "generic",
+    "registry": "Competrol (Luxembourg) Sarl"
+  },
+  { "domain": "‏.اتصالات‎", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": "‏.امارات‎",
+    "type": "country-code",
+    "registry": "Telecommunications and Digital Government Regulatory Authority (TDRA)"
+  },
+  { "domain": "‏.بازار‎", "type": "generic", "registry": "CORE Association" },
+  {
+    "domain": "‏.موريتانيا‎",
+    "type": "country-code",
+    "registry": "Université de Nouakchott Al Aasriya"
+  },
+  {
+    "domain": "‏.پاکستان‎",
+    "type": "country-code",
+    "registry": "National Telecommunication Corporation"
+  },
+  {
+    "domain": "‏.الاردن‎",
+    "type": "country-code",
+    "registry": "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+  },
+  { "domain": "‏.موبايلي‎", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": "‏.بارت‎",
+    "type": "country-code",
+    "registry": "National Internet eXchange of India"
+  },
+  {
+    "domain": "‏.بھارت‎",
+    "type": "country-code",
+    "registry": "National Internet Exchange of India"
+  },
+  {
+    "domain": "‏.المغرب‎",
+    "type": "country-code",
+    "registry": "Agence Nationale de Réglementation des Télécommunications (ANRT)"
+  },
+  {
+    "domain": "‏.ابوظبي‎",
+    "type": "generic",
+    "registry": "Abu Dhabi Systems and Information Centre"
+  },
+  {
+    "domain": "‏.البحرين‎",
+    "type": "country-code",
+    "registry": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "domain": "‏.السعودية‎",
+    "type": "country-code",
+    "registry": "Communications, Space and Technology Commission"
+  },
+  {
+    "domain": "‏.ڀارت‎",
+    "type": "country-code",
+    "registry": "National Internet eXchange of India"
+  },
+  {
+    "domain": "‏.كاثوليك‎",
+    "type": "generic",
+    "registry": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  {
+    "domain": "‏.سودان‎",
+    "type": "country-code",
+    "registry": "Sudan Internet Society"
+  },
+  {
+    "domain": "‏.همراه‎",
+    "type": "generic",
+    "registry": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  {
+    "domain": "‏.عراق‎",
+    "type": "country-code",
+    "registry": "Communications and Media Commission (CMC)"
+  },
+  { "domain": "‏.مليسيا‎", "type": "country-code", "registry": "MYNIC Berhad" },
+  {
+    "domain": ".澳門",
+    "type": "country-code",
+    "registry": "Macao Post and Telecommunications Bureau (CTT)"
+  },
+  { "domain": ".닷컴", "type": "generic", "registry": "VeriSign Sarl" },
+  { "domain": ".政府", "type": "generic", "registry": "Net-Chinese Co., Ltd." },
+  {
+    "domain": "‏.شبكة‎",
+    "type": "generic",
+    "registry": "International Domain Registry Pty. Ltd."
+  },
+  {
+    "domain": "‏.بيتك‎",
+    "type": "generic",
+    "registry": "Kuwait Finance House"
+  },
+  {
+    "domain": "‏.عرب‎",
+    "type": "generic",
+    "registry": "League of Arab States"
+  },
+  {
+    "domain": ".გე",
+    "type": "country-code",
+    "registry": "Information Technologies Development Center (ITDC)"
+  },
+  {
+    "domain": ".机构",
+    "type": "generic",
+    "registry": "Public Interest Registry"
+  },
+  {
+    "domain": ".组织机构",
+    "type": "generic",
+    "registry": "Public Interest Registry"
+  },
+  { "domain": ".健康", "type": "generic", "registry": "Stable Tone Limited" },
+  {
+    "domain": ".ไทย",
+    "type": "country-code",
+    "registry": "Thai Network Information Center Foundation"
+  },
+  {
+    "domain": "‏.سورية‎",
+    "type": "country-code",
+    "registry": "National Agency for Network Services (NANS)"
+  },
+  {
+    "domain": ".招聘",
+    "type": "generic",
+    "registry": "Jiang Yu Liang Cai Technology Company Limited"
+  },
+  { "domain": ".рус", "type": "generic", "registry": "Rusnames Limited" },
+  {
+    "domain": ".рф",
+    "type": "country-code",
+    "registry": "Coordination Center for TLD RU"
+  },
+  { "domain": ".珠宝", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": "‏.تونس‎",
+    "type": "country-code",
+    "registry": "Agence Tunisienne d'Internet"
+  },
+  { "domain": ".大拿", "type": "generic", "registry": "VeriSign Sarl" },
+  {
+    "domain": ".ລາວ",
+    "type": "country-code",
+    "registry": "Lao National Internet Center (LANIC), Ministry of Technology and Communications"
+  },
+  {
+    "domain": ".みんな",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".グーグル",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".ευ", "type": "country-code", "registry": "EURid vzw" },
+  { "domain": ".ελ", "type": "country-code", "registry": "ICS-FORTH GR" },
+  { "domain": ".世界", "type": "generic", "registry": "Stable Tone Limited" },
+  {
+    "domain": ".書籍",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".ഭാരതം",
+    "type": "country-code",
+    "registry": "National Internet eXchange of India"
+  },
+  {
+    "domain": ".ਭਾਰਤ",
+    "type": "country-code",
+    "registry": "National Internet Exchange of India"
+  },
+  { "domain": ".网址", "type": "generic", "registry": "KNET Co., Ltd" },
+  { "domain": ".닷넷", "type": "generic", "registry": "VeriSign Sarl" },
+  { "domain": ".コム", "type": "generic", "registry": "VeriSign Sarl" },
+  {
+    "domain": ".天主教",
+    "type": "generic",
+    "registry": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  { "domain": ".游戏", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".vermögensberater",
+    "type": "generic",
+    "registry": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "domain": ".vermögensberatung",
+    "type": "generic",
+    "registry": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  { "domain": ".企业", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".信息",
+    "type": "generic",
+    "registry": "Beijing Tele-info Technology Co., Ltd."
+  },
+  {
+    "domain": ".嘉里大酒店",
+    "type": "generic",
+    "registry": "Kerry Trading Co. Limited"
+  },
+  {
+    "domain": ".嘉里",
+    "type": "generic",
+    "registry": "Kerry Trading Co. Limited"
+  },
+  {
+    "domain": "‏.مصر‎",
+    "type": "country-code",
+    "registry": "National Telecommunication Regulatory Authority - NTRA"
+  },
+  {
+    "domain": "‏.قطر‎",
+    "type": "country-code",
+    "registry": "Communications Regulatory Authority"
+  },
+  {
+    "domain": ".广东",
+    "type": "generic",
+    "registry": "Guangzhou YU Wei Information Technology Co., Ltd."
+  },
+  {
+    "domain": ".இலங்கை",
+    "type": "country-code",
+    "registry": "LK Domain Registry"
+  },
+  {
+    "domain": ".இந்தியா",
+    "type": "country-code",
+    "registry": "National Internet Exchange of India"
+  },
+  {
+    "domain": ".հայ",
+    "type": "country-code",
+    "registry": "'Internet Society' Non-governmental Organization"
+  },
+  {
+    "domain": ".新加坡",
+    "type": "country-code",
+    "registry": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "domain": "‏.فلسطين‎",
+    "type": "country-code",
+    "registry": "Ministry of Telecom & Information Technology (MTIT)"
+  },
+  {
+    "domain": ".政务",
+    "type": "generic",
+    "registry": "China Organizational Name Administration Center"
+  },
+  { "domain": ".xperia", "type": "generic", "registry": "Not assigned" },
+  { "domain": ".xxx", "type": "sponsored", "registry": "ICM Registry LLC" },
+  { "domain": ".xyz", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".yachts", "type": "generic", "registry": "XYZ.COM LLC" },
+  { "domain": ".yahoo", "type": "generic", "registry": "Yahoo Inc." },
+  {
+    "domain": ".yamaxun",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  { "domain": ".yandex", "type": "generic", "registry": "YANDEX LLC" },
+  { "domain": ".ye", "type": "country-code", "registry": "TeleYemen" },
+  {
+    "domain": ".yodobashi",
+    "type": "generic",
+    "registry": "YODOBASHI CAMERA CO.,LTD."
+  },
+  {
+    "domain": ".yoga",
+    "type": "generic",
+    "registry": "Registry Services, LLC"
+  },
+  {
+    "domain": ".yokohama",
+    "type": "generic",
+    "registry": "GMO Registry, Inc."
+  },
+  {
+    "domain": ".you",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".youtube",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  {
+    "domain": ".yt",
+    "type": "country-code",
+    "registry": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "domain": ".yun",
+    "type": "generic",
+    "registry": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  {
+    "domain": ".za",
+    "type": "country-code",
+    "registry": "ZA Domain Name Authority"
+  },
+  {
+    "domain": ".zappos",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".zara",
+    "type": "generic",
+    "registry": "Industria de Diseño Textil, S.A. (INDITEX, S.A.)"
+  },
+  {
+    "domain": ".zero",
+    "type": "generic",
+    "registry": "Amazon Registry Services, Inc."
+  },
+  {
+    "domain": ".zip",
+    "type": "generic",
+    "registry": "Charleston Road Registry Inc."
+  },
+  { "domain": ".zippo", "type": "generic", "registry": "Not assigned" },
+  {
+    "domain": ".zm",
+    "type": "country-code",
+    "registry": "Zambia Information and Communications Technology Authority (ZICTA)"
+  },
+  { "domain": ".zone", "type": "generic", "registry": "Binky Moon, LLC" },
+  {
+    "domain": ".zuerich",
+    "type": "generic",
+    "registry": "Kanton Zürich (Canton of Zurich)"
+  },
+  {
+    "domain": ".zw",
+    "type": "country-code",
+    "registry": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)"
+  }
+]
