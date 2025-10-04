@@ -74,8 +74,6 @@
     font-size: 0.875rem;
     font-weight: 300;
     text-decoration: none;
-    /* color: white;
-    background: black; */
     border: 1px dotted black;
     padding: 1px 8px;
     margin-top: -2px;
@@ -90,8 +88,17 @@
 .description {
   margin-bottom: 1rem;
 
-  & span:first-child {
+  & span:first-of-type {
     display: block;
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+
+  & span:last-of-type {
+    display: block;
+    font-size: 0.875rem;
+    font-style: italic;
   }
 
   & a:last-child {
