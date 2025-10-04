@@ -42,7 +42,7 @@ export default function Search() {
           );
           console.log(window.pagefind);
         } catch (error) {
-          console.error(error);
+          console.log(error);
           window.pagefind = {
             search: () => Promise.resolve({ results: [] }),
           };

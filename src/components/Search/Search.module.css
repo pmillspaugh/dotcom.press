@@ -1,7 +1,7 @@
 .backdrop {
   position: fixed;
   inset: 0;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(2px);
   background-color: rgba(0, 0, 0, 0.2);
 }
 
@@ -17,6 +17,11 @@
   border-radius: 2px;
   background-color: white;
   color: black;
+  transition: transform 200ms;
+
+  &[data-starting-style] {
+    transform: translate(-50%, -25%);
+  }
 }
 
 .title {
