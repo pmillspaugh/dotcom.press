@@ -51,6 +51,8 @@
   transform: translate(-50%, -50%);
   width: 30rem;
   max-width: calc(100vw - 3rem);
+  max-height: calc(100vh - 3rem);
+  overflow-y: auto;
   padding: 1rem;
   border: 1px solid #ddd;
   outline: 12px solid white;
@@ -69,13 +71,14 @@
   align-items: center;
 
   & :last-child {
-    font-size: 1rem;
+    font-size: 0.875rem;
+    font-weight: 300;
     text-decoration: none;
-    color: white;
-    background: black;
-    border-radius: 1px;
-    padding: 2px 8px;
-    margin-top: -3px;
+    /* color: white;
+    background: black; */
+    border: 1px dotted black;
+    padding: 1px 8px;
+    margin-top: -2px;
 
     &:hover {
       background: #ddd;
@@ -98,17 +101,185 @@
 
 .close {
   position: absolute;
-  bottom: 0;
+  top: 0;
   right: 0;
   color: #bbb;
-  background: unset;
+  background: white;
   border: unset;
-  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   border-left: 1px solid #ddd;
+  font-size: 0.75rem;
   cursor: pointer;
 
   &:hover {
     background: #ddd;
     color: black;
   }
+}
+
+.wikiheader {
+  margin-block: 0;
+
+  button {
+    width: calc(100% + 2rem);
+    margin-left: -1rem;
+    margin-bottom: -1rem;
+    padding-block: 1px;
+    padding-left: 1rem;
+    background: #ddd;
+    border: unset;
+    border-top: 1px solid #ddd;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: none;
+      background: rgb(50, 140, 250);
+    }
+
+    & svg {
+      margin-right: 0.5rem;
+      transition: transform 200ms ease-out;
+
+      [data-panel-open] > & {
+        transform: rotate(90deg) scale(1.1);
+      }
+    }
+  }
+}
+
+.wikipanel {
+  overflow: hidden;
+  margin-top: 1rem;
+  margin-left: -1rem;
+  padding: 1rem;
+  padding-bottom: 0;
+  width: calc(100% + 2rem);
+  height: var(--accordion-panel-height);
+  transition: height 200ms ease-out;
+
+  &[data-starting-style],
+  &[data-ending-style] {
+    height: 0;
+  }
+}
+
+.form {
+  background: white;
+  font-size: 0.75rem;
+
+  & textarea {
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 5rem;
+    margin-block: 0.5rem;
+    border: 1px solid #ddd;
+    padding: 2px 4px;
+  }
+
+  & input {
+    display: block;
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 2px 4px;
+    margin-bottom: 0.5rem;
+
+    &[type="submit"] {
+      background: black;
+      border: 1px solid black;
+      color: white;
+      cursor: pointer;
+
+      &:hover {
+        background: #ddd;
+        color: black;
+      }
+    }
+  }
+
+  & p {
+    font-size: 0.675rem;
+    font-style: italic;
+  }
+}
+
+.entryheader {
+  margin-block: 0;
+
+  button {
+    background: unset;
+    padding: unset;
+    border: unset;
+    font-size: 0.75rem;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    & svg {
+      padding-bottom: 2px;
+      margin-right: 0.5rem;
+      transition: transform 200ms ease-out;
+
+      [data-panel-open] > & {
+        transform: rotate(45deg) scale(1.1);
+      }
+    }
+  }
+}
+
+.entrypanel {
+  padding-inline: 1.5rem;
+  overflow: hidden;
+  height: var(--accordion-panel-height);
+  transition: height 200ms ease-out;
+
+  &[data-starting-style],
+  &[data-ending-style] {
+    height: 0;
+  }
+}
+
+.divider {
+  margin-block: 1rem;
+  margin-left: -1rem;
+  width: calc(100% + 2rem);
+  height: 1px;
+  background: #ddd;
+  border: none;
+}
+
+.entry {
+  font-size: 0.75rem;
+
+  & h3 {
+    margin-bottom: 0.5rem;
+    font-size: inherit;
+    font-weight: unset;
+    color: #555;
+  }
+
+  & p {
+    margin-top: 0.5rem;
+    /* Format entries as submitted in textarea, respecting \r\n etc. */
+    white-space: pre-wrap;
+  }
+
+  &:not(:last-child) {
+    border-bottom: 1px dotted #ddd;
+  }
+}
+
+.empty {
+  margin-bottom: 0;
+  font-size: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
