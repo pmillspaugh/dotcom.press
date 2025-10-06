@@ -67,7 +67,7 @@ I'm interviewing lots of people for the book, so I may publish a list of who all
 ## Articles, blog posts
 
 - [A Call for .Com-petition - Reining in Verisign’s Monopoly Over The Internet’s Most Popular Top Level Domain](https://economicliberties.us/wp-content/uploads/2024/07/2024-7-25-Verisign-Policy-Brief-Final.pdf)
-- [AI ‘Friend’ Company Spent $1.8 Million and Most of Its Funds on Domain Name](www.404media.co/ai-friend-company-spent-1-8-million-and-most-its-funds-on-domain-name)
+- [AI ‘Friend’ Company Spent $1.8 Million and Most of Its Funds on Domain Name](https://www.404media.co/ai-friend-company-spent-1-8-million-and-most-its-funds-on-domain-name)
 - [AI-Powered Creation is Redefining the Web — and the Domain Industry With It](https://techstrong.ai/features/ai-powered-creation-is-redefining-the-web-and-the-domain-industry-with-it/)
 - [Amazon is celebrating its 25th birthday. Here's how the e-commerce giant got its name.](https://www.businessinsider.com/amazon-jeff-bezos-chose-company-name-2018-5)
 - [Battle of the Domain Investors - $500, 1 Year, Who Wins?](https://mi.ke/challenge)

@@ -126,17 +126,15 @@ const TldGrid = memo(function TldGrid({
               <Dialog.Description className={styles.desc}>
                 This is a wiki for top-level domains where you can explore all{" "}
                 <Link href="/archive/1592-tlds">1,592 TLDs</Link> and add your
-                two cents.
+                two cents. The backend is built using{" "}
+                <a href="https://www.val.town/x/petermillspaugh/tld-wiki">
+                  val.town
+                </a>
+                .
               </Dialog.Description>
               <p className={styles.desc}>
-                For any TLD, submit your own stories, interesting websites,
-                articles, or even questions and opinions.
-              </p>
-              <p className={styles.desc}>
                 This wiki is also a research project for the upcoming book,{" "}
-                <Link href="/">dot com et al: the secret life of domains</Link>.
-              </p>
-              <p className={styles.desc}>
+                <Link href="/">dot com et al: the secret life of domains</Link>.{" "}
                 Email <a href="hello@dotcom.press">hello@dotcom.press</a> with
                 questions or feedback.
               </p>
