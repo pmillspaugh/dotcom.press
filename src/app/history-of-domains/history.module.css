@@ -1,0 +1,75 @@
+.main {
+  max-width: 50rem;
+  margin-inline: auto;
+  margin-block: 4rem;
+  padding-inline: 1rem;
+  font-family: var(--newsreader);
+
+  & time {
+    font-family: var(--commit-mono);
+  }
+
+  & > h1 {
+    font-size: 4rem;
+    line-height: 1;
+    margin-block: 1rem;
+  }
+
+  & > h2 {
+    font-size: 2rem;
+    font-weight: 300;
+  }
+
+  & > p {
+    font-size: 1.25rem;
+  }
+}
+
+.ol {
+  padding-left: unset;
+  padding-top: 2rem;
+}
+
+.li {
+  list-style: none;
+  display: flex;
+  align-items: start;
+  gap: 1rem;
+}
+
+.year {
+  position: sticky;
+  top: 0;
+  padding-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+
+  &::after {
+    content: "◆";
+    position: absolute;
+    top: 0;
+    right: -22px;
+  }
+}
+
+.milestone {
+  position: relative;
+  border-left: 1px dotted black;
+  padding-left: 1rem;
+  padding-bottom: 2rem;
+}
+
+.title {
+  margin-top: unset;
+  font-size: 1.5rem;
+}
+
+.description {
+  margin-bottom: unset;
+  font-size: 1.25rem;
+}
+
+.img {
+  height: auto;
+  padding-top: 1rem;
+}
