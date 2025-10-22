@@ -1,5 +1,5 @@
 .main {
-  max-width: 50rem;
+  max-width: 800px;
   margin-inline: auto;
   margin-block: 4rem;
   padding-inline: 1rem;
@@ -25,9 +25,15 @@
   }
 }
 
+.hero {
+  height: auto;
+  padding-top: 1rem;
+}
+
 .ol {
   padding-left: unset;
   padding-top: 2rem;
+  margin-bottom: 4rem;
 }
 
 .li {
@@ -37,7 +43,7 @@
   gap: 1rem;
 }
 
-.year {
+.date {
   position: sticky;
   top: 0;
   padding-bottom: 1rem;
@@ -48,15 +54,16 @@
     content: "◆";
     position: absolute;
     top: 0;
-    right: -22px;
+    right: -23px;
   }
 }
 
 .milestone {
   position: relative;
-  border-left: 1px dotted black;
+  border-left: 2px dotted black;
   padding-left: 1rem;
   padding-bottom: 2rem;
+  margin-bottom: 1.5px;
 }
 
 .title {
@@ -67,9 +74,38 @@
 .description {
   margin-bottom: unset;
   font-size: 1.25rem;
+
+  & code {
+    font-size: 1rem;
+    background: #eee;
+    padding: 2px 4px;
+    border-radius: 2px;
+  }
+
+  & blockquote {
+    font-style: italic;
+    padding-left: 1.75rem;
+    margin-left: unset;
+    border-left: 1px solid #bbb;
+    color: #555;
+  }
+
+  & a {
+    color: blue;
+  }
+
+  & li {
+    list-style-type: square;
+  }
 }
 
 .img {
   height: auto;
-  padding-top: 1rem;
+  padding: 1rem;
+  background: #eee;
+  border: 1px solid #bbb;
+}
+
+.archive {
+  color: blue;
 }
