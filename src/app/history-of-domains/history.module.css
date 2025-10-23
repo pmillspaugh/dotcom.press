@@ -1,0 +1,111 @@
+.main {
+  max-width: 800px;
+  margin-inline: auto;
+  margin-block: 4rem;
+  padding-inline: 1rem;
+  font-family: var(--newsreader);
+
+  & time {
+    font-family: var(--commit-mono);
+  }
+
+  & > h1 {
+    font-size: 4rem;
+    line-height: 1;
+    margin-block: 1rem;
+  }
+
+  & > h2 {
+    font-size: 2rem;
+    font-weight: 300;
+  }
+
+  & > p {
+    font-size: 1.25rem;
+  }
+}
+
+.hero {
+  height: auto;
+  padding-top: 1rem;
+}
+
+.ol {
+  padding-left: unset;
+  padding-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.li {
+  list-style: none;
+  display: flex;
+  align-items: start;
+  gap: 1rem;
+}
+
+.date {
+  position: sticky;
+  top: 0;
+  padding-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+
+  &::after {
+    content: "◆";
+    position: absolute;
+    top: 0;
+    right: -23px;
+  }
+}
+
+.milestone {
+  position: relative;
+  border-left: 2px dotted black;
+  padding-left: 1rem;
+  padding-bottom: 2rem;
+  margin-bottom: 1.5px;
+}
+
+.title {
+  margin-top: unset;
+  font-size: 1.5rem;
+}
+
+.description {
+  margin-bottom: unset;
+  font-size: 1.25rem;
+
+  & code {
+    font-size: 1rem;
+    background: #eee;
+    padding: 2px 4px;
+    border-radius: 2px;
+  }
+
+  & blockquote {
+    font-style: italic;
+    padding-left: 1.75rem;
+    margin-left: unset;
+    border-left: 1px solid #bbb;
+    color: #555;
+  }
+
+  & a {
+    color: blue;
+  }
+
+  & li {
+    list-style-type: square;
+  }
+}
+
+.img {
+  height: auto;
+  padding: 1rem;
+  background: #eee;
+  border: 1px solid #bbb;
+}
+
+.archive {
+  color: blue;
+}

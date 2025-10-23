@@ -4,6 +4,8 @@ subtitle: Why did Google really sell Google Domains, and was it a mistake?
 date: 9/17/25
 ---
 
+![Google Domains splitting, metaphorically](/history/google.svg)
+
 I am working from the Google office in NYC<sup>1</sup>, and after my third trip to the cafeteria (there are four in this building) for free matcha, sushi, and anything else I could want to eat or drink, I decided now is as good a time as any to write about Google’s fingerprints on the secret life of domains. While writing this, I realized that it actually might be a better time than just any because Larry and Sergey registered `google.com` exactly 28 years ago today (I started drafting this on Monday): September 15, 1997.
 
 Also today: _GOOG stock hits all-time high $3 trillion._

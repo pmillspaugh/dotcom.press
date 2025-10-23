@@ -4,6 +4,8 @@ subtitle: When domains go dark and countries reclaim their digital land
 date: 8/17/25
 ---
 
+![Illustration of a .yu gravestone](/history/yu.jpeg)
+
 [Eminent domain](https://en.wikipedia.org/wiki/Eminent_domain) refers to a government’s right to seize land for public use, paying its owner “just compensation” in return. This power extends to a country’s digital land—its domain—not explicitly by law but in practice.
 
 Every two-letter domain extension used by websites (e.g. `.uk`, `.ca`, `.io`, `.me`) belongs to a country. These extensions are called _country code top-level domains_, or ccTLDs, and when you buy one you are trusting that country to keep the lights on and allow you to keep using it. So really, they are _eminent domains_ that could be taken away at any moment.
@@ -13,8 +15,6 @@ Like, just last year Afghanistan shut down many `.af` domains without warning, i
 Each ccTLD has its own history, none more sensational than that of `.yu` (that I’ve read about, at least). Yugoslavia’s `.yu` is dead, and its story is a dramatic crossover of geopolitical and early internet history.
 
 ## Yugoslavia’s stolen, splintered, then silent .yu
-
-![Illustration of a .yu gravestone](/yu-grave.webp)
 
 The tl;dr is that, over the course of two decades, `.yu` for Yugoslavia split into `.si` for Slovenia, `.hr` for Croatia, `.ba` for Bosnia and Herzegovina, `.mk` for North Macedonia, `.me` for Montenegro, and `.rs` for Serbia. It was a long and winding road of war, theft, and technological innovation.
 
