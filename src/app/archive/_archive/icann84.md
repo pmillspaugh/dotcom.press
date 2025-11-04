@@ -32,7 +32,7 @@ They cited a study on surveillance in China enabled by its cybersecurity law, an
 
 Dozens of people joined in on the argument, which is fascinating and complex but beyond the scope of this email to properly cover (do watch the recording if you’re interested). The session wasn’t long enough, and the room wasn’t big enough. The last comment closed it out: “I’ve been in ICANN for 26 years. This topic has not gone away.”
 
-That debate was just one of many, hidden between the color-coded PowerPoints throughout the week. There were plenty of grab-the-popcorn moments during public forums, with some comments triggering emphatic clapping and one receiving a loud boo from the crowd.
+That debate was just one of many, hidden between the color-coded PowerPoints throughout the week. There were plenty of grab-the-popcorn moments during public forums, with some comments receiving emphatic audience applause and one even getting a loud boo from the crowd.
 
 ## M u l t i s t a k e h o l d e r
 
