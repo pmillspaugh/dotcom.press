@@ -34,4 +34,4 @@ _(2) A domain is a gift that keeps on giving—er, that you keep on giving—bec
 
 _(3) I usually buy domains on Cloudflare, but there are tons of other registrars (Porkbun, Vercel, Squarespace, etc.). A dot com should cost you about $11. I also like [instantdomainsearch.com](https://instantdomainsearch.com) for searching domains._
 
-_(4) It turns out [millspaugh.com](https://millspaugh.com) is owned by a furniture company in Hudson Valley, New York. They’ve been in operation since 1958! I’d love to pay a visit to the store someday. I’m not aware of any relation, but it’s run by a father and his son, whose name is...Pete. As much as I’d love to own the domain, I’m at peace knowing it’s in good hands._
+_(4) It turns out [millspaugh.com](https://millspaugh.com) is owned by a furniture company in Hudson Valley, New York. They’ve been in operation since 1858! I’d love to pay a visit to the store someday. I’m not aware of any relation, but it’s run by a father and his son, whose name is...Pete. As much as I’d love to own the domain, I’m at peace knowing it’s in good hands._
