@@ -20,7 +20,7 @@ export default function Footer() {
         </li>
         <li>
           <Plant />
-          <span>© 2025 Dot Com Press, LLC</span>
+          <span>© {new Date().getFullYear()} Dot Com Press, LLC</span>
         </li>
       </ul>
       <Books />
