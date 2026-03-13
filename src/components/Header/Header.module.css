@@ -1,15 +1,28 @@
 .header {
   display: flex;
   align-items: center;
-  gap: 16px;
-
-  padding: 24px;
-  border-bottom: 2px solid black;
+  overflow-x: hidden;
   font-size: 0.875rem;
 }
 
 header > .logo {
   flex-shrink: 0;
+}
+
+.blocks {
+  display: flex;
+  align-items: center;
+  gap: 1px;
+  flex: 1;
+  min-width: 0;
+}
+
+.block {
+  flex-shrink: 0;
+  height: 48px;
+  width: 24px;
+  border-block: 1px solid #fff;
+  /* border-radius: 2px; */
 }
 
 header > .tagline {
