@@ -31,7 +31,7 @@ export default async function Archive() {
           You'll get an email every couple weeks, and you can unsubscribe
           anytime (no hard feelings).
         </p>
-        <p>...</p>
+        <p className={styles.divider}>***</p>
         <ul className={styles.ul}>
           {archive.map(({ email, subject, subtitle, date }) => (
             <li key={email} className={styles.li}>

@@ -19,6 +19,11 @@
   margin-top: 32px;
 }
 
+.divider {
+  text-align: center;
+  margin-top: 2rem;
+}
+
 .ul {
   padding-left: unset;
   margin-top: 40px;
