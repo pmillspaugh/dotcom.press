@@ -1,5 +1,5 @@
 ---
-subject: googol.com
+subject: Googol.com
 subtitle: Why did Google really sell Google Domains, and was it a mistake?
 date: 9/17/25
 ---

@@ -1,5 +1,5 @@
 ---
-subject: "dot meow: the next queer corner of the Internet"
+subject: "Dot meow: the next queer corner of the Internet"
 subtitle: Like selling Subarus to lesbians
 date: 3/27/26
 ---
