@@ -78,13 +78,20 @@
   padding-left: 1px;
 }
 
+.email hr {
+  border: none;
+  border-top: 2px solid #ccc;
+  height: 8px;
+}
+
 @media (min-width: 768px) {
   .email article {
     margin-inline: -12px;
   }
 
   .email p,
-  .email li {
+  .email ul,
+  .email ol {
     font-size: 1.25rem;
   }
 

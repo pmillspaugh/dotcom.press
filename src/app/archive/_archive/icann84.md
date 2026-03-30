@@ -34,7 +34,7 @@ Dozens of people joined in on the argument, which is fascinating and complex but
 
 That debate was just one of many, hidden between the color-coded PowerPoints throughout the week. There were plenty of grab-the-popcorn moments during public forums, with some comments receiving emphatic audience applause and one even getting a loud boo from the crowd.
 
-## M u l t i s t a k e h o l d e r
+<h2 id="multistakeholder">M u l t i s t a k e h o l d e r</h2>
 
 ICANN’s _multistakeholder governance model_ is itself another boringness trap. But don’t fall in it! The whole point of ICANN at its inception (back in 1998) was to ensure the internet would be kept open and governed by the global community—not governments. Yes, governments participate in ICANN the Community, but they have just another seat at the table. Contrast this with the UN’s _intergovernmental model_ where member states have votes. ICANN is meant to be bottom-up, decentralized—just like the Internet—whereas the UN is top-down, yay-nay-gavel.
 
