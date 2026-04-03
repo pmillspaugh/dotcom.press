@@ -7,18 +7,17 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { memo, useCallback, useEffect, useMemo, useRef, useState } from "react";
-import countries from "./countries.json";
 import logo from "./dot-com-press.svg";
-import tlds from "./tlds.json";
+import tldData from "./tlds.json";
 import styles from "./TLDWiki.module.css";
 
 type TLD = {
-  domain: string; // the actual TLD, e.g. ".ing"
-  type: string;
-  registry: string;
+  tld: string; // e.g. "ing" (no leading dot)
+  iana_tag: string; // e.g. "generic" or "country-code"
+  delegated: boolean;
+  orgs?: { tld_manager?: string };
+  annotations?: { country_name_iso?: string };
 };
-
-type Countries = Record<string, string>;
 
 type WikiEntry = {
   name: string;
@@ -48,6 +47,8 @@ export default function TldWiki() {
   const searchParams = useSearchParams();
   const tldParam = searchParams.get("tld");
 
+  const tlds = (tldData as { tlds: TLD[] }).tlds;
+
   const [open, setOpen] = useState(false);
   const [selected, setSelected] = useState<TLD | null>(null);
   const tldDialogTitleRef = useRef<HTMLHeadingElement | null>(null);
@@ -61,7 +62,7 @@ export default function TldWiki() {
     }
 
     // Tld param, open the dialog (e.g. on page load)
-    const selectedTld = tlds.find((t) => t.domain === `.${tldParam}`);
+    const selectedTld = tlds.find((t) => t.tld === tldParam);
     if (selectedTld) {
       setSelected(selectedTld);
       setOpen(true);
@@ -89,18 +90,17 @@ export default function TldWiki() {
   );
 
   const country = useMemo(() => {
-    const cc = selected?.domain.replace(".", "").toUpperCase();
-    const country = (countries as Countries)[cc || ""];
-    const flag = getFlagEmoji(cc || "");
-    return country ? `${country} ${flag}` : null;
+    const countryName = selected?.annotations?.country_name_iso;
+    if (!countryName) return null;
+    const flag = getFlagEmoji((selected?.tld ?? "").toUpperCase());
+    return `${countryName} ${flag}`;
   }, [selected]);
 
   const handleSelect = useCallback(
     (tld: TLD) => {
       setSelected(tld);
       setOpen(true);
-      const label = tld.domain.replace(/^\./, "");
-      router.push(`${pathname}?tld=${encodeURIComponent(label)}`, {
+      router.push(`${pathname}?tld=${encodeURIComponent(tld.tld)}`, {
         scroll: false,
       });
     },
@@ -109,7 +109,7 @@ export default function TldWiki() {
 
   return (
     <main>
-      <TldGrid tlds={tlds as TLD[]} onSelect={handleSelect} />
+      <TldGrid tlds={tlds} onSelect={handleSelect} />
 
       <Dialog.Root
         open={open}
@@ -127,16 +127,16 @@ export default function TldWiki() {
               tabIndex={-1}
               className={styles.title}
             >
-              <span>{selected?.domain}</span>
-              <a href={tldLinks[selected?.type ?? ""]}>
-                {tldLabels[selected?.type ?? ""]}
+              <span>.{selected?.tld}</span>
+              <a href={tldLinks[selected?.iana_tag ?? ""]}>
+                {tldLabels[selected?.iana_tag ?? ""]}
               </a>
             </Dialog.Title>
             <Dialog.Description className={styles.description}>
               {country && <span>{country}</span>}
-              <span>{selected?.registry}</span>
-              <a href={`https://icannwiki.org/${selected?.domain}`}>
-                icannwiki.org/{selected?.domain}
+              <span>{selected?.orgs?.tld_manager}</span>
+              <a href={`https://icannwiki.org/.${selected?.tld}`}>
+                icannwiki.org/.{selected?.tld}
               </a>
             </Dialog.Description>
             {selected && <Wiki tld={selected} />}
@@ -207,14 +207,14 @@ const TldGrid = memo(function TldGrid({
       </li>
 
       {tlds.map((tld) => (
-        <li key={tld.domain}>
+        <li key={tld.tld}>
           <button
             className={styles.tld}
             onClick={() => onSelect(tld)}
-            onMouseEnter={(e) => blink(e, tld.type)}
-            aria-label={`Open info for ${tld.domain}`}
+            onMouseEnter={(e) => blink(e, tld.iana_tag)}
+            aria-label={`Open info for .${tld.tld}`}
           >
-            {tld.domain}
+            .{tld.tld}
           </button>
         </li>
       ))}
@@ -232,7 +232,7 @@ const Wiki = ({ tld }: { tld: TLD }) => {
 
       try {
         const response = await fetch(
-          `https://tld-wiki.val.run/tld/${tld.domain}`,
+          `https://tld-wiki.val.run/tld/.${tld.tld}`,
         );
 
         if (!response.ok) {
@@ -251,13 +251,13 @@ const Wiki = ({ tld }: { tld: TLD }) => {
     }
 
     fetchEntries();
-  }, [tld.domain]);
+  }, [tld.tld]);
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     const form = e.currentTarget;
     const formData = new FormData(form);
-    formData.append("tld", tld.domain);
+    formData.append("tld", `.${tld.tld}`);
 
     try {
       const response = await fetch("https://tld-wiki.val.run/submit", {
@@ -296,7 +296,7 @@ const Wiki = ({ tld }: { tld: TLD }) => {
               <Accordion.Header className={styles.entryheader}>
                 <Accordion.Trigger>
                   <PlusIcon />
-                  Submit an entry for {tld.domain} (1k char max)
+                  Submit an entry for .{tld.tld} (1k char max)
                 </Accordion.Trigger>
               </Accordion.Header>
               <Accordion.Panel className={styles.entrypanel}>
@@ -307,7 +307,7 @@ const Wiki = ({ tld }: { tld: TLD }) => {
                   <textarea
                     name="entry"
                     id="entry"
-                    placeholder={`E.g. an interesting website that uses ${tld.domain}, a link to an article, or a personal anecdote.`}
+                    placeholder={`E.g. an interesting website that uses .${tld.tld}, a link to an article, or a personal anecdote.`}
                     required
                     maxLength={1000} // longer than a tweet, shorter than an essay
                   />
@@ -349,7 +349,7 @@ const Wiki = ({ tld }: { tld: TLD }) => {
 
           {!entries.length && (
             <p className={styles.empty}>
-              <HoleIcon /> There are no entries for {tld.domain} yet
+              <HoleIcon /> There are no entries for .{tld.tld} yet
             </p>
           )}
 
