@@ -60,7 +60,7 @@ export default function TldWiki() {
     <main>
       <TldGrid tlds={tlds as TLD[]} onSelect={handleSelect} />
 
-      <Dialog.Root open={open} onOpenChange={setOpen}>
+      <Dialog.Root open={open} onOpenChange={setOpen} modal="trap-focus">
         <Dialog.Portal>
           <Dialog.Backdrop className={styles.backdrop} />
           <Dialog.Popup className={styles.popup}>
@@ -170,7 +170,7 @@ const Wiki = ({ tld }: { tld: TLD }) => {
 
       try {
         const response = await fetch(
-          `https://tld-wiki.val.run/tld/${tld.domain}`
+          `https://tld-wiki.val.run/tld/${tld.domain}`,
         );
 
         if (!response.ok) {
@@ -211,7 +211,7 @@ const Wiki = ({ tld }: { tld: TLD }) => {
 
       form.reset();
       alert(
-        "Thanks for submitting! Your entry will appear once it's approved, and you'll get an email if there are any issues."
+        "Thanks for submitting! Your entry will appear once it's approved, and you'll get an email if there are any issues.",
       );
     } catch (error) {
       console.log(error);
