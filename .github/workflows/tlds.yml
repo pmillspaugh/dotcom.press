@@ -1,4 +1,5 @@
-name: Sync TLD data
+name: Refresh TLD data
+description: Refresh TLD data powering dotcom.press/tld-wiki daily from https://github.com/case/iana-data
 
 on:
   schedule:
