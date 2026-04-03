@@ -84,7 +84,9 @@ li:has(.question) {
   background: transparent;
   border: 0.5px solid #ddd;
   color: black;
-  transition: background 2s ease, color 2s ease;
+  transition:
+    background 2s ease,
+    color 2s ease;
   cursor: pointer;
 
   &:hover {
@@ -123,6 +125,17 @@ li:has(.question) {
 
   &[data-starting-style] {
     transform: translate(-50%, -25%);
+  }
+
+  a,
+  button {
+    &:focus-visible {
+      outline-style: dotted;
+      outline-offset: 1px;
+      outline-color: black;
+      background: black;
+      color: white;
+    }
   }
 }
 
