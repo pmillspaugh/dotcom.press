@@ -73,7 +73,7 @@ export default function TldWiki() {
     setOpen(false);
     setSelected(null);
     router.replace(pathname);
-  }, [tldParam, pathname, router]);
+  }, [tldParam, pathname, router, tlds]);
 
   const handleOpenChange = useCallback(
     (next: boolean) => {
