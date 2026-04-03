@@ -13,10 +13,10 @@ export default function Footer() {
           <Link href="/archive">ARCHIVE</Link>
         </li>
         <li>
-          <Link href="/research">RESEARCH</Link>
+          <Link href="/tld-wiki">WIKI</Link>
         </li>
         <li>
-          <Link href="/shop">SHOP</Link>
+          <Link href="/research">RESEARCH</Link>
         </li>
         <li>
           <Plant />
