@@ -146,7 +146,7 @@ const Info = ({ tlds }: { tlds: TLD[] }) => {
             and add your two cents. The data is refreshed daily from{" "}
             <a href="https://github.com/case/iana-data">case/iana-data</a>, and
             the backend API and database are{" "}
-            <a href="https://www.val.town/x/petermillspaugh/tld-wiki">
+            <a href="https://www.val.town/x/pmillspaugh/tld-wiki">
               powered by Val Town
             </a>
             .
