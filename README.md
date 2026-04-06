@@ -4,7 +4,7 @@ Dot Com Press is a book publisher designed for the internet age, and [dotcom.pre
 
 ## dot com et al.
 
-_dot com et al._ explores the history, economics, and artistry of domains. I expect to publish it sometime in 2026, and it will be available in many forms: print, web, ebook, audiobook, email newsletter, podcast, etc.
+_dot com et al._ explores the history, economics, and artistry of domains. I expect to publish it sometime in 2027, and it will be available in many forms: print, web, ebook, audiobook, email newsletter, podcast, etc.
 
 ## Technologies
 
@@ -31,3 +31,9 @@ This web app uses [Next.js](https://nextjs.org) with the app router.
 ### CSS modules
 
 This app is styled using vanilla CSS via CSS modules.
+
+## Data
+
+### TLD wiki
+
+The TLD wiki at [dotcom.press/tld-wiki](https://dotcom.press/tld-wiki) uses IANA data refreshed daily from Eric Case's [iana-data](https://github.com/case/iana-data) repo.

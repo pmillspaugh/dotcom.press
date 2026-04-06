@@ -34,12 +34,14 @@ li:has(.logo) {
   object-fit: cover;
 }
 
-li:has(.question) {
+li:has(.question),
+li:has(.filters) {
   display: flex;
   justify-content: center;
 }
 
-.question {
+.question,
+.filters {
   width: 100%;
   padding: 0 12px;
   background: transparent;
@@ -62,6 +64,43 @@ li:has(.question) {
 
 .what {
   margin-block: unset;
+}
+
+.filterControls {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+
+  & label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    font-size: 0.75rem;
+  }
+
+  & select {
+    border: 1px solid #ddd;
+    padding: 2px 4px;
+    background: white;
+  }
+}
+
+.filterReset {
+  width: fit-content;
+  margin-top: 0.5rem;
+  border: 1px solid black;
+  background: black;
+  color: white;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  cursor: pointer;
+
+  &:hover {
+    background: #ddd;
+    color: black;
+    border-color: #ddd;
+  }
 }
 
 .desc {
