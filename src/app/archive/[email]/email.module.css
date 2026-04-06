@@ -41,7 +41,7 @@
   width: 100%;
 }
 
-.email .content > p:first-of-type::first-letter {
+.email .content > p:first-child::first-letter {
   font-size: 3.5em;
   font-weight: bold;
   float: left;
