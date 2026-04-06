@@ -1,5 +1,6 @@
 export type TLD = {
   tld: string; // e.g. "ing" (no leading dot)
+  tld_iso?: string; // ISO 3166-1 alpha-2 country code for ccTLD/IDN variants
   iana_tag: string; // e.g. "generic" or "country-code"
   delegated: boolean;
   orgs?: { tld_manager?: string };

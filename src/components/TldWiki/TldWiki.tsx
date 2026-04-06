@@ -78,9 +78,17 @@ export default function TldWiki() {
     const countryName = selected?.annotations?.country_name_iso;
     if (!countryName) return null;
 
-    const countryCode = selected?.tld ?? "";
+    // Flag emojis require an ISO 3166-1 alpha-2 code. Prefer the derived
+    // dataset field, but fall back to the raw TLD for standard two-letter ccTLDs.
+    const countryCode = (
+      selected?.tld_iso ??
+      selected?.tld ??
+      ""
+    ).toUpperCase();
+    const isIsoAlpha2 = /^[A-Z]{2}$/.test(countryCode);
+    if (!isIsoAlpha2) return countryName;
+
     const codePoints = countryCode
-      .toUpperCase()
       .split("")
       .map((char: string) => 127397 + char.charCodeAt(0));
     const flag = String.fromCodePoint(...codePoints);
