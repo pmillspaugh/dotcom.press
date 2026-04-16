@@ -1,21 +1,12 @@
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Signup from "@/components/Signup";
-import { readdir } from "fs/promises";
-import matter from "gray-matter";
 import Link from "next/link";
-import path from "path";
+import { getArchiveMetadata } from "./archive.helper";
 import styles from "./archive.module.css";
 
 export default async function Archive() {
-  const dir = path.join(process.cwd(), "src/app/archive/_archive");
-  const archive = (await readdir(dir))
-    .map((email) => {
-      const file = path.join(dir, email);
-      const { subject, subtitle, date } = matter.read(file).data;
-      return { email, subject, subtitle, date };
-    })
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const archive = await getArchiveMetadata();
 
   return (
     <div className={styles.archive} data-pagefind-ignore>
@@ -23,8 +14,9 @@ export default async function Archive() {
       <main className={styles.main}>
         <h1 className={styles.h1}>Archive</h1>
         <p>
-          Past emails from the Dot Com Press mailing list are filed here. Sign
-          up to read about the world of internet domains.
+          Dot Com Press email newsletters past are filed here (and via{" "}
+          <Link href="/archive/rss.xml">RSS</Link>). Subscribe to read about the
+          world of internet domains.
         </p>
         <Signup />
         <p className={styles.info}>
@@ -33,9 +25,9 @@ export default async function Archive() {
         </p>
         <p className={styles.divider}>***</p>
         <ul className={styles.ul}>
-          {archive.map(({ email, subject, subtitle, date }) => (
-            <li key={email} className={styles.li}>
-              <Link href={`/archive/${email.replace(/\.md$/, "")}`}>
+          {archive.map(({ slug, subject, subtitle, date }) => (
+            <li key={slug} className={styles.li}>
+              <Link href={`/archive/${slug}`}>
                 <h2>{subject}</h2>
                 <p>{subtitle}</p>
                 <time dateTime={new Date(date).toISOString()}>
