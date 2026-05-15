@@ -11,6 +11,7 @@ const commitMono = CommitMono({
 });
 
 const crimsonPro = Crimson_Pro({
+  subsets: ["latin"],
   variable: "--crimson-pro",
 });
 
