@@ -3,7 +3,7 @@
   margin-inline: auto;
   margin-block: 4rem;
   padding-inline: 1rem;
-  font-family: var(--newsreader);
+  font-family: var(--crimson-pro);
 
   & time {
     font-family: var(--commit-mono);

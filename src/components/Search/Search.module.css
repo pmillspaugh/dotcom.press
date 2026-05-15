@@ -112,13 +112,13 @@
 
 .results > li > a > h2 {
   margin: 0;
-  font-family: var(--newsreader);
+  font-family: var(--crimson-pro);
   font-size: 1.25rem;
 }
 
 .results > li > a > p {
   margin: 0;
-  font-family: var(--newsreader);
+  font-family: var(--crimson-pro);
 }
 
 .results > li > a > p > mark {

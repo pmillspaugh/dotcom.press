@@ -6,13 +6,13 @@
   padding-right: calc(64px + var(--toc-offset));
 
   h2 {
-    font-family: var(--newsreader);
+    font-family: var(--crimson-pro);
   }
 
   blockquote {
     padding-left: 1rem;
     border-left: 1px solid #555;
-    font-family: var(--newsreader);
+    font-family: var(--crimson-pro);
     font-style: italic;
     font-size: 1.15rem;
     color: #555;
@@ -27,7 +27,7 @@
 
 .h1 {
   margin-top: 0;
-  font-family: var(--newsreader);
+  font-family: var(--crimson-pro);
   font-size: 4rem;
   line-height: 1.1;
 }

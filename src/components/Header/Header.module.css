@@ -6,26 +6,8 @@
 }
 
 header > .logo {
-  flex-shrink: 0;
-}
-
-.blocks {
-  display: flex;
-  align-items: center;
-  gap: 1px;
-  flex: 1;
-  min-width: 0;
-}
-
-.block {
-  flex-shrink: 0;
-  height: 48px;
-  width: 24px;
-  border-block: 1px solid #fff;
-  /* border-radius: 2px; */
-}
-
-header > .tagline {
-  margin: 0;
-  text-wrap: balanced;
+  border: 2px solid black;
+  border-radius: 2px;
+  padding: 2px;
+  transform: translate(-5px, -5px);
 }
