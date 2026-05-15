@@ -8,12 +8,13 @@
   margin: auto;
   padding: 24px;
   max-width: 650px;
-  font-family: var(--newsreader);
+  font-family: var(--crimson-pro);
 }
 
 .email h1 {
   font-size: 3rem;
   line-height: 1.2;
+  margin-top: 0;
   margin-bottom: 8px;
 }
 
@@ -42,12 +43,20 @@
 }
 
 .email .content > p:first-child::first-letter {
-  font-size: 3.5em;
+  font-size: 5em;
   font-weight: bold;
   float: left;
-  line-height: 0.7;
-  margin-right: 0.1em;
-  margin-top: 0.2em;
+  line-height: 0.5;
+  margin-left: -0.05em;
+  margin-right: 0.05em;
+  margin-top: 0em;
+}
+
+.email h2 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin-top: 0.5em;
+  margin-bottom: 0;
 }
 
 .email blockquote {

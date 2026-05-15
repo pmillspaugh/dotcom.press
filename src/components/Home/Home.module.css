@@ -16,7 +16,7 @@
 }
 
 .h1 > span:first-child {
-  font-family: var(--newsreader);
+  font-family: var(--crimson-pro);
   font-size: 4rem;
   line-height: 1.2;
 }

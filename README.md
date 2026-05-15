@@ -20,9 +20,9 @@ I used [Val Town](https://val.town) to set up a custom email signup, verificatio
 
 Search is available thanks to [Pagefind](https://pagefind.app). I wrote a [tutorial on setting up Pagefind with Next.js](https://petemillspaugh.com/nextjs-search-with-pagefind), which covers both the pages and app routers.
 
-### Commit Mono & Newsreader
+### Commit Mono & Crimson Pro
 
-The monospace text you see on `dotcom.press` is set in [Commit Mono](https://commitmono.com). Not only do I love this typeface (I use it in my editor), but its website is amazing. I also use [Newsreader](https://productiontype.com/font/newsreader) as the site's serif font.
+The monospace text you see on `dotcom.press` is set in [Commit Mono](https://commitmono.com). Not only do I love this typeface (I use it in my editor), but its website is amazing. I also use [Crimson Pro](https://github.com/Fonthausen/CrimsonPro) as the site’s serif font.
 
 ### Next.js
 
@@ -36,4 +36,4 @@ This app is styled using vanilla CSS via CSS modules.
 
 ### TLD wiki
 
-The TLD wiki at [dotcom.press/tld-wiki](https://dotcom.press/tld-wiki) uses IANA data refreshed daily from Eric Case's [iana-data](https://github.com/case/iana-data) repo.
+The TLD wiki at [dotcom.press/tld-wiki](https://dotcom.press/tld-wiki) uses IANA data refreshed daily from Eric Case’s [iana-data](https://github.com/case/iana-data) repo.

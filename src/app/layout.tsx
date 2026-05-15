@@ -1,7 +1,7 @@
 import Search from "@/components/Search";
 import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
-import { Newsreader } from "next/font/google";
+import { Crimson_Pro } from "next/font/google";
 import CommitMono from "next/font/local";
 import "./globals.css";
 
@@ -10,9 +10,9 @@ const commitMono = CommitMono({
   variable: "--commit-mono",
 });
 
-const newsreader = Newsreader({
+const crimsonPro = Crimson_Pro({
   subsets: ["latin"],
-  variable: "--newsreader",
+  variable: "--crimson-pro",
 });
 
 export const metadata: Metadata = {
@@ -26,7 +26,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${commitMono.variable} ${newsreader.variable}`}>
+    <html lang="en" className={`${commitMono.variable} ${crimsonPro.variable}`}>
       <body>
         {/* Nest components in root so that portals render atop stack */}
         {/* https://base-ui.com/react/overview/quick-start#set-up-portals */}

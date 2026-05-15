@@ -11,7 +11,7 @@
 }
 
 .h1 {
-  font-family: var(--newsreader);
+  font-family: var(--crimson-pro);
   font-size: 3rem;
 }
 
@@ -44,22 +44,23 @@
 
 .li h2 {
   margin-bottom: unset;
-  margin-left: -2px;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-weight: 700;
-  font-family: var(--newsreader);
+  font-family: var(--crimson-pro);
   text-decoration: none;
 }
 
 .li p {
   margin-top: 0;
-  margin-bottom: 8px;
-  margin-left: -2px;
+  margin-bottom: 4px;
+  font-family: var(--crimson-pro);
+  font-size: 1.25rem;
   font-style: italic;
   line-height: 1.4;
 }
 
 .li time {
+  margin-left: 2px;
   color: #555;
   font-size: 0.875rem;
 }
