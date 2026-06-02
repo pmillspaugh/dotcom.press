@@ -38,7 +38,7 @@ export const TldGrid = memo(function TldGrid({ tlds, onSelect }: TldGridProps) {
       Array.from(
         new Set(
           tlds
-            .map((tld) => tld.orgs?.tld_manager?.trim())
+            .map((tld) => tld.orgs?.icann?.registry_operator?.trim())
             .filter((value): value is string => Boolean(value)),
         ),
       ).sort((a, b) => a.localeCompare(b)),
@@ -56,7 +56,7 @@ export const TldGrid = memo(function TldGrid({ tlds, onSelect }: TldGridProps) {
             : delegatedFilter === "delegated"
               ? tld.delegated
               : !tld.delegated;
-        const manager = tld.orgs?.tld_manager?.trim();
+        const manager = tld.orgs?.icann?.registry_operator?.trim();
         const matchesManager =
           managerFilter === "all" ? true : manager === managerFilter;
 

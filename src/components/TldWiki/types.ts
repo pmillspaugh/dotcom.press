@@ -3,7 +3,7 @@ export type TLD = {
   tld_iso?: string; // ISO 3166-1 alpha-2 country code for ccTLD/IDN variants
   iana_tag: string; // e.g. "generic" or "country-code"
   delegated: boolean;
-  orgs?: { tld_manager?: string };
+  orgs?: { icann?: { registry_operator?: string } };
   annotations?: { country_name_iso?: string };
 };
 

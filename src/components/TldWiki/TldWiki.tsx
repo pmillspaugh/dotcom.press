@@ -134,7 +134,7 @@ export default function TldWiki() {
             </Dialog.Title>
             <Dialog.Description className={styles.description}>
               {country && <span>{country}</span>}
-              <span>{selected?.orgs?.tld_manager}</span>
+              <span>{selected?.orgs?.icann?.registry_operator}</span>
               <a href={`https://icannwiki.org/.${selected?.tld}`}>
                 icannwiki.org/.{selected?.tld}
               </a>
