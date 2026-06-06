@@ -33,17 +33,16 @@ export const TldGrid = memo(function TldGrid({ tlds, onSelect }: TldGridProps) {
     [tlds],
   );
 
-  const managerOptions = useMemo(
-    () =>
-      Array.from(
-        new Set(
-          tlds
-            .map((tld) => tld.orgs?.icann?.registry_operator?.trim())
-            .filter((value): value is string => Boolean(value)),
-        ),
-      ).sort((a, b) => a.localeCompare(b)),
-    [tlds],
-  );
+  const managerOptions = useMemo(() => {
+    const counts = new Map<string, number>();
+    tlds.forEach((tld) => {
+      const op = tld.orgs?.icann?.registry_operator?.trim();
+      if (op) counts.set(op, (counts.get(op) ?? 0) + 1);
+    });
+    return Array.from(counts.entries())
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => b.count - a.count);
+  }, [tlds]);
 
   const filteredTlds = useMemo(
     () =>
@@ -172,7 +171,7 @@ type FiltersProps = {
   delegatedFilter: string;
   managerFilter: string;
   typeOptions: string[];
-  managerOptions: string[];
+  managerOptions: { name: string; count: number }[];
   onTypeChange: (e: ChangeEvent<HTMLSelectElement>) => void;
   onDelegatedChange: (e: ChangeEvent<HTMLSelectElement>) => void;
   onManagerChange: (e: ChangeEvent<HTMLSelectElement>) => void;
@@ -233,9 +232,9 @@ const Filters = ({
               Registry (TLD manager)
               <select value={managerFilter} onChange={onManagerChange}>
                 <option value="all">All</option>
-                {managerOptions.map((manager) => (
-                  <option key={manager} value={manager}>
-                    {manager}
+                {managerOptions.map(({ name, count }) => (
+                  <option key={name} value={name}>
+                    {name} ({count})
                   </option>
                 ))}
               </select>
