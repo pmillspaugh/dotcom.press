@@ -14,7 +14,7 @@ export default function Signup() {
     setPending(true);
 
     try {
-      const path = `https://dotcom.val.run/signup?email=${email}`;
+      const path = `https://dotcom.val.run/signup?email=${encodeURIComponent(email)}`;
       const body = new FormData();
       body.append("email", email);
 
