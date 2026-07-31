@@ -1,6 +1,6 @@
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import { readdir } from "fs/promises";
+import { access, readdir } from "fs/promises";
 import matter from "gray-matter";
 import { marked } from "marked";
 import Link from "next/link";
@@ -24,6 +24,13 @@ export default async function Email({
     day: "numeric",
   });
 
+  const hasAudio = await access(
+    path.join(process.cwd(), "public", `${slug}.m4a`),
+  ).then(
+    () => true,
+    () => false,
+  );
+
   return (
     <div className={styles.archive}>
       <Header />
@@ -35,7 +42,7 @@ export default async function Email({
           sign up for future ones ahead of the <em>dot com et al</em> book
           launch.{" "}
         </article>
-        <audio controls src={`/${slug}.m4a`} />
+        {hasAudio && <audio controls src={`/${slug}.m4a`} />}
         <div
           dangerouslySetInnerHTML={{ __html: html }}
           className={styles.content}
