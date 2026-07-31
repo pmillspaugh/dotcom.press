@@ -1,5 +1,5 @@
-import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import Header from "@/components/Header";
 import styles from "./Verify.module.css";
 
 interface VerifyProps {
@@ -79,8 +79,8 @@ const Invalid = ({ reason }: { reason: string }) => {
 
 async function verify(email: string, token: string) {
   const response = await fetch(
-    `https://dotcom.val.run/verify?email=${email}&token=${token}`,
-    { method: "POST" }
+    `https://dotcom.val.run/verify?email=${encodeURIComponent(email)}&token=${encodeURIComponent(token)}`,
+    { method: "POST" },
   );
   const data = await response.json();
 
