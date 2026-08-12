@@ -151,12 +151,12 @@ const Info = ({ tlds }: { tlds: TLD[] }) => {
             .
           </Dialog.Description>
           <p className={styles.desc}>
-            This is a research project for the upcoming book,{" "}
+            This is a research project for my upcoming book,{" "}
             <Link href="/">dot com et al: the secret life of domains</Link>
             .{" "}
           </p>
           <p className={styles.desc}>
-            Email <a href="hello@dotcom.press">hello@dotcom.press</a> with
+            Email <a href="mailto:hello@dotcom.press">hello@dotcom.press</a> with
             questions or feedback.
           </p>
           <Dialog.Close className={styles.close}>CLOSE</Dialog.Close>
