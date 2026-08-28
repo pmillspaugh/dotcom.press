@@ -11,25 +11,29 @@
   font-family: var(--crimson-pro);
 }
 
-.email h1 {
-  font-size: 3rem;
-  line-height: 1.2;
-  margin-top: 0;
-  margin-bottom: 8px;
-}
-
 .email time {
   font-family: var(--commit-mono);
-  font-size: 0.8rem;
+  font-size: calc(14 / 16 * 1rem);
   text-transform: uppercase;
-  padding-inline: 4px;
+  color: #555;
+}
+
+.email h1 {
+  font-size: 3rem;
+  line-height: 1.1;
+  margin-top: 0;
+}
+
+.email .subtitle {
+  font-size: calc(20 / 16 * 1rem);
+  font-style: italic;
+  text-wrap: pretty;
 }
 
 .email article {
-  margin-top: 16px;
-  margin-bottom: 32px;
+  margin-top: 28px;
   padding: 12px 16px;
-  border: 2px solid black;
+  border: 2px inset black;
   border-radius: 2px;
   background-image: repeating-linear-gradient(#eee 0% 2%, #fff 2% 4%);
   background-size: 20px 20px;
@@ -38,17 +42,24 @@
   font-size: 0.8rem;
 }
 
+.email .signup {
+  display: flex;
+  font-family: var(--commit-mono);
+  margin-top: -4px;
+  margin-bottom: 32px;
+}
+
 .email audio {
   width: 100%;
 }
 
 .email .content > p:first-child::first-letter {
-  font-size: 5em;
+  font-size: 4em;
   font-weight: bold;
   float: left;
-  line-height: 0.5;
-  margin-left: -0.05em;
-  margin-right: 0.05em;
+  line-height: 0.7;
+  margin-left: 0em;
+  margin-right: 0.1em;
   margin-top: 0em;
 }
 
@@ -88,16 +99,11 @@
 }
 
 .email hr {
-  border: none;
-  border-top: 2px solid #ccc;
-  height: 8px;
+  border-style: solid;
+  border-color: #ccc;
 }
 
 @media (min-width: 768px) {
-  .email article {
-    margin-inline: -12px;
-  }
-
   .email p,
   .email ul,
   .email ol {
@@ -115,7 +121,6 @@
 
   .email blockquote p,
   .email code,
-  .email time,
   .email article {
     font-size: 1rem;
   }

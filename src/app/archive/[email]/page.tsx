@@ -1,5 +1,6 @@
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import Signup from "@/components/Signup";
 import { access, readdir } from "fs/promises";
 import matter from "gray-matter";
 import { marked } from "marked";
@@ -35,18 +36,22 @@ export default async function Email({
     <div className={styles.archive}>
       <Header />
       <main className={styles.email}>
-        <h1>{subject}</h1>
         <time dateTime={new Date(date).toISOString()}>{formattedDate}</time>
-        <article>
-          Visit the <Link href="/archive">archive</Link> to read past emails and
-          sign up for future ones ahead of the <em>dot com et al</em> book
-          launch.{" "}
-        </article>
+        <h1>{subject}</h1>
         {hasAudio && <audio controls src={`/${slug}.m4a`} />}
         <div
           dangerouslySetInnerHTML={{ __html: html }}
           className={styles.content}
         />
+        <hr />
+        <article>
+          Read past newsletters in the <Link href="/archive">archive</Link> and
+          sign up for future ones below, if you’d like. You’ll get an email
+          every month(ish) until the book comes out.
+        </article>
+        <div className={styles.signup}>
+          <Signup />
+        </div>
       </main>
       <Footer />
     </div>

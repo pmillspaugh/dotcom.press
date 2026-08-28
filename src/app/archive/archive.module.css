@@ -15,18 +15,15 @@
   font-size: 3rem;
 }
 
-.info {
-  margin-top: 32px;
-}
-
-.divider {
-  text-align: center;
-  margin-top: 2rem;
+.signup {
+  display: flex;
+  margin-top: -16px;
+  margin-bottom: 32px;
 }
 
 .ul {
   padding-left: unset;
-  margin-top: 40px;
+  margin-top: 32px;
   list-style: none;
 }
 

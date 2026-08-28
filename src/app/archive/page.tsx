@@ -14,16 +14,14 @@ export default async function Archive() {
       <main className={styles.main}>
         <h1 className={styles.h1}>Archive</h1>
         <p>
-          Dot Com Press email newsletters past are filed here (and via{" "}
+          Dot Com Press email newsletters are filed here (and via{" "}
           <Link href="/archive/rss.xml">RSS</Link>). Subscribe to read about the
-          world of internet domains.
+          world of internet domains (about one email per month).
         </p>
-        <Signup />
-        <p className={styles.info}>
-          You'll get an email every couple weeks, and you can unsubscribe
-          anytime (no hard feelings).
-        </p>
-        <p className={styles.divider}>***</p>
+        <div className={styles.signup}>
+          <Signup />
+        </div>
+        <p>***</p>
         <ul className={styles.ul}>
           {archive.map(({ slug, subject, subtitle, date }) => (
             <li key={slug} className={styles.li}>
