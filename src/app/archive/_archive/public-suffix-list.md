@@ -1,7 +1,7 @@
 ---
 subject: The Public Suffix List is “just a list”
 subtitle: A rather important piece of internet infrastructure in a plain text list
-date: 8/28/2026
+date: 8/31/2026
 ---
 
 A couple weeks ago, [Sam](https://samwho.dev/) asked me how much I knew about the Public Suffix List. Many people have asked me this when they hear I’m writing a book about domains. To date my answer has been: not much.
