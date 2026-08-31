@@ -39,4 +39,5 @@
   background-image: repeating-linear-gradient(#eee 0% 2%, #fff 2% 4%);
   background-size: 20px 20px;
   opacity: 0.9;
+  font-size: 1rem;
 }
