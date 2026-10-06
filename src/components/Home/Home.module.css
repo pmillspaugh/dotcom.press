@@ -5,7 +5,7 @@
 }
 
 .main {
-  max-width: 800px;
+  max-width: 700px;
   margin: auto;
   padding: 24px;
 }
@@ -18,7 +18,7 @@
 .h1 > span:first-child {
   font-family: var(--crimson-pro);
   font-size: 4rem;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 .h1 > span:last-child {
@@ -32,8 +32,8 @@
   font-size: 0.875rem;
 }
 
-.p {
-  font-size: 0.875rem;
+.main > p:not(:first-child) {
+  /* font-family: var(--crimson-pro); */
 }
 
 .code {
