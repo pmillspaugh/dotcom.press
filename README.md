@@ -37,3 +37,5 @@ This app is styled using vanilla CSS via CSS modules.
 ### TLD wiki
 
 The TLD wiki at [dotcom.press/tld-wiki](https://dotcom.press/tld-wiki) uses IANA data refreshed daily from Eric Case’s [iana-data](https://github.com/case/iana-data) repo.
+
+The wiki backend is deployed separately on Cloudflare (API in a Worker, D1 SQLite database). Its source code is public in the [tld-wiki](https://github.com/pmillspaugh/tld-wiki) repo on GitHub.
