@@ -142,13 +142,9 @@ const Info = ({ tlds }: { tlds: TLD[] }) => {
             <Link href="/archive/1592-tlds">
               {tlds.length.toLocaleString()} TLDs
             </Link>{" "}
-            and add your two cents. The data is refreshed daily from{" "}
-            <a href="https://github.com/case/iana-data">case/iana-data</a>, and
-            the backend API and database are{" "}
-            <a href="https://www.val.town/x/pmillspaugh/tld-wiki">
-              powered by Val Town
-            </a>
-            .
+            and add your two cents. The data comes from IANA's root zone
+            database via Eric Case's
+            <a href="https://github.com/case/iana-data">case/iana-data</a> repo.
           </Dialog.Description>
           <p className={styles.desc}>
             This is a research project for my upcoming book,{" "}
@@ -156,8 +152,8 @@ const Info = ({ tlds }: { tlds: TLD[] }) => {
             .{" "}
           </p>
           <p className={styles.desc}>
-            Email <a href="mailto:hello@dotcom.press">hello@dotcom.press</a> with
-            questions or feedback.
+            Email <a href="mailto:hello@dotcom.press">hello@dotcom.press</a>{" "}
+            with questions or feedback.
           </p>
           <Dialog.Close className={styles.close}>CLOSE</Dialog.Close>
         </Dialog.Popup>

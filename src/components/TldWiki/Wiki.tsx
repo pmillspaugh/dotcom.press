@@ -2,11 +2,16 @@
 
 import { Accordion } from "@base-ui-components/react/accordion";
 import { VisuallyHidden } from "@radix-ui/react-visually-hidden";
-import { useEffect, useState } from "react";
 import type { FormEvent } from "react";
+import { useEffect, useState } from "react";
 import { ArrowIcon, HoleIcon, PlusIcon } from "./icons";
 import styles from "./TLDWiki.module.css";
 import type { TLD, WikiEntry } from "./types";
+
+const apiUrl = (
+  process.env.NEXT_PUBLIC_TLD_WIKI_API_URL ??
+  "https://tld-wiki.peterdgmillspaugh.workers.dev"
+).replace(/\/$/, "");
 
 type WikiProps = {
   tld: TLD;
@@ -21,7 +26,9 @@ export function Wiki({ tld }: WikiProps) {
       // setError(null);
 
       try {
-        const response = await fetch(`https://tld-wiki.val.run/tld/.${tld.tld}`);
+        const response = await fetch(
+          `${apiUrl}/tld/.${encodeURIComponent(tld.tld)}`,
+        );
 
         if (!response.ok) {
           throw new Error("Failed to fetch entries");
@@ -48,7 +55,7 @@ export function Wiki({ tld }: WikiProps) {
     formData.append("tld", `.${tld.tld}`);
 
     try {
-      const response = await fetch("https://tld-wiki.val.run/submit", {
+      const response = await fetch(`${apiUrl}/submit`, {
         method: "POST",
         body: formData,
       });
