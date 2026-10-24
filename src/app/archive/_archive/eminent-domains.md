@@ -24,11 +24,11 @@ A couple years later, Jerman-Blažič (I’ll call here BJB from here on out) c
 
 > Just as Vint Cerf is considered the father of the internet, one could say I am the mother of the internet in Yugoslavia, the mother of this domain.
 
-In the meantime, though, Slovenia and Croatia had declared independence from Yugoslavia (June of ’91). BJB reported in an interview ten years ago<sup>1</sup> that Slovenia’s internet connection is how word spread of the conflict, leading to UN sanctions against Serbia, which in turn cut off Serbia's communications around Europe, leaving its people in the dark. At one point bombing by Yugoslav army fighter planes in Slovenia also took down Slovenia's email and phone lines.
+In the meantime, though, Slovenia and Croatia had declared independence from Yugoslavia (June of ’91). BJB reported in an interview ten years ago<sup>1</sup> that Slovenia’s internet connection is how word spread of the conflict, leading to UN sanctions against Serbia, which in turn cut off Serbia’s communications around Europe, leaving its people in the dark. At one point bombing by Yugoslav army fighter planes in Slovenia also took down Slovenia’s email and phone lines.
 
 After declaring independence, Slovenia got approval for `.si`, but before it went live they got impatient. On a Sunday in July ’92, **a group of Slovenian scientists broke into BJB’s lab, stole the `.yu` domain records, and cut her line to the network with scissors<sup>2</sup>**. It took BJB several months to regain access to the internet (which puts my experience last Friday into perspective when I was miffed that Spectrum was down for a few hours).
 
-I’ll save the full story—and related ones, like the Soviet Union's vestigial dark corner of the web, `.su`—for the book, but to speedrun the rest of `.yu`’s splintering and ultimate silence:
+I’ll save the full story—and related ones, like the Soviet Union’s vestigial dark corner of the web, `.su`—for the book, but to speedrun the rest of `.yu`’s splintering and ultimate silence:
 
 1.  1994: Serbia (then the _Federal Republic of Yugoslavia_ with Montenegro) gets back online by recouping `.yu`
 1.  2002: Serbia and Montenegro stop using the name Yugoslavia

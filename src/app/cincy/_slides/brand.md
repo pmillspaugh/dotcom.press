@@ -13,6 +13,6 @@ title: Brand
 
 Seen on Reddit:
 
-> I don't know if I'd ever bank with a bank that has a .co domain name...
+> I don’t know if I’d ever bank with a bank that has a .co domain name...
 
 ## The radio test

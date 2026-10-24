@@ -41,7 +41,7 @@ Does OP “have any options for protecting this and getting it back?” The shor
 
 This risk has bitten domain owners many times before: with `.ly` domains from Libya, `.af` domains from Afghanistan, `.sy` domains from Syria, and so on. Another commenter suggested lawyering up, but the more-upvoted response tells us that OP is SOL.
 
-> Registrar here. CcTLDs are subject to the law of the respective country. You’d need to take legal action in that country against its government. OP would be looking at $100k minimum for a snowflake's chance in hell.
+> Registrar here. CcTLDs are subject to the law of the respective country. You’d need to take legal action in that country against its government. OP would be looking at $100k minimum for a snowflake’s chance in hell.
 
 Porkbun ended up issuing a refund and a $100 credit for the registrant’s troubles. Porkbun is a fan favorite registrar among developer friends I talk to, and this email adds a point in their favor as a trustworthy registrar. Or many points:
 

@@ -2,18 +2,18 @@
 
 Interviews, books, articles, blogs, documentaries, podcasts, specs etc. form the foundation of _dot com et al_.
 
-I've listed some burning questions just below that keep resurfacing in my head. If you have thoughts on those, or any domain stories, opinions, resources, or even questions to share please email [hello@dotcom.press](mailto:hello@dotcom.press).
+I’ve listed some burning questions just below that keep resurfacing in my head. If you have thoughts on those, or any domain stories, opinions, resources, or even questions to share please email [hello@dotcom.press](mailto:hello@dotcom.press).
 
 ## Burning questions
 
 1. How important is dot com (versus alternative TLDs) now and into the future?
 1. Is free market domain investing fair? (Or should there have been rules against domaining for purely financial gain)
-1. Is it a problem that ICANN's biggest financial backer is Verisign? Does ICANN have other incentive problems?
+1. Is it a problem that ICANN’s biggest financial backer is Verisign? Does ICANN have other incentive problems?
 1. Why did Google really sell Google Domains?
 
 ## Interviews
 
-I'm interviewing lots of people for the book, so I may publish a list of who all I interviewed (with permission, of course).
+I’m interviewing lots of people for the book, so I may publish a list of who all I interviewed (with permission, of course).
 
 ## Books<sup>1</sup>
 
@@ -55,7 +55,7 @@ I'm interviewing lots of people for the book, so I may publish a list of who all
 - [Domain name nerve center](https://podcasts.apple.com/us/podcast/domain-name-wire-podcast/id934519368?i=1000723314228), DNW Podcast 549
 - [Catching up with Dynadot](https://podcasts.apple.com/us/podcast/domain-name-wire-podcast/id934519368?i=1000722526884), DNW Podcast 548
 - [Real domain sales results in 2025](https://podcasts.apple.com/us/podcast/domain-name-wire-podcast/id934519368?i=1000721523596), DNW Podcast 547
-- [This year's top domain sales (so far)](https://podcasts.apple.com/us/podcast/domain-name-wire-podcast/id934519368), DNW Podcast 546
+- [This year’s top domain sales (so far)](https://podcasts.apple.com/us/podcast/domain-name-wire-podcast/id934519368), DNW Podcast 546
 - [AI is changing the domain business](https://podcasts.apple.com/us/podcast/domain-name-wire-podcast/id934519368?i=1000719510257), DNW Podcast 545
 - [Domain investing on a small budget](https://podcasts.apple.com/us/podcast/domain-name-wire-podcast/id934519368), DNW podcast 544
 - [ICANN82 Recap](https://podcasts.apple.com/us/podcast/domain-name-wire-podcast/id934519368?i=1000699519816), DNW Podcast 526
@@ -69,7 +69,7 @@ I'm interviewing lots of people for the book, so I may publish a list of who all
 - [A Call for .Com-petition - Reining in Verisign’s Monopoly Over The Internet’s Most Popular Top Level Domain](https://economicliberties.us/wp-content/uploads/2024/07/2024-7-25-Verisign-Policy-Brief-Final.pdf)
 - [AI ‘Friend’ Company Spent $1.8 Million and Most of Its Funds on Domain Name](https://www.404media.co/ai-friend-company-spent-1-8-million-and-most-its-funds-on-domain-name)
 - [AI-Powered Creation is Redefining the Web — and the Domain Industry With It](https://techstrong.ai/features/ai-powered-creation-is-redefining-the-web-and-the-domain-industry-with-it/)
-- [Amazon is celebrating its 25th birthday. Here's how the e-commerce giant got its name.](https://www.businessinsider.com/amazon-jeff-bezos-chose-company-name-2018-5)
+- [Amazon is celebrating its 25th birthday. Here’s how the e-commerce giant got its name.](https://www.businessinsider.com/amazon-jeff-bezos-chose-company-name-2018-5)
 - [Battle of the Domain Investors - $500, 1 Year, Who Wins?](https://mi.ke/challenge)
 - [Billions Registered](https://www.wired.com/1994/10/mcdonalds/), Josh Quittner
 - [Buying a domain for $85K](https://jmduke.com/posts/post/buttondown-dot-com/), Justin Duke
@@ -97,7 +97,7 @@ I'm interviewing lots of people for the book, so I may publish a list of who all
 - [Removal of the .YU domain formerly representing Yugoslavia](https://www.iana.org/reports/2010/yu-report-01apr2010.html)
 - [Renewing Verisign’s Contract Would Hike Domain Name Prices at 2X Inflation Rate, New Economic Liberties Paper Reveals](https://www.economicliberties.us/press-release/renewing-verisigns-contract-would-hike-domain-name-prices-at-2x-inflation-rate-new-economic-liberties-paper-reveals)
 - [Setting the Record Straight – Myths vs. Facts about .com](https://blog.verisign.com/domain-names/myths-vs-facts-about-dot-com)
-- [Taliban Shuts Down 'queer.af' Domain, Breaking Mastodon Instance](https://www.404media.co/taliban-shuts-down-queer-af-domain-breaking-mastodon-instance)
+- [Taliban Shuts Down ’queer.af’ Domain, Breaking Mastodon Instance](https://www.404media.co/taliban-shuts-down-queer-af-domain-breaking-mastodon-instance)
 - [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain), Gareth Edwards
 - [The ‘queer.af’ Mastodon instance disappeared because of the Taliban](https://www.theverge.com/2024/2/12/24071036/queer-af-mastodon-taliban-shut-down-afghanistan)
 - [The creator of WordPress on why .blog was worth $19 million](https://venturebeat.com/media/the-creator-of-wordpress-on-why-blog-was-worth-19-million/)
@@ -114,7 +114,7 @@ I'm interviewing lots of people for the book, so I may publish a list of who all
 - [What’s the Best Domain Extension for Startups? .com vs .org vs .ai vs .io vs .co vs .xyz](https://www.snagged.com/post/whats-the-best-domain-extension-for-startups-com-vs-org-vs-ai-vs-io-vs-co-vs-xyz)
 - [Whitehouse.com for sale as owner gives up porno biz](https://www.newspapers.com/article/the-commercial-appeal/181462703)
 - [Why Business Must Take The Lead In Protecting The Global Internet](http://techcrunch.com/2015/01/11/is-mark-zuckerberg-taking-the-internet-for-granted-are-you)
-- [Yugoslavia's Digital Twin](https://www.thedial.world/articles/news/issue-9/yugolsav-wars-yu-domain-history-icann)
+- [Yugoslavia’s Digital Twin](https://www.thedial.world/articles/news/issue-9/yugolsav-wars-yu-domain-history-icann)
 
 ## Reddit threads, forums, etc.
 
@@ -122,7 +122,7 @@ I'm interviewing lots of people for the book, so I may publish a list of who all
 
 ## Publishing resources
 
-I also read and listened to a stack of resources on publishing. If you are a first time author, Jane Friedman's book is the place to start.
+I also read and listened to a stack of resources on publishing. If you are a first time author, Jane Friedman’s book is the place to start.
 
 - [The Business of Being a Writer](https://bookshop.org/a/115276/9780226838656), Jane Friedman
 - [Crafting "Crafting Interpreters"](https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters), Bob Nystrom
@@ -132,11 +132,11 @@ I also read and listened to a stack of resources on publishing. If you are a fir
 - [The publishing world is changing. Jane Friedman tells us how](https://podcasts.apple.com/us/podcast/grammar-girl-quick-and-dirty-tips-for-better-writing/id173429229?i=1000710421615), Grammar Girl
 - [Blog Your Way to a Book Deal of Bestseller with Jane Friedman](https://podcasts.apple.com/us/podcast/published-by-greenleaf-book-group/id1229367946?i=1000666747193), Published
 - [Be A Non-Fiction Author with Jane Friedman](https://podcasts.apple.com/us/podcast/the-ultimate-fun-jobs-podcast/id1712235041?i=1000705824496), UFJ Podcast
-- [Is Print-on-Demand a Class Issue? with Jane Friedman](https://podcasts.apple.com/us/podcast/a-peoples-guide-to-publishing/id1020819314?i=1000701097978), A People's Guide to Publishing
+- [Is Print-on-Demand a Class Issue? with Jane Friedman](https://podcasts.apple.com/us/podcast/a-peoples-guide-to-publishing/id1020819314?i=1000701097978), A People’s Guide to Publishing
 - [Jane Friedman: The Work of a Writer-Entrepreneur](https://podcasts.apple.com/us/podcast/simply-write-w-polly-campbell/id1649373973?i=1000700558662), Simply Write
 - [Jane Friedman — The Publishing Industry is Changing](https://podcasts.apple.com/us/podcast/london-writers-salon/id1618617760?i=1000710786641)
 - [How successful self-publishers share their excerpts](https://buttondown.com/blog/excerpts)
 
 ## The fine print
 
-_(1) Books include Bookshop.org affiliate links, so if you buy one I'll earn a 10% commission on the profit (but regardless of my affiliation, Bookshop.org is a terrific Amazon alternative and way to support independent bookstores)._
+_(1) Books include Bookshop.org affiliate links, so if you buy one I’ll earn a 10% commission on the profit (but regardless of my affiliation, Bookshop.org is a terrific Amazon alternative and way to support independent bookstores)._
