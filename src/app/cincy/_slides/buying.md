@@ -18,7 +18,7 @@ Be cautious (the Wayback Machine is your friend).
 
 ## Brokers
 
-If you're spending five figures, it's wise to use a broker.
+If you’re spending five figures, it’s wise to use a broker.
 
 ## Payment
 

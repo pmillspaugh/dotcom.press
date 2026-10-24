@@ -50,7 +50,7 @@ So this is—supposed to be, at least—a lifetime investment, unlike registries
 
 > We’re not a tech start-up looking for an exit. We’re not a corporation looking for profit margins. We’re a mission-driven organisation intent on building infrastructure that takes care of its own community.
 
-As a registrant, a Joe Schmoe or a Pete or an Emilia, we can only ever renew a domain for 10 years maximum. It's the asterisk on “owning” your domain, because at the end of the day you are still beholden to and trusting the registry (safer than trusting a walled garden social media platform for your web presence, but still not 100% in your control). I can't be sure that Radix will still operate this `.press` domain a decade from now or whether they will have “exited” by selling the porfolio to another registry who'll hike up prices or neglect stability (but in fairness, that buyer could be an even more trustworthy steward). So I think it means something that dotMeow is at least pledging to run `.meow` forever. If their application succeeds...
+As a registrant, a Joe Schmoe or a Pete or an Emilia, we can only ever renew a domain for 10 years maximum. It’s the asterisk on “owning” your domain, because at the end of the day you are still beholden to and trusting the registry (safer than trusting a walled garden social media platform for your web presence, but still not 100% in your control). I can’t be sure that Radix will still operate this `.press` domain a decade from now or whether they will have “exited” by selling the porfolio to another registry who’ll hike up prices or neglect stability (but in fairness, that buyer could be an even more trustworthy steward). So I think it means something that dotMeow is at least pledging to run `.meow` forever. If their application succeeds...
 
 ## Game theory
 
@@ -58,7 +58,7 @@ I gather that it’s unusual for a registry to announce application plans ahead 
 
 > We’re confident there’s demand, it is part of why we’re running this Kickstarter is so we can demonstrate that interest already exists to potential registrar partners.
 
-`.meow` is a “Community” gTLD in ICANN jargon, meaning it’s supposed to be “operated for the benefit of a clearly delineated community.” That means if other businesses apply for the string, dotMeow can move to the front of the line with a “Community Priority Evaluation” (which costs another $50-80k conditional fee, discounted by dotMeow's financial aid). The only way they’d lose if they pull this lever is to another Community applicant.
+`.meow` is a “Community” gTLD in ICANN jargon, meaning it’s supposed to be “operated for the benefit of a clearly delineated community.” That means if other businesses apply for the string, dotMeow can move to the front of the line with a “Community Priority Evaluation” (which costs another $50-80k conditional fee, discounted by dotMeow’s financial aid). The only way they’d lose if they pull this lever is to another Community applicant.
 
 So in all likelihood, soon you’ll be able to spin around several times before nesting down on your own `.meow` domain.
 

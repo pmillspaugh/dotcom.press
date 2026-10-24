@@ -1,6 +1,6 @@
 ---
 subject: You can’t spell Anguilla without AI
-subtitle: AI's economic impact on Anguilla is second to none, but why should the rest of the world care?
+subtitle: AI’s economic impact on Anguilla is second to none, but why should the rest of the world care?
 date: 10/14/25
 ---
 
